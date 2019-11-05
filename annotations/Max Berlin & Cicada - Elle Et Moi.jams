@@ -1,0 +1,211 @@
+{
+  "annotations": [
+    {
+      "annotation_metadata": {
+        "curator": {
+          "name": "",
+          "email": ""
+        },
+        "annotator": {
+          "name": "Jakob"
+        },
+        "version": "",
+        "corpus": "",
+        "annotation_tools": "",
+        "annotation_rules": "",
+        "validation": "",
+        "data_source": ""
+      },
+      "namespace": "cue_point",
+      "data": [
+        {
+          "time": 0.0,
+          "duration": 0.0,
+          "value": {
+            "label": "IN",
+            "comment": "in"
+          },
+          "confidence": null
+        },
+        {
+          "time": 18.8,
+          "duration": 0.0,
+          "value": {
+            "label": "IN",
+            "comment": "in"
+          },
+          "confidence": null
+        },
+        {
+          "time": 37.7,
+          "duration": 0.0,
+          "value": {
+            "label": "IN",
+            "comment": "in"
+          },
+          "confidence": null
+        },
+        {
+          "time": 75.4,
+          "duration": 0.0,
+          "value": {
+            "label": "OUT",
+            "comment": "out"
+          },
+          "confidence": null
+        },
+        {
+          "time": 188.6,
+          "duration": 0.0,
+          "value": {
+            "label": "OUT",
+            "comment": "out"
+          },
+          "confidence": null
+        },
+        {
+          "time": 377.2,
+          "duration": 0.0,
+          "value": {
+            "label": "OUT",
+            "comment": "out"
+          },
+          "confidence": null
+        }
+      ],
+      "sandbox": {},
+      "time": 0,
+      "duration": null
+    },
+    {
+      "annotation_metadata": {
+        "curator": {
+          "name": "",
+          "email": ""
+        },
+        "annotator": {
+          "name": "Marco"
+        },
+        "version": "",
+        "corpus": "",
+        "annotation_tools": "",
+        "annotation_rules": "",
+        "validation": "",
+        "data_source": ""
+      },
+      "namespace": "cue_point",
+      "data": [
+        {
+          "time": 18.9,
+          "duration": 0.0,
+          "value": {
+            "label": "IN",
+            "comment": "in"
+          },
+          "confidence": null
+        },
+        {
+          "time": 75.5,
+          "duration": 9.400000000000006,
+          "value": {
+            "label": "OUT",
+            "comment": "out"
+          },
+          "confidence": null
+        },
+        {
+          "time": 188.6,
+          "duration": 18.900000000000006,
+          "value": {
+            "label": "OUT",
+            "comment": "out"
+          },
+          "confidence": null
+        },
+        {
+          "time": 377.3,
+          "duration": 27.388979591836744,
+          "value": {
+            "label": "OUT",
+            "comment": "out"
+          },
+          "confidence": null
+        }
+      ],
+      "sandbox": {},
+      "time": 0,
+      "duration": null
+    },
+    {
+      "annotation_metadata": {
+        "curator": {
+          "name": "",
+          "email": ""
+        },
+        "annotator": {
+          "name": "Paolo"
+        },
+        "version": "",
+        "corpus": "",
+        "annotation_tools": "",
+        "annotation_rules": "",
+        "validation": "",
+        "data_source": ""
+      },
+      "namespace": "cue_point",
+      "data": [
+        {
+          "time": 18.9,
+          "duration": 0.0,
+          "value": {
+            "label": "IN",
+            "comment": "IN"
+          },
+          "confidence": null
+        },
+        {
+          "time": 37.8,
+          "duration": 0.0,
+          "value": {
+            "label": "IN",
+            "comment": "IN"
+          },
+          "confidence": null
+        },
+        {
+          "time": 188.7,
+          "duration": 18.900000000000006,
+          "value": {
+            "label": "OUT",
+            "comment": "OUT"
+          },
+          "confidence": null
+        },
+        {
+          "time": 301.9,
+          "duration": 18.80000000000001,
+          "value": {
+            "label": "OUT",
+            "comment": "OUT"
+          },
+          "confidence": null
+        }
+      ],
+      "sandbox": {},
+      "time": 0,
+      "duration": null
+    }
+  ],
+  "file_metadata": {
+    "title": "Elle Et Moi",
+    "artist": "Max Berlin & Cicada",
+    "release": "2003",
+    "duration": 404.68897959183676,
+    "identifiers": {
+      "mirrors": [],
+      "isVinyl": false
+    },
+    "jams_version": "0.3.3"
+  },
+  "sandbox": {}
+}

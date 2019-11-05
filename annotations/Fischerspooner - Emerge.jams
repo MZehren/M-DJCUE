@@ -1,0 +1,209 @@
+{
+  "annotations": [
+    {
+      "annotation_metadata": {
+        "curator": {
+          "name": "",
+          "email": ""
+        },
+        "annotator": {
+          "name": "Jakob"
+        },
+        "version": "",
+        "corpus": "",
+        "annotation_tools": "",
+        "annotation_rules": "",
+        "validation": "",
+        "data_source": ""
+      },
+      "namespace": "cue_point",
+      "data": [
+        {
+          "time": 0.1,
+          "duration": 0.0,
+          "value": {
+            "label": "IN",
+            "comment": "in"
+          },
+          "confidence": null
+        },
+        {
+          "time": 48.7,
+          "duration": 0.0,
+          "value": {
+            "label": "IN",
+            "comment": "in"
+          },
+          "confidence": null
+        },
+        {
+          "time": 64.9,
+          "duration": 0.0,
+          "value": {
+            "label": "IN",
+            "comment": "in"
+          },
+          "confidence": null
+        },
+        {
+          "time": 168.8,
+          "duration": 0.0,
+          "value": {
+            "label": "OUT",
+            "comment": "out"
+          },
+          "confidence": null
+        },
+        {
+          "time": 279.4,
+          "duration": 0.0,
+          "value": {
+            "label": "OUT",
+            "comment": "out"
+          },
+          "confidence": null
+        }
+      ],
+      "sandbox": {},
+      "time": 0,
+      "duration": null
+    },
+    {
+      "annotation_metadata": {
+        "curator": {
+          "name": "",
+          "email": ""
+        },
+        "annotator": {
+          "name": "Marco"
+        },
+        "version": "",
+        "corpus": "",
+        "annotation_tools": "",
+        "annotation_rules": "",
+        "validation": "",
+        "data_source": ""
+      },
+      "namespace": "cue_point",
+      "data": [
+        {
+          "time": 78.0,
+          "duration": 0.0,
+          "value": {
+            "label": "IN",
+            "comment": "in"
+          },
+          "confidence": null
+        },
+        {
+          "time": 104.0,
+          "duration": 12.900000000000006,
+          "value": {
+            "label": "OUT",
+            "comment": "out"
+          },
+          "confidence": null
+        },
+        {
+          "time": 168.9,
+          "duration": 6.299999999999983,
+          "value": {
+            "label": "OUT",
+            "comment": "out"
+          },
+          "confidence": null
+        },
+        {
+          "time": 279.1,
+          "duration": 7.437142857142817,
+          "value": {
+            "label": "OUT",
+            "comment": "out"
+          },
+          "confidence": null
+        }
+      ],
+      "sandbox": {},
+      "time": 0,
+      "duration": null
+    },
+    {
+      "annotation_metadata": {
+        "curator": {
+          "name": "",
+          "email": ""
+        },
+        "annotator": {
+          "name": "Paolo"
+        },
+        "version": "",
+        "corpus": "",
+        "annotation_tools": "",
+        "annotation_rules": "",
+        "validation": "",
+        "data_source": ""
+      },
+      "namespace": "cue_point",
+      "data": [
+        {
+          "time": 48.8,
+          "duration": 0.0,
+          "value": {
+            "label": "IN",
+            "comment": "IN"
+          },
+          "confidence": null
+        },
+        {
+          "time": 65.0,
+          "duration": 0.0,
+          "value": {
+            "label": "IN",
+            "comment": "IN"
+          },
+          "confidence": null
+        },
+        {
+          "time": 90.9,
+          "duration": 0.0,
+          "value": {
+            "label": "IN",
+            "comment": "IN"
+          },
+          "confidence": null
+        },
+        {
+          "time": 168.8,
+          "duration": 45.39999999999998,
+          "value": {
+            "label": "OUT",
+            "comment": "OUT"
+          },
+          "confidence": null
+        }
+      ],
+      "sandbox": {},
+      "time": 0,
+      "duration": null
+    }
+  ],
+  "file_metadata": {
+    "title": "Emerge",
+    "artist": "Fischerspooner",
+    "release": "2000",
+    "duration": 286.53714285714284,
+    "identifiers": {
+      "mirrors": [
+        {
+          "type": "Youtube",
+          "url": "https://www.youtube.com/watch?v=217CdX7Z2tM",
+          "offset": -0.694,
+          "playbackSpeed": 1
+        }
+      ],
+      "isVinyl": false
+    },
+    "jams_version": "0.3.3"
+  },
+  "sandbox": {}
+}

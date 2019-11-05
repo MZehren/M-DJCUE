@@ -1,0 +1,200 @@
+{
+  "annotations": [
+    {
+      "annotation_metadata": {
+        "curator": {
+          "name": "",
+          "email": ""
+        },
+        "annotator": {
+          "name": "Mickael"
+        },
+        "version": "",
+        "corpus": "",
+        "annotation_tools": "",
+        "annotation_rules": "",
+        "validation": "",
+        "data_source": ""
+      },
+      "namespace": "cue_point",
+      "data": [
+        {
+          "time": 9.7,
+          "duration": 0.0,
+          "value": {
+            "label": "IN",
+            "comment": "in: keyboard"
+          },
+          "confidence": null
+        },
+        {
+          "time": 17.8,
+          "duration": 0.0,
+          "value": {
+            "label": "IN",
+            "comment": "in: voice"
+          },
+          "confidence": null
+        },
+        {
+          "time": 25.8,
+          "duration": 0.0,
+          "value": {
+            "label": "IN",
+            "comment": "in: Bass"
+          },
+          "confidence": null
+        },
+        {
+          "time": 33.8,
+          "duration": 0.0,
+          "value": {
+            "label": "IN",
+            "comment": "in: chorus"
+          },
+          "confidence": null
+        },
+        {
+          "time": 394.8,
+          "duration": 0.0,
+          "value": {
+            "label": "OUT",
+            "comment": "out"
+          },
+          "confidence": null
+        }
+      ],
+      "sandbox": {},
+      "time": 0,
+      "duration": null
+    },
+    {
+      "annotation_metadata": {
+        "curator": {
+          "name": "",
+          "email": ""
+        },
+        "annotator": {
+          "name": "Marco"
+        },
+        "version": "",
+        "corpus": "",
+        "annotation_tools": "",
+        "annotation_rules": "",
+        "validation": "",
+        "data_source": ""
+      },
+      "namespace": "cue_point",
+      "data": [
+        {
+          "time": 25.773,
+          "duration": 0.0,
+          "value": {
+            "label": "IN",
+            "comment": "in: I would wait until here when the synth bass comes in"
+          },
+          "confidence": null
+        },
+        {
+          "time": 33.803,
+          "duration": 0.0,
+          "value": {
+            "label": "IN",
+            "comment": "in: maybe better here where the solo voice comes in"
+          },
+          "confidence": null
+        },
+        {
+          "time": 347.186,
+          "duration": 0.0,
+          "value": {
+            "label": "OUT",
+            "comment": "out:  actually I have no idea when to cue out this, or here or at the very end"
+          },
+          "confidence": null
+        }
+      ],
+      "sandbox": {},
+      "time": 0,
+      "duration": null
+    },
+    {
+      "annotation_metadata": {
+        "curator": {
+          "name": "",
+          "email": ""
+        },
+        "annotator": {
+          "name": "Paolo"
+        },
+        "version": "",
+        "corpus": "",
+        "annotation_tools": "",
+        "annotation_rules": "",
+        "validation": "",
+        "data_source": ""
+      },
+      "namespace": "cue_point",
+      "data": [
+        {
+          "time": 9.7,
+          "duration": 0.0,
+          "value": {
+            "label": "IN",
+            "comment": "in: piano"
+          },
+          "confidence": null
+        },
+        {
+          "time": 25.8,
+          "duration": 0.0,
+          "value": {
+            "label": "IN",
+            "comment": "in: bass"
+          },
+          "confidence": null
+        },
+        {
+          "time": 33.8,
+          "duration": 0.0,
+          "value": {
+            "label": "IN",
+            "comment": "in: main"
+          },
+          "confidence": null
+        },
+        {
+          "time": 346.7,
+          "duration": 40.10000000000002,
+          "value": {
+            "label": "OUT",
+            "comment": "out"
+          },
+          "confidence": null
+        }
+      ],
+      "sandbox": {},
+      "time": 0,
+      "duration": null
+    }
+  ],
+  "file_metadata": {
+    "title": "It's All Right (House Mix)",
+    "artist": "Sterling Void",
+    "release": "1988",
+    "duration": 415.1118367346939,
+    "identifiers": {
+      "mirrors": [
+        {
+          "type": "Youtube",
+          "url": "https://www.youtube.com/watch?v=ArXtZ478nQI",
+          "offset": -1.207,
+          "playbackSpeed": 0.994425
+        }
+      ],
+      "isVinyl": true
+    },
+    "jams_version": "0.3.3"
+  },
+  "sandbox": {}
+}

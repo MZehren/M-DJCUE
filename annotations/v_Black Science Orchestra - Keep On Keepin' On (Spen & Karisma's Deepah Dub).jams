@@ -1,0 +1,193 @@
+{
+  "annotations": [
+    {
+      "annotation_metadata": {
+        "curator": {
+          "name": "",
+          "email": ""
+        },
+        "annotator": {
+          "name": "Marco"
+        },
+        "version": "",
+        "corpus": "",
+        "annotation_tools": "",
+        "annotation_rules": "",
+        "validation": "",
+        "data_source": ""
+      },
+      "namespace": "cue_point",
+      "data": [
+        {
+          "time": 1.0,
+          "duration": 0.0,
+          "value": {
+            "label": "IN",
+            "comment": "in"
+          },
+          "confidence": null
+        },
+        {
+          "time": 101.7,
+          "duration": 0.0,
+          "value": {
+            "label": "IN",
+            "comment": "in: (-rhytmic section, + guitar, +clap)"
+          },
+          "confidence": null
+        },
+        {
+          "time": 117.2,
+          "duration": 0.0,
+          "value": {
+            "label": "IN",
+            "comment": "in: (+bass)"
+          },
+          "confidence": null
+        },
+        {
+          "time": 132.7,
+          "duration": 0.0,
+          "value": {
+            "label": "IN",
+            "comment": "in: (+rhythmic section)"
+          },
+          "confidence": null
+        },
+        {
+          "time": 334.2,
+          "duration": 46.400000000000034,
+          "value": {
+            "label": "OUT",
+            "comment": "out"
+          },
+          "confidence": null
+        },
+        {
+          "time": 396.1,
+          "duration": 52.553061224489795,
+          "value": {
+            "label": "OUT",
+            "comment": "out"
+          },
+          "confidence": null
+        },
+        {
+          "time": 411.6,
+          "duration": 37.053061224489795,
+          "value": {
+            "label": "OUT",
+            "comment": "out"
+          },
+          "confidence": null
+        }
+      ],
+      "sandbox": {},
+      "time": 0,
+      "duration": null
+    },
+    {
+      "annotation_metadata": {
+        "curator": {
+          "name": "",
+          "email": ""
+        },
+        "annotator": {
+          "name": "Paolo"
+        },
+        "version": "",
+        "corpus": "",
+        "annotation_tools": "",
+        "annotation_rules": "",
+        "validation": "",
+        "data_source": ""
+      },
+      "namespace": "cue_point",
+      "data": [
+        {
+          "time": 101.6,
+          "duration": 0.0,
+          "value": {
+            "label": "IN",
+            "comment": "in"
+          },
+          "confidence": null
+        },
+        {
+          "time": 396.2,
+          "duration": 52.45306122448983,
+          "value": {
+            "label": "OUT",
+            "comment": "out"
+          },
+          "confidence": null
+        }
+      ],
+      "sandbox": {},
+      "time": 0,
+      "duration": null
+    },
+    {
+      "annotation_metadata": {
+        "curator": {
+          "name": "",
+          "email": ""
+        },
+        "annotator": {
+          "name": "Mickael"
+        },
+        "version": "",
+        "corpus": "",
+        "annotation_tools": "",
+        "annotation_rules": "",
+        "validation": "",
+        "data_source": ""
+      },
+      "namespace": "cue_point",
+      "data": [
+        {
+          "time": 117.2,
+          "duration": 0.0,
+          "value": {
+            "label": "IN",
+            "comment": "in"
+          },
+          "confidence": null
+        },
+        {
+          "time": 132.7,
+          "duration": 0.0,
+          "value": {
+            "label": "IN",
+            "comment": "in"
+          },
+          "confidence": null
+        },
+        {
+          "time": 334.0,
+          "duration": 114.65306122448982,
+          "value": {
+            "label": "OUT",
+            "comment": "out"
+          },
+          "confidence": null
+        }
+      ],
+      "sandbox": {},
+      "time": 0,
+      "duration": null
+    }
+  ],
+  "file_metadata": {
+    "title": "Keep On Keepin' On (Spen & Karisma's Deepah Dub)",
+    "artist": "Black Science Orchestra",
+    "release": "1999",
+    "duration": 448.6530612244898,
+    "identifiers": {
+      "mirrors": [],
+      "isVinyl": true
+    },
+    "jams_version": "0.3.3"
+  },
+  "sandbox": {}
+}

@@ -1,0 +1,157 @@
+{
+  "annotations": [
+    {
+      "annotation_metadata": {
+        "curator": {
+          "name": "",
+          "email": ""
+        },
+        "annotator": {
+          "name": "Paolo"
+        },
+        "version": "",
+        "corpus": "",
+        "annotation_tools": "",
+        "annotation_rules": "",
+        "validation": "",
+        "data_source": ""
+      },
+      "namespace": "cue_point",
+      "data": [
+        {
+          "time": 68.6,
+          "duration": 0.0,
+          "value": {
+            "label": "IN",
+            "comment": "in"
+          },
+          "confidence": null
+        },
+        {
+          "time": 68.6,
+          "duration": 200.51346938775512,
+          "value": {
+            "label": "OUT",
+            "comment": "out"
+          },
+          "confidence": null
+        }
+      ],
+      "sandbox": {},
+      "time": 0,
+      "duration": null
+    },
+    {
+      "annotation_metadata": {
+        "curator": {
+          "name": "",
+          "email": ""
+        },
+        "annotator": {
+          "name": "Marco"
+        },
+        "version": "",
+        "corpus": "",
+        "annotation_tools": "",
+        "annotation_rules": "",
+        "validation": "",
+        "data_source": ""
+      },
+      "namespace": "cue_point",
+      "data": [
+        {
+          "time": 68.645,
+          "duration": 0.0,
+          "value": {
+            "label": "IN",
+            "comment": "in"
+          },
+          "confidence": null
+        },
+        {
+          "time": 84.431,
+          "duration": 0.0,
+          "value": {
+            "label": "IN",
+            "comment": "in, claps in"
+          },
+          "confidence": null
+        },
+        {
+          "time": 171.424,
+          "duration": 18.754999999999995,
+          "value": {
+            "label": "OUT",
+            "comment": "out until 03:10.179, before the woosh starts"
+          },
+          "confidence": null
+        }
+      ],
+      "sandbox": {},
+      "time": 0,
+      "duration": null
+    },
+    {
+      "annotation_metadata": {
+        "curator": {
+          "name": "",
+          "email": ""
+        },
+        "annotator": {
+          "name": "Mickael"
+        },
+        "version": "",
+        "corpus": "",
+        "annotation_tools": "",
+        "annotation_rules": "",
+        "validation": "",
+        "data_source": ""
+      },
+      "namespace": "cue_point",
+      "data": [
+        {
+          "time": 68.7,
+          "duration": 0.0,
+          "value": {
+            "label": "IN",
+            "comment": "in: main"
+          },
+          "confidence": null
+        },
+        {
+          "time": 131.9,
+          "duration": 15.799999999999983,
+          "value": {
+            "label": "OUT",
+            "comment": "out"
+          },
+          "confidence": null
+        },
+        {
+          "time": 171.5,
+          "duration": 0.0,
+          "value": {
+            "label": "OUT",
+            "comment": "out: start outro"
+          },
+          "confidence": null
+        }
+      ],
+      "sandbox": {},
+      "time": 0,
+      "duration": null
+    }
+  ],
+  "file_metadata": {
+    "title": "Lemon (Momo Beats)",
+    "artist": "U2",
+    "release": "1993",
+    "duration": 269.1134693877551,
+    "identifiers": {
+      "mirrors": [],
+      "isVinyl": true
+    },
+    "jams_version": "0.3.3"
+  },
+  "sandbox": {}
+}

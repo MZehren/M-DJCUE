@@ -1,0 +1,254 @@
+{
+  "annotations": [
+    {
+      "annotation_metadata": {
+        "curator": {
+          "name": "",
+          "email": ""
+        },
+        "annotator": {
+          "name": "Marco"
+        },
+        "version": "",
+        "corpus": "",
+        "annotation_tools": "",
+        "annotation_rules": "",
+        "validation": "",
+        "data_source": ""
+      },
+      "namespace": "cue_point",
+      "data": [
+        {
+          "time": 1.0,
+          "duration": 0.0,
+          "value": {
+            "label": "IN",
+            "comment": "in"
+          },
+          "confidence": null
+        },
+        {
+          "time": 47.1,
+          "duration": 0.0,
+          "value": {
+            "label": "IN",
+            "comment": "in: (different harmony, +voice, different texture)"
+          },
+          "confidence": null
+        },
+        {
+          "time": 62.4,
+          "duration": 0.0,
+          "value": {
+            "label": "IN",
+            "comment": "in: (+bass, -voice)"
+          },
+          "confidence": null
+        },
+        {
+          "time": 77.8,
+          "duration": 0.0,
+          "value": {
+            "label": "IN",
+            "comment": "in: (+voice, +perc)"
+          },
+          "confidence": null
+        },
+        {
+          "time": 169.9,
+          "duration": 0.0,
+          "value": {
+            "label": "OUT",
+            "comment": "out"
+          },
+          "confidence": null
+        },
+        {
+          "time": 231.4,
+          "duration": 7.599999999999994,
+          "value": {
+            "label": "OUT",
+            "comment": "out"
+          },
+          "confidence": null
+        },
+        {
+          "time": 308.1,
+          "duration": 30.799999999999955,
+          "value": {
+            "label": "OUT",
+            "comment": "out"
+          },
+          "confidence": null
+        },
+        {
+          "time": 323.5,
+          "duration": 15.399999999999977,
+          "value": {
+            "label": "OUT",
+            "comment": "out"
+          },
+          "confidence": null
+        }
+      ],
+      "sandbox": {},
+      "time": 0,
+      "duration": null
+    },
+    {
+      "annotation_metadata": {
+        "curator": {
+          "name": "",
+          "email": ""
+        },
+        "annotator": {
+          "name": "Paolo"
+        },
+        "version": "",
+        "corpus": "",
+        "annotation_tools": "",
+        "annotation_rules": "",
+        "validation": "",
+        "data_source": ""
+      },
+      "namespace": "cue_point",
+      "data": [
+        {
+          "time": 0.9,
+          "duration": 0.0,
+          "value": {
+            "label": "IN",
+            "comment": "in"
+          },
+          "confidence": null
+        },
+        {
+          "time": 47.1,
+          "duration": 0.0,
+          "value": {
+            "label": "IN",
+            "comment": "in"
+          },
+          "confidence": null
+        },
+        {
+          "time": 323.5,
+          "duration": 15.399999999999977,
+          "value": {
+            "label": "OUT",
+            "comment": "out"
+          },
+          "confidence": null
+        }
+      ],
+      "sandbox": {},
+      "time": 0,
+      "duration": null
+    },
+    {
+      "annotation_metadata": {
+        "curator": {
+          "name": "",
+          "email": ""
+        },
+        "annotator": {
+          "name": "Mickael"
+        },
+        "version": "",
+        "corpus": "",
+        "annotation_tools": "",
+        "annotation_rules": "",
+        "validation": "",
+        "data_source": ""
+      },
+      "namespace": "cue_point",
+      "data": [
+        {
+          "time": 1.0,
+          "duration": 0.0,
+          "value": {
+            "label": "IN",
+            "comment": "in"
+          },
+          "confidence": null
+        },
+        {
+          "time": 16.4,
+          "duration": 0.0,
+          "value": {
+            "label": "IN",
+            "comment": "in"
+          },
+          "confidence": null
+        },
+        {
+          "time": 47.1,
+          "duration": 0.0,
+          "value": {
+            "label": "IN",
+            "comment": "in"
+          },
+          "confidence": null
+        },
+        {
+          "time": 77.8,
+          "duration": 0.0,
+          "value": {
+            "label": "IN",
+            "comment": "in: main"
+          },
+          "confidence": null
+        },
+        {
+          "time": 169.9,
+          "duration": 15.400000000000006,
+          "value": {
+            "label": "OUT",
+            "comment": "out"
+          },
+          "confidence": null
+        },
+        {
+          "time": 231.4,
+          "duration": 15.299999999999983,
+          "value": {
+            "label": "OUT",
+            "comment": "out"
+          },
+          "confidence": null
+        },
+        {
+          "time": 323.5,
+          "duration": 15.399999999999977,
+          "value": {
+            "label": "OUT",
+            "comment": "out"
+          },
+          "confidence": null
+        }
+      ],
+      "sandbox": {},
+      "time": 0,
+      "duration": null
+    }
+  ],
+  "file_metadata": {
+    "title": "Bring Me Love (Dub Original Mix)",
+    "artist": "Andrea Mendez",
+    "release": "1995",
+    "duration": 411.68979591836734,
+    "identifiers": {
+      "mirrors": [
+        {
+          "type": "Youtube",
+          "url": "https://www.youtube.com/watch?v=GaXuLa0IEH4",
+          "offset": -0.66,
+          "playbackSpeed": 1.000121
+        }
+      ],
+      "isVinyl": true
+    },
+    "jams_version": "0.3.3"
+  },
+  "sandbox": {}
+}

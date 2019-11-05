@@ -1,0 +1,238 @@
+{
+  "annotations": [
+    {
+      "annotation_metadata": {
+        "curator": {
+          "name": "",
+          "email": ""
+        },
+        "annotator": {
+          "name": "Paolo"
+        },
+        "version": "",
+        "corpus": "",
+        "annotation_tools": "",
+        "annotation_rules": "",
+        "validation": "",
+        "data_source": ""
+      },
+      "namespace": "cue_point",
+      "data": [
+        {
+          "time": 33.3,
+          "duration": 0.0,
+          "value": {
+            "label": "IN",
+            "comment": "in"
+          },
+          "confidence": null
+        },
+        {
+          "time": 127.1,
+          "duration": 0.0,
+          "value": {
+            "label": "IN",
+            "comment": "in"
+          },
+          "confidence": null
+        },
+        {
+          "time": 283.4,
+          "duration": 46.900000000000034,
+          "value": {
+            "label": "OUT",
+            "comment": "out"
+          },
+          "confidence": null
+        }
+      ],
+      "sandbox": {},
+      "time": 0,
+      "duration": null
+    },
+    {
+      "annotation_metadata": {
+        "curator": {
+          "name": "",
+          "email": ""
+        },
+        "annotator": {
+          "name": "Marco"
+        },
+        "version": "",
+        "corpus": "",
+        "annotation_tools": "",
+        "annotation_rules": "",
+        "validation": "",
+        "data_source": ""
+      },
+      "namespace": "cue_point",
+      "data": [
+        {
+          "time": 33.3,
+          "duration": 0.0,
+          "value": {
+            "label": "IN",
+            "comment": "in"
+          },
+          "confidence": null
+        },
+        {
+          "time": 64.5,
+          "duration": 0.0,
+          "value": {
+            "label": "IN",
+            "comment": "in"
+          },
+          "confidence": null
+        },
+        {
+          "time": 80.2,
+          "duration": 0.0,
+          "value": {
+            "label": "IN",
+            "comment": "in"
+          },
+          "confidence": null
+        },
+        {
+          "time": 127.1,
+          "duration": 0.0,
+          "value": {
+            "label": "IN",
+            "comment": "in, bass"
+          },
+          "confidence": null
+        },
+        {
+          "time": 228.7,
+          "duration": 23.444000000000017,
+          "value": {
+            "label": "OUT",
+            "comment": "out"
+          },
+          "confidence": null
+        },
+        {
+          "time": 392.9,
+          "duration": 19.390612244897966,
+          "value": {
+            "label": "OUT",
+            "comment": "out until the end (we should think to specify even here until where)"
+          },
+          "confidence": null
+        }
+      ],
+      "sandbox": {},
+      "time": 0,
+      "duration": null
+    },
+    {
+      "annotation_metadata": {
+        "curator": {
+          "name": "",
+          "email": ""
+        },
+        "annotator": {
+          "name": "Mickael"
+        },
+        "version": "",
+        "corpus": "",
+        "annotation_tools": "",
+        "annotation_rules": "",
+        "validation": "",
+        "data_source": ""
+      },
+      "namespace": "cue_point",
+      "data": [
+        {
+          "time": 33.3,
+          "duration": 0.0,
+          "value": {
+            "label": "IN",
+            "comment": "in"
+          },
+          "confidence": null
+        },
+        {
+          "time": 64.6,
+          "duration": 0.0,
+          "value": {
+            "label": "IN",
+            "comment": "in: some drums added"
+          },
+          "confidence": null
+        },
+        {
+          "time": 80.2,
+          "duration": 0.0,
+          "value": {
+            "label": "IN",
+            "comment": "in: some fx"
+          },
+          "confidence": null
+        },
+        {
+          "time": 111.4,
+          "duration": 0.0,
+          "value": {
+            "label": "IN",
+            "comment": "in: hihat"
+          },
+          "confidence": null
+        },
+        {
+          "time": 127.1,
+          "duration": 0.0,
+          "value": {
+            "label": "IN",
+            "comment": "in: main part with bass"
+          },
+          "confidence": null
+        },
+        {
+          "time": 189.6,
+          "duration": 15.599999999999994,
+          "value": {
+            "label": "OUT",
+            "comment": "out: breakdown with bass"
+          },
+          "confidence": null
+        },
+        {
+          "time": 228.7,
+          "duration": 23.400000000000006,
+          "value": {
+            "label": "OUT",
+            "comment": "out: breakdown with a fail on the second beat"
+          },
+          "confidence": null
+        },
+        {
+          "time": 385.0,
+          "duration": 27.290612244897943,
+          "value": {
+            "label": "OUT",
+            "comment": "out: outro"
+          },
+          "confidence": null
+        }
+      ],
+      "sandbox": {},
+      "time": 0,
+      "duration": null
+    }
+  ],
+  "file_metadata": {
+    "title": "Sing A Song (MAW's Instrumental)",
+    "artist": "Carolyn Harding & Damon Horton",
+    "release": "1995",
+    "duration": 412.29061224489794,
+    "identifiers": {
+      "mirrors": [],
+      "isVinyl": false
+    },
+    "jams_version": "0.3.3"
+  },
+  "sandbox": {}
+}

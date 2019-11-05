@@ -1,0 +1,191 @@
+{
+  "annotations": [
+    {
+      "annotation_metadata": {
+        "curator": {
+          "name": "",
+          "email": ""
+        },
+        "annotator": {
+          "name": "Paolo"
+        },
+        "version": "",
+        "corpus": "",
+        "annotation_tools": "",
+        "annotation_rules": "",
+        "validation": "",
+        "data_source": ""
+      },
+      "namespace": "cue_point",
+      "data": [
+        {
+          "time": 3.3,
+          "duration": 0.0,
+          "value": {
+            "label": "IN",
+            "comment": "in"
+          },
+          "confidence": null
+        },
+        {
+          "time": 22.6,
+          "duration": 0.0,
+          "value": {
+            "label": "IN",
+            "comment": "in"
+          },
+          "confidence": null
+        },
+        {
+          "time": 158.2,
+          "duration": 18.400000000000006,
+          "value": {
+            "label": "OUT",
+            "comment": "out"
+          },
+          "confidence": null
+        },
+        {
+          "time": 293.7,
+          "duration": 20.370204081632664,
+          "value": {
+            "label": "OUT",
+            "comment": "out"
+          },
+          "confidence": null
+        }
+      ],
+      "sandbox": {},
+      "time": 0,
+      "duration": null
+    },
+    {
+      "annotation_metadata": {
+        "curator": {
+          "name": "",
+          "email": ""
+        },
+        "annotator": {
+          "name": "Marco"
+        },
+        "version": "",
+        "corpus": "",
+        "annotation_tools": "",
+        "annotation_rules": "",
+        "validation": "",
+        "data_source": ""
+      },
+      "namespace": "cue_point",
+      "data": [
+        {
+          "time": 3.2,
+          "duration": 0.0,
+          "value": {
+            "label": "IN",
+            "comment": "in"
+          },
+          "confidence": null
+        },
+        {
+          "time": 22.7,
+          "duration": 0.0,
+          "value": {
+            "label": "IN",
+            "comment": "in, voice"
+          },
+          "confidence": null
+        },
+        {
+          "time": 314.3,
+          "duration": 0.0,
+          "value": {
+            "label": "OUT",
+            "comment": "out, this is a hip hop song"
+          },
+          "confidence": null
+        }
+      ],
+      "sandbox": {},
+      "time": 0,
+      "duration": null
+    },
+    {
+      "annotation_metadata": {
+        "curator": {
+          "name": "",
+          "email": ""
+        },
+        "annotator": {
+          "name": "Mickael"
+        },
+        "version": "",
+        "corpus": "",
+        "annotation_tools": "",
+        "annotation_rules": "",
+        "validation": "",
+        "data_source": ""
+      },
+      "namespace": "cue_point",
+      "data": [
+        {
+          "time": 3.3,
+          "duration": 0.0,
+          "value": {
+            "label": "IN",
+            "comment": "in"
+          },
+          "confidence": null
+        },
+        {
+          "time": 22.6,
+          "duration": 0.0,
+          "value": {
+            "label": "IN",
+            "comment": "in: main"
+          },
+          "confidence": null
+        },
+        {
+          "time": 158.2,
+          "duration": 19.30000000000001,
+          "value": {
+            "label": "OUT",
+            "comment": "out"
+          },
+          "confidence": null
+        },
+        {
+          "time": 305.8,
+          "duration": 0.0,
+          "value": {
+            "label": "OUT",
+            "comment": "out: start fade out"
+          },
+          "confidence": null
+        }
+      ],
+      "sandbox": {},
+      "time": 0,
+      "duration": null
+    }
+  ],
+  "file_metadata": {
+    "title": "Shelter (Jan's Big Funk ft Rodney P.)",
+    "artist": "The Brand New Heavies",
+    "release": "1997",
+    "duration": 314.07020408163265,
+    "identifiers": {
+      "mirrors": [
+        {
+          "type": "Youtube",
+          "url": "https://www.youtube.com/watch?v=KVVyOzUb-WM",
+          "offset": -2.665,
+          "playbackSpeed": 1.001861
+        }
+      ],
+      "isVinyl": true
+    },
+    "jams_version": "0.3.3"
+  },
+  "sandbox": {}
+}

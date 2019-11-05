@@ -1,0 +1,236 @@
+{
+  "annotations": [
+    {
+      "annotation_metadata": {
+        "curator": {
+          "name": "",
+          "email": ""
+        },
+        "annotator": {
+          "name": "Michael"
+        },
+        "version": "",
+        "corpus": "",
+        "annotation_tools": "",
+        "annotation_rules": "",
+        "validation": "",
+        "data_source": ""
+      },
+      "namespace": "cue_point",
+      "data": [
+        {
+          "time": 0.0,
+          "duration": 0.0,
+          "value": {
+            "label": "IN",
+            "comment": "In 1"
+          },
+          "confidence": null
+        },
+        {
+          "time": 15.4,
+          "duration": 0.0,
+          "value": {
+            "label": "IN",
+            "comment": "In 2"
+          },
+          "confidence": null
+        },
+        {
+          "time": 30.7,
+          "duration": 0.0,
+          "value": {
+            "label": "IN",
+            "comment": "In 3 - start of  build up"
+          },
+          "confidence": null
+        },
+        {
+          "time": 46.1,
+          "duration": 0.0,
+          "value": {
+            "label": "IN",
+            "comment": "In4 - start of main part"
+          },
+          "confidence": null
+        },
+        {
+          "time": 222.7,
+          "duration": 0.0,
+          "value": {
+            "label": "OUT",
+            "comment": "Out 1 - for short mix (playing song just half)"
+          },
+          "confidence": null
+        },
+        {
+          "time": 337.9,
+          "duration": 0.0,
+          "value": {
+            "label": "OUT",
+            "comment": "Out 2 - beginning of outro"
+          },
+          "confidence": null
+        },
+        {
+          "time": 368.8,
+          "duration": 0.0,
+          "value": {
+            "label": "OUT",
+            "comment": "Out 3 - using large break"
+          },
+          "confidence": null
+        },
+        {
+          "time": 399.4,
+          "duration": 0.0,
+          "value": {
+            "label": "OUT",
+            "comment": "Out 4 - late outro"
+          },
+          "confidence": null
+        }
+      ],
+      "sandbox": {},
+      "time": 0,
+      "duration": null
+    },
+    {
+      "annotation_metadata": {
+        "curator": {
+          "name": "",
+          "email": ""
+        },
+        "annotator": {
+          "name": "Paolo"
+        },
+        "version": "",
+        "corpus": "",
+        "annotation_tools": "",
+        "annotation_rules": "",
+        "validation": "",
+        "data_source": ""
+      },
+      "namespace": "cue_point",
+      "data": [
+        {
+          "time": 0.1,
+          "duration": 0.0,
+          "value": {
+            "label": "IN",
+            "comment": "IN"
+          },
+          "confidence": null
+        },
+        {
+          "time": 30.8,
+          "duration": 0.0,
+          "value": {
+            "label": "IN",
+            "comment": "IN"
+          },
+          "confidence": null
+        },
+        {
+          "time": 46.1,
+          "duration": 0.0,
+          "value": {
+            "label": "IN",
+            "comment": "IN"
+          },
+          "confidence": null
+        },
+        {
+          "time": 215.1,
+          "duration": 30.700000000000017,
+          "value": {
+            "label": "OUT",
+            "comment": "OUT"
+          },
+          "confidence": null
+        },
+        {
+          "time": 338.0,
+          "duration": 99.83836734693875,
+          "value": {
+            "label": "OUT",
+            "comment": "OUT"
+          },
+          "confidence": null
+        }
+      ],
+      "sandbox": {},
+      "time": 0,
+      "duration": null
+    },
+    {
+      "annotation_metadata": {
+        "curator": {
+          "name": "",
+          "email": ""
+        },
+        "annotator": {
+          "name": "Marco"
+        },
+        "version": "",
+        "corpus": "",
+        "annotation_tools": "",
+        "annotation_rules": "",
+        "validation": "",
+        "data_source": ""
+      },
+      "namespace": "cue_point",
+      "data": [
+        {
+          "time": 0.0,
+          "duration": 0.0,
+          "value": {
+            "label": "IN",
+            "comment": "in"
+          },
+          "confidence": null
+        },
+        {
+          "time": 215.1,
+          "duration": 15.300000000000011,
+          "value": {
+            "label": "OUT",
+            "comment": "out"
+          },
+          "confidence": null
+        },
+        {
+          "time": 431.1,
+          "duration": 6.73836734693873,
+          "value": {
+            "label": "OUT",
+            "comment": "out"
+          },
+          "confidence": null
+        }
+      ],
+      "sandbox": {},
+      "time": 0,
+      "duration": null
+    }
+  ],
+  "file_metadata": {
+    "title": "Drums Of Benirras (Federico Scavo Remix)",
+    "artist": "Copyright ft Shovell",
+    "release": "2012",
+    "duration": 437.83836734693875,
+    "identifiers": {
+      "mirrors": [
+        {
+          "type": "Youtube",
+          "url": "https://www.youtube.com/watch?v=n7jb7LRBMEc",
+          "offset": -0.066,
+          "playbackSpeed": 1
+        }
+      ],
+      "isVinyl": false
+    },
+    "jams_version": "0.3.3"
+  },
+  "sandbox": {}
+}

@@ -1,0 +1,209 @@
+{
+  "annotations": [
+    {
+      "annotation_metadata": {
+        "curator": {
+          "name": "",
+          "email": ""
+        },
+        "annotator": {
+          "name": "Mickael"
+        },
+        "version": "",
+        "corpus": "",
+        "annotation_tools": "",
+        "annotation_rules": "",
+        "validation": "",
+        "data_source": ""
+      },
+      "namespace": "cue_point",
+      "data": [
+        {
+          "time": 6.1,
+          "duration": 0.0,
+          "value": {
+            "label": "IN",
+            "comment": "in: Drums in"
+          },
+          "confidence": null
+        },
+        {
+          "time": 13.8,
+          "duration": 0.0,
+          "value": {
+            "label": "IN",
+            "comment": "in: Hihat in"
+          },
+          "confidence": null
+        },
+        {
+          "time": 21.5,
+          "duration": 0.0,
+          "value": {
+            "label": "IN",
+            "comment": "in: voice in"
+          },
+          "confidence": null
+        },
+        {
+          "time": 36.9,
+          "duration": 0.0,
+          "value": {
+            "label": "IN",
+            "comment": "in: Main"
+          },
+          "confidence": null
+        },
+        {
+          "time": 256.2,
+          "duration": 0.0,
+          "value": {
+            "label": "OUT",
+            "comment": "out"
+          },
+          "confidence": null
+        }
+      ],
+      "sandbox": {},
+      "time": 0,
+      "duration": null
+    },
+    {
+      "annotation_metadata": {
+        "curator": {
+          "name": "",
+          "email": ""
+        },
+        "annotator": {
+          "name": "Marco"
+        },
+        "version": "",
+        "corpus": "",
+        "annotation_tools": "",
+        "annotation_rules": "",
+        "validation": "",
+        "data_source": ""
+      },
+      "namespace": "cue_point",
+      "data": [
+        {
+          "time": 38.937,
+          "duration": 0.0,
+          "value": {
+            "label": "IN",
+            "comment": "in: this is the downbeat, but the entrance is anacrusic"
+          },
+          "confidence": null
+        },
+        {
+          "time": 121.648,
+          "duration": 0.0,
+          "value": {
+            "label": "OUT",
+            "comment": "out: a little bit early for a cue out, but there is a breakdown here"
+          },
+          "confidence": null
+        },
+        {
+          "time": 185.016,
+          "duration": 0.0,
+          "value": {
+            "label": "OUT",
+            "comment": "out:  more or less like the previous one"
+          },
+          "confidence": null
+        },
+        {
+          "time": 256.33299999999997,
+          "duration": 0.0,
+          "value": {
+            "label": "OUT",
+            "comment": "out:  breakdown, no rhythmic section. It's hard though to place this cue because the downbeat is not clearly marked"
+          },
+          "confidence": null
+        }
+      ],
+      "sandbox": {},
+      "time": 0,
+      "duration": null
+    },
+    {
+      "annotation_metadata": {
+        "curator": {
+          "name": "",
+          "email": ""
+        },
+        "annotator": {
+          "name": "Paolo"
+        },
+        "version": "",
+        "corpus": "",
+        "annotation_tools": "",
+        "annotation_rules": "",
+        "validation": "",
+        "data_source": ""
+      },
+      "namespace": "cue_point",
+      "data": [
+        {
+          "time": 6.2,
+          "duration": 0.0,
+          "value": {
+            "label": "IN",
+            "comment": "in"
+          },
+          "confidence": null
+        },
+        {
+          "time": 21.6,
+          "duration": 0.0,
+          "value": {
+            "label": "IN",
+            "comment": "in: voices"
+          },
+          "confidence": null
+        },
+        {
+          "time": 36.9,
+          "duration": 0.0,
+          "value": {
+            "label": "IN",
+            "comment": "in: full"
+          },
+          "confidence": null
+        },
+        {
+          "time": 256.3,
+          "duration": 0.0,
+          "value": {
+            "label": "OUT",
+            "comment": "out"
+          },
+          "confidence": null
+        }
+      ],
+      "sandbox": {},
+      "time": 0,
+      "duration": null
+    }
+  ],
+  "file_metadata": {
+    "title": "Papua New Guinea (Dali Mix)",
+    "artist": "Future Sound Of London",
+    "release": "1991",
+    "duration": 300.95673469387754,
+    "identifiers": {
+      "mirrors": [
+        {
+          "type": "Youtube",
+          "url": "https://www.youtube.com/watch?v=Oyg8LFKI0KQ",
+          "offset": -0.763,
+          "playbackSpeed": 0.998248
+        }
+      ],
+      "isVinyl": true
+    },
+    "jams_version": "0.3.3"
+  },
+  "sandbox": {}
+}

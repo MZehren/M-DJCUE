@@ -1,0 +1,211 @@
+{
+  "annotations": [
+    {
+      "annotation_metadata": {
+        "curator": {
+          "name": "",
+          "email": ""
+        },
+        "annotator": {
+          "name": "Michael"
+        },
+        "version": "",
+        "corpus": "",
+        "annotation_tools": "",
+        "annotation_rules": "",
+        "validation": "",
+        "data_source": ""
+      },
+      "namespace": "cue_point",
+      "data": [
+        {
+          "time": 0.0,
+          "duration": 0.0,
+          "value": {
+            "label": "IN",
+            "comment": "in 1"
+          },
+          "confidence": null
+        },
+        {
+          "time": 30.4,
+          "duration": 0.0,
+          "value": {
+            "label": "IN",
+            "comment": "in 2"
+          },
+          "confidence": null
+        },
+        {
+          "time": 59.1,
+          "duration": 0.0,
+          "value": {
+            "label": "IN",
+            "comment": "in 3 - Alternative Intro without Beat"
+          },
+          "confidence": null
+        },
+        {
+          "time": 88.6,
+          "duration": 0.0,
+          "value": {
+            "label": "IN",
+            "comment": "in 4 - beginning of main part"
+          },
+          "confidence": null
+        },
+        {
+          "time": 178.1,
+          "duration": 0.0,
+          "value": {
+            "label": "OUT",
+            "comment": "Out 1 - for short mix (playing song just half)"
+          },
+          "confidence": null
+        },
+        {
+          "time": 398.8,
+          "duration": 0.0,
+          "value": {
+            "label": "OUT",
+            "comment": "Out 2 - using regular outro"
+          },
+          "confidence": null
+        }
+      ],
+      "sandbox": {},
+      "time": 0,
+      "duration": null
+    },
+    {
+      "annotation_metadata": {
+        "curator": {
+          "name": "",
+          "email": ""
+        },
+        "annotator": {
+          "name": "Paolo"
+        },
+        "version": "",
+        "corpus": "",
+        "annotation_tools": "",
+        "annotation_rules": "",
+        "validation": "",
+        "data_source": ""
+      },
+      "namespace": "cue_point",
+      "data": [
+        {
+          "time": 88.7,
+          "duration": 0.0,
+          "value": {
+            "label": "IN",
+            "comment": "IN"
+          },
+          "confidence": null
+        },
+        {
+          "time": 118.2,
+          "duration": 0.0,
+          "value": {
+            "label": "IN",
+            "comment": "IN"
+          },
+          "confidence": null
+        },
+        {
+          "time": 177.3,
+          "duration": 43.5,
+          "value": {
+            "label": "OUT",
+            "comment": "OUT"
+          },
+          "confidence": null
+        },
+        {
+          "time": 399.0,
+          "duration": 97.63999999999999,
+          "value": {
+            "label": "OUT",
+            "comment": "OUT"
+          },
+          "confidence": null
+        }
+      ],
+      "sandbox": {},
+      "time": 0,
+      "duration": null
+    },
+    {
+      "annotation_metadata": {
+        "curator": {
+          "name": "",
+          "email": ""
+        },
+        "annotator": {
+          "name": "Marco"
+        },
+        "version": "",
+        "corpus": "",
+        "annotation_tools": "",
+        "annotation_rules": "",
+        "validation": "",
+        "data_source": ""
+      },
+      "namespace": "cue_point",
+      "data": [
+        {
+          "time": 89.0,
+          "duration": 0.0,
+          "value": {
+            "label": "IN",
+            "comment": "in"
+          },
+          "confidence": null
+        },
+        {
+          "time": 118.5,
+          "duration": 0.0,
+          "value": {
+            "label": "IN",
+            "comment": "in"
+          },
+          "confidence": null
+        },
+        {
+          "time": 177.5,
+          "duration": 30.900000000000006,
+          "value": {
+            "label": "OUT",
+            "comment": "out"
+          },
+          "confidence": null
+        },
+        {
+          "time": 399.0,
+          "duration": 97.63999999999999,
+          "value": {
+            "label": "OUT",
+            "comment": "out"
+          },
+          "confidence": null
+        }
+      ],
+      "sandbox": {},
+      "time": 0,
+      "duration": null
+    }
+  ],
+  "file_metadata": {
+    "title": "Fractales (Apparat's Ibiza Mix",
+    "artist": "Apparat",
+    "release": "2009",
+    "duration": 496.64,
+    "identifiers": {
+      "mirrors": [],
+      "isVinyl": false
+    },
+    "jams_version": "0.3.3"
+  },
+  "sandbox": {}
+}

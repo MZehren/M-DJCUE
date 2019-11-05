@@ -1,0 +1,191 @@
+{
+  "annotations": [
+    {
+      "annotation_metadata": {
+        "curator": {
+          "name": "",
+          "email": ""
+        },
+        "annotator": {
+          "name": "Paolo"
+        },
+        "version": "",
+        "corpus": "",
+        "annotation_tools": "",
+        "annotation_rules": "",
+        "validation": "",
+        "data_source": ""
+      },
+      "namespace": "cue_point",
+      "data": [
+        {
+          "time": 38.6,
+          "duration": 0.0,
+          "value": {
+            "label": "IN",
+            "comment": "in"
+          },
+          "confidence": null
+        },
+        {
+          "time": 335.1,
+          "duration": 11.899999999999977,
+          "value": {
+            "label": "OUT",
+            "comment": "out "
+          },
+          "confidence": null
+        },
+        {
+          "time": 362.8,
+          "duration": 15.800000000000011,
+          "value": {
+            "label": "OUT",
+            "comment": "out "
+          },
+          "confidence": null
+        },
+        {
+          "time": 473.5,
+          "duration": 15.800000000000011,
+          "value": {
+            "label": "OUT",
+            "comment": "out"
+          },
+          "confidence": null
+        }
+      ],
+      "sandbox": {},
+      "time": 0,
+      "duration": null
+    },
+    {
+      "annotation_metadata": {
+        "curator": {
+          "name": "",
+          "email": ""
+        },
+        "annotator": {
+          "name": "Marco"
+        },
+        "version": "",
+        "corpus": "",
+        "annotation_tools": "",
+        "annotation_rules": "",
+        "validation": "",
+        "data_source": ""
+      },
+      "namespace": "cue_point",
+      "data": [
+        {
+          "time": 38.5,
+          "duration": 0.0,
+          "value": {
+            "label": "IN",
+            "comment": "in"
+          },
+          "confidence": null
+        },
+        {
+          "time": 335.56,
+          "duration": 11.004999999999995,
+          "value": {
+            "label": "OUT",
+            "comment": "out"
+          },
+          "confidence": null
+        }
+      ],
+      "sandbox": {},
+      "time": 0,
+      "duration": null
+    },
+    {
+      "annotation_metadata": {
+        "curator": {
+          "name": "",
+          "email": ""
+        },
+        "annotator": {
+          "name": "Mickael"
+        },
+        "version": "",
+        "corpus": "",
+        "annotation_tools": "",
+        "annotation_rules": "",
+        "validation": "",
+        "data_source": ""
+      },
+      "namespace": "cue_point",
+      "data": [
+        {
+          "time": 38.6,
+          "duration": 0.0,
+          "value": {
+            "label": "IN",
+            "comment": "in"
+          },
+          "confidence": null
+        },
+        {
+          "time": 70.3,
+          "duration": 0.0,
+          "value": {
+            "label": "IN",
+            "comment": "in: main with voice"
+          },
+          "confidence": null
+        },
+        {
+          "time": 335.1,
+          "duration": 27.69999999999999,
+          "value": {
+            "label": "OUT",
+            "comment": "out: breakdown"
+          },
+          "confidence": null
+        },
+        {
+          "time": 378.6,
+          "duration": 15.799999999999955,
+          "value": {
+            "label": "OUT",
+            "comment": "out: breakdown bass"
+          },
+          "confidence": null
+        },
+        {
+          "time": 505.1,
+          "duration": 0.0,
+          "value": {
+            "label": "OUT",
+            "comment": "out:fade out"
+          },
+          "confidence": null
+        }
+      ],
+      "sandbox": {},
+      "time": 0,
+      "duration": null
+    }
+  ],
+  "file_metadata": {
+    "title": "Lemon (Bad Yard Club)",
+    "artist": "U2",
+    "release": "1993",
+    "duration": 517.7469387755102,
+    "identifiers": {
+      "mirrors": [
+        {
+          "type": "Youtube",
+          "url": "https://www.youtube.com/watch?v=iSpJRduBkws",
+          "offset": -6.403,
+          "playbackSpeed": 0.999957
+        }
+      ],
+      "isVinyl": true
+    },
+    "jams_version": "0.3.3"
+  },
+  "sandbox": {}
+}

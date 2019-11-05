@@ -1,0 +1,211 @@
+{
+  "annotations": [
+    {
+      "annotation_metadata": {
+        "curator": {
+          "name": "",
+          "email": ""
+        },
+        "annotator": {
+          "name": "Marco"
+        },
+        "version": "",
+        "corpus": "",
+        "annotation_tools": "",
+        "annotation_rules": "",
+        "validation": "",
+        "data_source": ""
+      },
+      "namespace": "cue_point",
+      "data": [
+        {
+          "time": 118.7,
+          "duration": 0.0,
+          "value": {
+            "label": "IN",
+            "comment": "in"
+          },
+          "confidence": null
+        },
+        {
+          "time": 133.4,
+          "duration": 0.0,
+          "value": {
+            "label": "IN",
+            "comment": "in"
+          },
+          "confidence": null
+        },
+        {
+          "time": 369.7,
+          "duration": 36.80000000000001,
+          "value": {
+            "label": "OUT",
+            "comment": "out"
+          },
+          "confidence": null
+        },
+        {
+          "time": 583.9,
+          "duration": 22.100000000000023,
+          "value": {
+            "label": "OUT",
+            "comment": "out"
+          },
+          "confidence": null
+        }
+      ],
+      "sandbox": {},
+      "time": 0,
+      "duration": null
+    },
+    {
+      "annotation_metadata": {
+        "curator": {
+          "name": "",
+          "email": ""
+        },
+        "annotator": {
+          "name": "Mickael"
+        },
+        "version": "",
+        "corpus": "",
+        "annotation_tools": "",
+        "annotation_rules": "",
+        "validation": "",
+        "data_source": ""
+      },
+      "namespace": "cue_point",
+      "data": [
+        {
+          "time": 133.4,
+          "duration": 0.0,
+          "value": {
+            "label": "IN",
+            "comment": "in: second bass added"
+          },
+          "confidence": null
+        },
+        {
+          "time": 192.5,
+          "duration": 0.0,
+          "value": {
+            "label": "IN",
+            "comment": "in: main"
+          },
+          "confidence": null
+        },
+        {
+          "time": 222.0,
+          "duration": 0.0,
+          "value": {
+            "label": "IN",
+            "comment": "in: main +synth"
+          },
+          "confidence": null
+        },
+        {
+          "time": 369.7,
+          "duration": 36.900000000000034,
+          "value": {
+            "label": "OUT",
+            "comment": "out: breakdown with voice at 6:46.6, drums qt 7:16.2, qll qt 7:45.7"
+          },
+          "confidence": null
+        },
+        {
+          "time": 510.0,
+          "duration": 14.799999999999955,
+          "value": {
+            "label": "OUT",
+            "comment": "out: breakdown-ish"
+          },
+          "confidence": null
+        },
+        {
+          "time": 583.9,
+          "duration": 0.0,
+          "value": {
+            "label": "OUT",
+            "comment": "out:end"
+          },
+          "confidence": null
+        }
+      ],
+      "sandbox": {},
+      "time": 0,
+      "duration": null
+    },
+    {
+      "annotation_metadata": {
+        "curator": {
+          "name": "",
+          "email": ""
+        },
+        "annotator": {
+          "name": "Paolo"
+        },
+        "version": "",
+        "corpus": "",
+        "annotation_tools": "",
+        "annotation_rules": "",
+        "validation": "",
+        "data_source": ""
+      },
+      "namespace": "cue_point",
+      "data": [
+        {
+          "time": 133.4,
+          "duration": 0.0,
+          "value": {
+            "label": "IN",
+            "comment": "IN"
+          },
+          "confidence": null
+        },
+        {
+          "time": 222.0,
+          "duration": 0.0,
+          "value": {
+            "label": "IN",
+            "comment": "IN"
+          },
+          "confidence": null
+        },
+        {
+          "time": 369.7,
+          "duration": 153.2,
+          "value": {
+            "label": "OUT",
+            "comment": "OUT"
+          },
+          "confidence": null
+        },
+        {
+          "time": 583.9,
+          "duration": 86.53265306122455,
+          "value": {
+            "label": "OUT",
+            "comment": "OUT"
+          },
+          "confidence": null
+        }
+      ],
+      "sandbox": {},
+      "time": 0,
+      "duration": null
+    }
+  ],
+  "file_metadata": {
+    "title": "Beautiful Burnout",
+    "artist": "Underworld",
+    "release": "2007",
+    "duration": 670.4326530612245,
+    "identifiers": {
+      "mirrors": [],
+      "isVinyl": false
+    },
+    "jams_version": "0.3.3"
+  },
+  "sandbox": {}
+}

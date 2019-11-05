@@ -1,0 +1,200 @@
+{
+  "annotations": [
+    {
+      "annotation_metadata": {
+        "curator": {
+          "name": "",
+          "email": ""
+        },
+        "annotator": {
+          "name": "Paolo"
+        },
+        "version": "",
+        "corpus": "",
+        "annotation_tools": "",
+        "annotation_rules": "",
+        "validation": "",
+        "data_source": ""
+      },
+      "namespace": "cue_point",
+      "data": [
+        {
+          "time": 2.9,
+          "duration": 0.0,
+          "value": {
+            "label": "IN",
+            "comment": "in:weak"
+          },
+          "confidence": null
+        },
+        {
+          "time": 33.4,
+          "duration": 0.0,
+          "value": {
+            "label": "IN",
+            "comment": "in"
+          },
+          "confidence": null
+        },
+        {
+          "time": 311.7,
+          "duration": 271.7187755102041,
+          "value": {
+            "label": "OUT",
+            "comment": "out"
+          },
+          "confidence": null
+        }
+      ],
+      "sandbox": {},
+      "time": 0,
+      "duration": null
+    },
+    {
+      "annotation_metadata": {
+        "curator": {
+          "name": "",
+          "email": ""
+        },
+        "annotator": {
+          "name": "Marco"
+        },
+        "version": "",
+        "corpus": "",
+        "annotation_tools": "",
+        "annotation_rules": "",
+        "validation": "",
+        "data_source": ""
+      },
+      "namespace": "cue_point",
+      "data": [
+        {
+          "time": 33.3,
+          "duration": 0.0,
+          "value": {
+            "label": "IN",
+            "comment": "in, bass"
+          },
+          "confidence": null
+        },
+        {
+          "time": 54.3,
+          "duration": 0.0,
+          "value": {
+            "label": "IN",
+            "comment": "in, hi-hat"
+          },
+          "confidence": null
+        },
+        {
+          "time": 94.3,
+          "duration": 0.0,
+          "value": {
+            "label": "IN",
+            "comment": "in"
+          },
+          "confidence": null
+        },
+        {
+          "time": 109.6,
+          "duration": 0.0,
+          "value": {
+            "label": "IN",
+            "comment": "in"
+          },
+          "confidence": null
+        },
+        {
+          "time": 382.0,
+          "duration": 11.571000000000026,
+          "value": {
+            "label": "OUT",
+            "comment": "out until 06:33.571 ??? (there's a stupid helicopter on top)"
+          },
+          "confidence": null
+        },
+        {
+          "time": 563.2,
+          "duration": 20.21877551020407,
+          "value": {
+            "label": "OUT",
+            "comment": "out until the end"
+          },
+          "confidence": null
+        }
+      ],
+      "sandbox": {},
+      "time": 0,
+      "duration": null
+    },
+    {
+      "annotation_metadata": {
+        "curator": {
+          "name": "",
+          "email": ""
+        },
+        "annotator": {
+          "name": "Mickael"
+        },
+        "version": "",
+        "corpus": "",
+        "annotation_tools": "",
+        "annotation_rules": "",
+        "validation": "",
+        "data_source": ""
+      },
+      "namespace": "cue_point",
+      "data": [
+        {
+          "time": 109.6,
+          "duration": 0.0,
+          "value": {
+            "label": "IN",
+            "comment": "in: maybe sufficient?"
+          },
+          "confidence": null
+        },
+        {
+          "time": 227.8,
+          "duration": 0.0,
+          "value": {
+            "label": "IN",
+            "comment": "in:main"
+          },
+          "confidence": null
+        },
+        {
+          "time": 334.5,
+          "duration": 70.5,
+          "value": {
+            "label": "OUT",
+            "comment": "out: not sure, it's gradual, not on the bar period and still very percussive."
+          },
+          "confidence": null
+        }
+      ],
+      "sandbox": {},
+      "time": 0,
+      "duration": null
+    }
+  ],
+  "file_metadata": {
+    "title": "Tick Tock (War of the Worlds Mix)",
+    "artist": "Chiapet",
+    "release": "1997",
+    "duration": 583.4187755102041,
+    "identifiers": {
+      "mirrors": [
+        {
+          "type": "Youtube",
+          "url": "https://www.youtube.com/watch?v=8kbhYGkj3Eo",
+          "offset": -2.67,
+          "playbackSpeed": 0.999767
+        }
+      ],
+      "isVinyl": true
+    },
+    "jams_version": "0.3.3"
+  },
+  "sandbox": {}
+}

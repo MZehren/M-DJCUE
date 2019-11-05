@@ -1,0 +1,227 @@
+{
+  "annotations": [
+    {
+      "annotation_metadata": {
+        "curator": {
+          "name": "",
+          "email": ""
+        },
+        "annotator": {
+          "name": "Michael"
+        },
+        "version": "",
+        "corpus": "",
+        "annotation_tools": "",
+        "annotation_rules": "",
+        "validation": "",
+        "data_source": ""
+      },
+      "namespace": "cue_point",
+      "data": [
+        {
+          "time": 1.8,
+          "duration": 0.0,
+          "value": {
+            "label": "IN",
+            "comment": "In 1"
+          },
+          "confidence": null
+        },
+        {
+          "time": 32.1,
+          "duration": 0.0,
+          "value": {
+            "label": "IN",
+            "comment": "In 2"
+          },
+          "confidence": null
+        },
+        {
+          "time": 62.4,
+          "duration": 0.0,
+          "value": {
+            "label": "IN",
+            "comment": "In 3"
+          },
+          "confidence": null
+        },
+        {
+          "time": 77.5,
+          "duration": 0.0,
+          "value": {
+            "label": "IN",
+            "comment": "In 4 - because intro is not 32 but 40 bars long"
+          },
+          "confidence": null
+        }
+      ],
+      "sandbox": {},
+      "time": 0,
+      "duration": null
+    },
+    {
+      "annotation_metadata": {
+        "curator": {
+          "name": "",
+          "email": ""
+        },
+        "annotator": {
+          "name": "Paolo"
+        },
+        "version": "",
+        "corpus": "",
+        "annotation_tools": "",
+        "annotation_rules": "",
+        "validation": "",
+        "data_source": ""
+      },
+      "namespace": "cue_point",
+      "data": [
+        {
+          "time": 1.9,
+          "duration": 0.0,
+          "value": {
+            "label": "IN",
+            "comment": "IN"
+          },
+          "confidence": null
+        },
+        {
+          "time": 47.3,
+          "duration": 0.0,
+          "value": {
+            "label": "IN",
+            "comment": "in: weak"
+          },
+          "confidence": null
+        },
+        {
+          "time": 77.6,
+          "duration": 0.0,
+          "value": {
+            "label": "IN",
+            "comment": "IN"
+          },
+          "confidence": null
+        },
+        {
+          "time": 107.8,
+          "duration": 0.0,
+          "value": {
+            "label": "IN",
+            "comment": "IN"
+          },
+          "confidence": null
+        },
+        {
+          "time": 213.8,
+          "duration": 15.099999999999994,
+          "value": {
+            "label": "OUT",
+            "comment": "OUT"
+          },
+          "confidence": null
+        },
+        {
+          "time": 244.0,
+          "duration": 15.100000000000023,
+          "value": {
+            "label": "OUT",
+            "comment": "OUT"
+          },
+          "confidence": null
+        },
+        {
+          "time": 418.0,
+          "duration": 30.30000000000001,
+          "value": {
+            "label": "OUT",
+            "comment": "OUT"
+          },
+          "confidence": null
+        }
+      ],
+      "sandbox": {},
+      "time": 0,
+      "duration": null
+    },
+    {
+      "annotation_metadata": {
+        "curator": {
+          "name": "",
+          "email": ""
+        },
+        "annotator": {
+          "name": "Marco"
+        },
+        "version": "",
+        "corpus": "",
+        "annotation_tools": "",
+        "annotation_rules": "",
+        "validation": "",
+        "data_source": ""
+      },
+      "namespace": "cue_point",
+      "data": [
+        {
+          "time": 1.7,
+          "duration": 0.0,
+          "value": {
+            "label": "IN",
+            "comment": "in"
+          },
+          "confidence": null
+        },
+        {
+          "time": 107.8,
+          "duration": 0.0,
+          "value": {
+            "label": "IN",
+            "comment": "in, pads"
+          },
+          "confidence": null
+        },
+        {
+          "time": 213.8,
+          "duration": 45.30000000000001,
+          "value": {
+            "label": "OUT",
+            "comment": "out"
+          },
+          "confidence": null
+        },
+        {
+          "time": 463.6,
+          "duration": 13.474285714285713,
+          "value": {
+            "label": "OUT",
+            "comment": "out"
+          },
+          "confidence": null
+        }
+      ],
+      "sandbox": {},
+      "time": 0,
+      "duration": null
+    }
+  ],
+  "file_metadata": {
+    "title": "Northern Lights (The Prime Cutz Mix)",
+    "artist": "Caucasian Boy",
+    "release": "1993",
+    "duration": 477.07428571428574,
+    "identifiers": {
+      "mirrors": [
+        {
+          "type": "Youtube",
+          "url": "https://www.youtube.com/watch?v=FETGVaIx6P8",
+          "offset": -1.577,
+          "playbackSpeed": 0.999419
+        }
+      ],
+      "isVinyl": true
+    },
+    "jams_version": "0.3.3"
+  },
+  "sandbox": {}
+}

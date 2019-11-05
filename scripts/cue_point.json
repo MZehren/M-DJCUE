@@ -1,0 +1,27 @@
+{
+    "cue_point": {
+        "value": {
+            "type": "object",
+            "proterties": {
+                "label": {
+                    "enum": [
+                        "IN",
+                        "OUT"
+                    ]
+                },
+                "comment": {
+                    "type": "string"
+                },
+                "relevance": {
+                    "type": "integer",
+                    "minimum": 0
+                }
+            },
+            "required": [
+                "label"
+            ]
+        },
+        "dense": false,
+        "description": "cue point namespace description: A cue point mark a point of interest of the music for a DJ."
+    }
+}

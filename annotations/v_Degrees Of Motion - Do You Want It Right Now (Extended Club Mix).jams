@@ -1,0 +1,191 @@
+{
+  "annotations": [
+    {
+      "annotation_metadata": {
+        "curator": {
+          "name": "",
+          "email": ""
+        },
+        "annotator": {
+          "name": "Mickael"
+        },
+        "version": "",
+        "corpus": "",
+        "annotation_tools": "",
+        "annotation_rules": "",
+        "validation": "",
+        "data_source": ""
+      },
+      "namespace": "cue_point",
+      "data": [
+        {
+          "time": 22.9,
+          "duration": 0.0,
+          "value": {
+            "label": "IN",
+            "comment": "in: drums in"
+          },
+          "confidence": null
+        },
+        {
+          "time": 39.5,
+          "duration": 0.0,
+          "value": {
+            "label": "IN",
+            "comment": "in: Main"
+          },
+          "confidence": null
+        },
+        {
+          "time": 444.6,
+          "duration": 0.0,
+          "value": {
+            "label": "OUT",
+            "comment": "out"
+          },
+          "confidence": null
+        }
+      ],
+      "sandbox": {},
+      "time": 0,
+      "duration": null
+    },
+    {
+      "annotation_metadata": {
+        "curator": {
+          "name": "",
+          "email": ""
+        },
+        "annotator": {
+          "name": "Marco"
+        },
+        "version": "",
+        "corpus": "",
+        "annotation_tools": "",
+        "annotation_rules": "",
+        "validation": "",
+        "data_source": ""
+      },
+      "namespace": "cue_point",
+      "data": [
+        {
+          "time": 22.9,
+          "duration": 0.0,
+          "value": {
+            "label": "IN",
+            "comment": "in: not sure about this. It's a cue but short-lived"
+          },
+          "confidence": null
+        },
+        {
+          "time": 89.202,
+          "duration": 0.0,
+          "value": {
+            "label": "IN",
+            "comment": "in: this is probably the actual cue in"
+          },
+          "confidence": null
+        },
+        {
+          "time": 428.109,
+          "duration": 0.0,
+          "value": {
+            "label": "OUT",
+            "comment": "out:  voice ends"
+          },
+          "confidence": null
+        }
+      ],
+      "sandbox": {},
+      "time": 0,
+      "duration": null
+    },
+    {
+      "annotation_metadata": {
+        "curator": {
+          "name": "",
+          "email": ""
+        },
+        "annotator": {
+          "name": "Paolo"
+        },
+        "version": "",
+        "corpus": "",
+        "annotation_tools": "",
+        "annotation_rules": "",
+        "validation": "",
+        "data_source": ""
+      },
+      "namespace": "cue_point",
+      "data": [
+        {
+          "time": 23.0,
+          "duration": 0.0,
+          "value": {
+            "label": "IN",
+            "comment": "in: bass"
+          },
+          "confidence": null
+        },
+        {
+          "time": 39.5,
+          "duration": 0.0,
+          "value": {
+            "label": "IN",
+            "comment": "in: voices"
+          },
+          "confidence": null
+        },
+        {
+          "time": 72.6,
+          "duration": 0.0,
+          "value": {
+            "label": "IN",
+            "comment": "in: break"
+          },
+          "confidence": null
+        },
+        {
+          "time": 428.1,
+          "duration": 0.0,
+          "value": {
+            "label": "OUT",
+            "comment": "out"
+          },
+          "confidence": null
+        },
+        {
+          "time": 444.7,
+          "duration": 0.0,
+          "value": {
+            "label": "OUT",
+            "comment": "out"
+          },
+          "confidence": null
+        }
+      ],
+      "sandbox": {},
+      "time": 0,
+      "duration": null
+    }
+  ],
+  "file_metadata": {
+    "title": "Do You Want It Right Now (Extended Club Mix)",
+    "artist": "Degrees Of Motion",
+    "release": "1991",
+    "duration": 480.78367346938774,
+    "identifiers": {
+      "mirrors": [
+        {
+          "type": "Youtube",
+          "url": "https://www.youtube.com/watch?v=mod5DGp4CDo",
+          "offset": -4.656,
+          "playbackSpeed": 1.001836
+        }
+      ],
+      "isVinyl": true
+    },
+    "jams_version": "0.3.3"
+  },
+  "sandbox": {}
+}

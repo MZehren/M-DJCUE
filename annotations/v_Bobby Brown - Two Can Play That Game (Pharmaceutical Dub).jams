@@ -1,0 +1,236 @@
+{
+  "annotations": [
+    {
+      "annotation_metadata": {
+        "curator": {
+          "name": "",
+          "email": ""
+        },
+        "annotator": {
+          "name": "Paolo"
+        },
+        "version": "",
+        "corpus": "",
+        "annotation_tools": "",
+        "annotation_rules": "",
+        "validation": "",
+        "data_source": ""
+      },
+      "namespace": "cue_point",
+      "data": [
+        {
+          "time": 16.1,
+          "duration": 0.0,
+          "value": {
+            "label": "IN",
+            "comment": "in"
+          },
+          "confidence": null
+        },
+        {
+          "time": 47.8,
+          "duration": 0.0,
+          "value": {
+            "label": "IN",
+            "comment": "in"
+          },
+          "confidence": null
+        },
+        {
+          "time": 63.6,
+          "duration": 0.0,
+          "value": {
+            "label": "IN",
+            "comment": "in"
+          },
+          "confidence": null
+        },
+        {
+          "time": 223.6,
+          "duration": 55.400000000000006,
+          "value": {
+            "label": "OUT",
+            "comment": "out"
+          },
+          "confidence": null
+        },
+        {
+          "time": 348.1,
+          "duration": 34.8812244897959,
+          "value": {
+            "label": "OUT",
+            "comment": "out until end"
+          },
+          "confidence": null
+        }
+      ],
+      "sandbox": {},
+      "time": 0,
+      "duration": null
+    },
+    {
+      "annotation_metadata": {
+        "curator": {
+          "name": "",
+          "email": ""
+        },
+        "annotator": {
+          "name": "Marco"
+        },
+        "version": "",
+        "corpus": "",
+        "annotation_tools": "",
+        "annotation_rules": "",
+        "validation": "",
+        "data_source": ""
+      },
+      "namespace": "cue_point",
+      "data": [
+        {
+          "time": 63.5,
+          "duration": 0.0,
+          "value": {
+            "label": "IN",
+            "comment": "in, bass gets in"
+          },
+          "confidence": null
+        },
+        {
+          "time": 221.6,
+          "duration": 31.80000000000001,
+          "value": {
+            "label": "OUT",
+            "comment": "out"
+          },
+          "confidence": null
+        }
+      ],
+      "sandbox": {},
+      "time": 0,
+      "duration": null
+    },
+    {
+      "annotation_metadata": {
+        "curator": {
+          "name": "",
+          "email": ""
+        },
+        "annotator": {
+          "name": "Mickael"
+        },
+        "version": "",
+        "corpus": "",
+        "annotation_tools": "",
+        "annotation_rules": "",
+        "validation": "",
+        "data_source": ""
+      },
+      "namespace": "cue_point",
+      "data": [
+        {
+          "time": 0.3,
+          "duration": 0.0,
+          "value": {
+            "label": "IN",
+            "comment": "in: barelly salient"
+          },
+          "confidence": null
+        },
+        {
+          "time": 16.1,
+          "duration": 0.0,
+          "value": {
+            "label": "IN",
+            "comment": "in: barelly salient"
+          },
+          "confidence": null
+        },
+        {
+          "time": 31.9,
+          "duration": 0.0,
+          "value": {
+            "label": "IN",
+            "comment": "in: barelly salient"
+          },
+          "confidence": null
+        },
+        {
+          "time": 47.8,
+          "duration": 0.0,
+          "value": {
+            "label": "IN",
+            "comment": "in"
+          },
+          "confidence": null
+        },
+        {
+          "time": 63.6,
+          "duration": 0.0,
+          "value": {
+            "label": "IN",
+            "comment": "in: main"
+          },
+          "confidence": null
+        },
+        {
+          "time": 221.7,
+          "duration": 55.30000000000001,
+          "value": {
+            "label": "OUT",
+            "comment": "out: breakdown with voice"
+          },
+          "confidence": null
+        },
+        {
+          "time": 332.3,
+          "duration": 0.0,
+          "value": {
+            "label": "OUT",
+            "comment": "out: start outro"
+          },
+          "confidence": null
+        },
+        {
+          "time": 348.1,
+          "duration": 0.0,
+          "value": {
+            "label": "OUT",
+            "comment": "out: novelty in the outro"
+          },
+          "confidence": null
+        },
+        {
+          "time": 364.0,
+          "duration": 0.0,
+          "value": {
+            "label": "OUT",
+            "comment": "out:novelty in the outro"
+          },
+          "confidence": null
+        }
+      ],
+      "sandbox": {},
+      "time": 0,
+      "duration": null
+    }
+  ],
+  "file_metadata": {
+    "title": "Two Can Play That Game (Pharmaceutical Dub)",
+    "artist": "Bobby Brown",
+    "release": "1994",
+    "duration": 382.9812244897959,
+    "identifiers": {
+      "mirrors": [
+        {
+          "type": "Youtube",
+          "url": "https://www.youtube.com/watch?v=yO3TNEg13aI",
+          "offset": -0.53,
+          "playbackSpeed": 1
+        }
+      ],
+      "isVinyl": true
+    },
+    "jams_version": "0.3.3"
+  },
+  "sandbox": {}
+}

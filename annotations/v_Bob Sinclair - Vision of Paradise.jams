@@ -1,0 +1,202 @@
+{
+  "annotations": [
+    {
+      "annotation_metadata": {
+        "curator": {
+          "name": "",
+          "email": ""
+        },
+        "annotator": {
+          "name": "Paolo"
+        },
+        "version": "",
+        "corpus": "",
+        "annotation_tools": "",
+        "annotation_rules": "",
+        "validation": "",
+        "data_source": ""
+      },
+      "namespace": "cue_point",
+      "data": [
+        {
+          "time": 0.4,
+          "duration": 0.0,
+          "value": {
+            "label": "IN",
+            "comment": "in"
+          },
+          "confidence": null
+        },
+        {
+          "time": 75.5,
+          "duration": 0.0,
+          "value": {
+            "label": "IN",
+            "comment": "in: guitar"
+          },
+          "confidence": null
+        },
+        {
+          "time": 165.6,
+          "duration": 30.099999999999994,
+          "value": {
+            "label": "OUT",
+            "comment": "out"
+          },
+          "confidence": null
+        },
+        {
+          "time": 345.9,
+          "duration": 38.282857142857154,
+          "value": {
+            "label": "OUT",
+            "comment": "out"
+          },
+          "confidence": null
+        }
+      ],
+      "sandbox": {},
+      "time": 0,
+      "duration": null
+    },
+    {
+      "annotation_metadata": {
+        "curator": {
+          "name": "",
+          "email": ""
+        },
+        "annotator": {
+          "name": "Marco"
+        },
+        "version": "",
+        "corpus": "",
+        "annotation_tools": "",
+        "annotation_rules": "",
+        "validation": "",
+        "data_source": ""
+      },
+      "namespace": "cue_point",
+      "data": [
+        {
+          "time": 0.4,
+          "duration": 0.0,
+          "value": {
+            "label": "IN",
+            "comment": "in"
+          },
+          "confidence": null
+        },
+        {
+          "time": 75.5,
+          "duration": 0.0,
+          "value": {
+            "label": "IN",
+            "comment": "in"
+          },
+          "confidence": null
+        },
+        {
+          "time": 165.6,
+          "duration": 15.099999999999994,
+          "value": {
+            "label": "OUT",
+            "comment": "out"
+          },
+          "confidence": null
+        },
+        {
+          "time": 346.0,
+          "duration": 38.18285714285713,
+          "value": {
+            "label": "OUT",
+            "comment": "out until the end"
+          },
+          "confidence": null
+        }
+      ],
+      "sandbox": {},
+      "time": 0,
+      "duration": null
+    },
+    {
+      "annotation_metadata": {
+        "curator": {
+          "name": "",
+          "email": ""
+        },
+        "annotator": {
+          "name": "Mickael"
+        },
+        "version": "",
+        "corpus": "",
+        "annotation_tools": "",
+        "annotation_rules": "",
+        "validation": "",
+        "data_source": ""
+      },
+      "namespace": "cue_point",
+      "data": [
+        {
+          "time": 15.5,
+          "duration": 0.0,
+          "value": {
+            "label": "IN",
+            "comment": "in: fade-in bass"
+          },
+          "confidence": null
+        },
+        {
+          "time": 45.5,
+          "duration": 0.0,
+          "value": {
+            "label": "IN",
+            "comment": "in: guitar"
+          },
+          "confidence": null
+        },
+        {
+          "time": 75.5,
+          "duration": 0.0,
+          "value": {
+            "label": "IN",
+            "comment": "in: main groove"
+          },
+          "confidence": null
+        },
+        {
+          "time": 165.6,
+          "duration": 30.099999999999994,
+          "value": {
+            "label": "OUT",
+            "comment": "out: riser"
+          },
+          "confidence": null
+        },
+        {
+          "time": 375.9,
+          "duration": 0.0,
+          "value": {
+            "label": "OUT",
+            "comment": "out"
+          },
+          "confidence": null
+        }
+      ],
+      "sandbox": {},
+      "time": 0,
+      "duration": null
+    }
+  ],
+  "file_metadata": {
+    "title": "Vision of Paradise",
+    "artist": "Bob Sinclair",
+    "release": "1998",
+    "duration": 384.18285714285713,
+    "identifiers": {
+      "mirrors": [],
+      "isVinyl": true
+    },
+    "jams_version": "0.3.3"
+  },
+  "sandbox": {}
+}

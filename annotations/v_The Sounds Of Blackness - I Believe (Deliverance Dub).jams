@@ -1,0 +1,209 @@
+{
+  "annotations": [
+    {
+      "annotation_metadata": {
+        "curator": {
+          "name": "",
+          "email": ""
+        },
+        "annotator": {
+          "name": "Paolo"
+        },
+        "version": "",
+        "corpus": "",
+        "annotation_tools": "",
+        "annotation_rules": "",
+        "validation": "",
+        "data_source": ""
+      },
+      "namespace": "cue_point",
+      "data": [
+        {
+          "time": 58.7,
+          "duration": 0.0,
+          "value": {
+            "label": "IN",
+            "comment": "in"
+          },
+          "confidence": null
+        },
+        {
+          "time": 137.5,
+          "duration": 0.0,
+          "value": {
+            "label": "IN",
+            "comment": "in"
+          },
+          "confidence": null
+        },
+        {
+          "time": 547.0,
+          "duration": 87.60000000000002,
+          "value": {
+            "label": "OUT",
+            "comment": "out"
+          },
+          "confidence": null
+        }
+      ],
+      "sandbox": {},
+      "time": 0,
+      "duration": null
+    },
+    {
+      "annotation_metadata": {
+        "curator": {
+          "name": "",
+          "email": ""
+        },
+        "annotator": {
+          "name": "Marco"
+        },
+        "version": "",
+        "corpus": "",
+        "annotation_tools": "",
+        "annotation_rules": "",
+        "validation": "",
+        "data_source": ""
+      },
+      "namespace": "cue_point",
+      "data": [
+        {
+          "time": 58.7,
+          "duration": 0.0,
+          "value": {
+            "label": "IN",
+            "comment": "in"
+          },
+          "confidence": null
+        },
+        {
+          "time": 137.4,
+          "duration": 15.837999999999994,
+          "value": {
+            "label": "OUT",
+            "comment": "out"
+          },
+          "confidence": null
+        },
+        {
+          "time": 153.2,
+          "duration": 0.0,
+          "value": {
+            "label": "IN",
+            "comment": "in, fuller"
+          },
+          "confidence": null
+        },
+        {
+          "time": 263.5,
+          "duration": 15.821000000000026,
+          "value": {
+            "label": "OUT",
+            "comment": "out, here as well, like MCj ft Davina, many songs"
+          },
+          "confidence": null
+        },
+        {
+          "time": 389.4,
+          "duration": 0.0,
+          "value": {
+            "label": "IN",
+            "comment": "in"
+          },
+          "confidence": null
+        },
+        {
+          "time": 546.9,
+          "duration": 80.71199999999999,
+          "value": {
+            "label": "OUT",
+            "comment": "out"
+          },
+          "confidence": null
+        }
+      ],
+      "sandbox": {},
+      "time": 0,
+      "duration": null
+    },
+    {
+      "annotation_metadata": {
+        "curator": {
+          "name": "",
+          "email": ""
+        },
+        "annotator": {
+          "name": "Mickael"
+        },
+        "version": "",
+        "corpus": "",
+        "annotation_tools": "",
+        "annotation_rules": "",
+        "validation": "",
+        "data_source": ""
+      },
+      "namespace": "cue_point",
+      "data": [
+        {
+          "time": 58.7,
+          "duration": 0.0,
+          "value": {
+            "label": "IN",
+            "comment": "in: kick in"
+          },
+          "confidence": null
+        },
+        {
+          "time": 137.5,
+          "duration": 0.0,
+          "value": {
+            "label": "IN",
+            "comment": "in: build up"
+          },
+          "confidence": null
+        },
+        {
+          "time": 153.2,
+          "duration": 0.0,
+          "value": {
+            "label": "IN",
+            "comment": "in: drop-ish"
+          },
+          "confidence": null
+        },
+        {
+          "time": 546.9,
+          "duration": 80.70000000000005,
+          "value": {
+            "label": "OUT",
+            "comment": "out: breakdown"
+          },
+          "confidence": null
+        }
+      ],
+      "sandbox": {},
+      "time": 0,
+      "duration": null
+    }
+  ],
+  "file_metadata": {
+    "title": "I Believe (Deliverance Dub)",
+    "artist": "The Sounds Of Blackness",
+    "release": "1994",
+    "duration": 731.7420408163265,
+    "identifiers": {
+      "mirrors": [
+        {
+          "type": "Youtube",
+          "url": "https://www.youtube.com/watch?v=zOMgGoWiBFc",
+          "offset": -11.147,
+          "playbackSpeed": 0.999722
+        }
+      ],
+      "isVinyl": true
+    },
+    "jams_version": "0.3.3"
+  },
+  "sandbox": {}
+}

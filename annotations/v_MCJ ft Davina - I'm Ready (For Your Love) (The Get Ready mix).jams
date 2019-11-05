@@ -1,0 +1,283 @@
+{
+  "annotations": [
+    {
+      "annotation_metadata": {
+        "curator": {
+          "name": "",
+          "email": ""
+        },
+        "annotator": {
+          "name": "Paolo"
+        },
+        "version": "",
+        "corpus": "",
+        "annotation_tools": "",
+        "annotation_rules": "",
+        "validation": "",
+        "data_source": ""
+      },
+      "namespace": "cue_point",
+      "data": [
+        {
+          "time": 32.7,
+          "duration": 0.0,
+          "value": {
+            "label": "IN",
+            "comment": "in: weak"
+          },
+          "confidence": null
+        },
+        {
+          "time": 63.7,
+          "duration": 0.0,
+          "value": {
+            "label": "IN",
+            "comment": "in: weak"
+          },
+          "confidence": null
+        },
+        {
+          "time": 79.1,
+          "duration": 0.0,
+          "value": {
+            "label": "IN",
+            "comment": "in"
+          },
+          "confidence": null
+        },
+        {
+          "time": 110.1,
+          "duration": 0.0,
+          "value": {
+            "label": "IN",
+            "comment": "in"
+          },
+          "confidence": null
+        },
+        {
+          "time": 156.6,
+          "duration": 0.0,
+          "value": {
+            "label": "IN",
+            "comment": "in"
+          },
+          "confidence": null
+        },
+        {
+          "time": 296.0,
+          "duration": 30.899999999999977,
+          "value": {
+            "label": "OUT",
+            "comment": "out "
+          },
+          "confidence": null
+        },
+        {
+          "time": 528.2,
+          "duration": 46.39999999999998,
+          "value": {
+            "label": "OUT",
+            "comment": "out "
+          },
+          "confidence": null
+        }
+      ],
+      "sandbox": {},
+      "time": 0,
+      "duration": null
+    },
+    {
+      "annotation_metadata": {
+        "curator": {
+          "name": "",
+          "email": ""
+        },
+        "annotator": {
+          "name": "Marco"
+        },
+        "version": "",
+        "corpus": "",
+        "annotation_tools": "",
+        "annotation_rules": "",
+        "validation": "",
+        "data_source": ""
+      },
+      "namespace": "cue_point",
+      "data": [
+        {
+          "time": 32.7,
+          "duration": 0.0,
+          "value": {
+            "label": "IN",
+            "comment": "in"
+          },
+          "confidence": null
+        },
+        {
+          "time": 48.3,
+          "duration": 0.0,
+          "value": {
+            "label": "IN",
+            "comment": "in, claps. Many other in after"
+          },
+          "confidence": null
+        },
+        {
+          "time": 156.8,
+          "duration": 15.0,
+          "value": {
+            "label": "OUT",
+            "comment": "out, there are 5 songs in 1 here, many in and out"
+          },
+          "confidence": null
+        }
+      ],
+      "sandbox": {},
+      "time": 0,
+      "duration": null
+    },
+    {
+      "annotation_metadata": {
+        "curator": {
+          "name": "",
+          "email": ""
+        },
+        "annotator": {
+          "name": "Mickael"
+        },
+        "version": "",
+        "corpus": "",
+        "annotation_tools": "",
+        "annotation_rules": "",
+        "validation": "",
+        "data_source": ""
+      },
+      "namespace": "cue_point",
+      "data": [
+        {
+          "time": 32.7,
+          "duration": 0.0,
+          "value": {
+            "label": "IN",
+            "comment": "in: barelly salient (filter bass removed)"
+          },
+          "confidence": null
+        },
+        {
+          "time": 48.2,
+          "duration": 0.0,
+          "value": {
+            "label": "IN",
+            "comment": "in: barelly salient (snare)"
+          },
+          "confidence": null
+        },
+        {
+          "time": 63.7,
+          "duration": 0.0,
+          "value": {
+            "label": "IN",
+            "comment": "in: barelly salient (hihat)"
+          },
+          "confidence": null
+        },
+        {
+          "time": 79.2,
+          "duration": 0.0,
+          "value": {
+            "label": "IN",
+            "comment": "in: barelly salient (voice)"
+          },
+          "confidence": null
+        },
+        {
+          "time": 94.7,
+          "duration": 0.0,
+          "value": {
+            "label": "IN",
+            "comment": "in: barelly salien (ghost notes on snare)"
+          },
+          "confidence": null
+        },
+        {
+          "time": 110.2,
+          "duration": 0.0,
+          "value": {
+            "label": "IN",
+            "comment": "in: barelly salient (cello)"
+          },
+          "confidence": null
+        },
+        {
+          "time": 172.1,
+          "duration": 0.0,
+          "value": {
+            "label": "IN",
+            "comment": "in: drop into bridge"
+          },
+          "confidence": null
+        },
+        {
+          "time": 187.6,
+          "duration": 0.0,
+          "value": {
+            "label": "IN",
+            "comment": "in: main on the verse"
+          },
+          "confidence": null
+        },
+        {
+          "time": 296.0,
+          "duration": 15.399999999999977,
+          "value": {
+            "label": "OUT",
+            "comment": "out: there is a break before the breakdown"
+          },
+          "confidence": null
+        },
+        {
+          "time": 419.8,
+          "duration": 15.5,
+          "value": {
+            "label": "OUT",
+            "comment": "out: there is a break before the breakdown"
+          },
+          "confidence": null
+        },
+        {
+          "time": 528.2,
+          "duration": 15.5,
+          "value": {
+            "label": "OUT",
+            "comment": "out: same as before"
+          },
+          "confidence": null
+        },
+        {
+          "time": 652.1,
+          "duration": 0.0,
+          "value": {
+            "label": "OUT",
+            "comment": "out"
+          },
+          "confidence": null
+        }
+      ],
+      "sandbox": {},
+      "time": 0,
+      "duration": null
+    }
+  ],
+  "file_metadata": {
+    "title": "I'm Ready (For Your Love) (The Get Ready mix)",
+    "artist": "MCJ ft Davina",
+    "release": "1993",
+    "duration": 671.2685714285715,
+    "identifiers": {
+      "mirrors": [],
+      "isVinyl": true
+    },
+    "jams_version": "0.3.3"
+  },
+  "sandbox": {}
+}

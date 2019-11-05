@@ -1,0 +1,238 @@
+{
+  "annotations": [
+    {
+      "annotation_metadata": {
+        "curator": {
+          "name": "",
+          "email": ""
+        },
+        "annotator": {
+          "name": "Paolo"
+        },
+        "version": "",
+        "corpus": "",
+        "annotation_tools": "",
+        "annotation_rules": "",
+        "validation": "",
+        "data_source": ""
+      },
+      "namespace": "cue_point",
+      "data": [
+        {
+          "time": 8.2,
+          "duration": 0.0,
+          "value": {
+            "label": "IN",
+            "comment": "in"
+          },
+          "confidence": null
+        },
+        {
+          "time": 38.7,
+          "duration": 0.0,
+          "value": {
+            "label": "IN",
+            "comment": "in"
+          },
+          "confidence": null
+        },
+        {
+          "time": 73.0,
+          "duration": 0.0,
+          "value": {
+            "label": "IN",
+            "comment": "in"
+          },
+          "confidence": null
+        },
+        {
+          "time": 84.5,
+          "duration": 0.0,
+          "value": {
+            "label": "IN",
+            "comment": "in"
+          },
+          "confidence": null
+        },
+        {
+          "time": 275.1,
+          "duration": 38.39551020408163,
+          "value": {
+            "label": "OUT",
+            "comment": "out"
+          },
+          "confidence": null
+        }
+      ],
+      "sandbox": {},
+      "time": 0,
+      "duration": null
+    },
+    {
+      "annotation_metadata": {
+        "curator": {
+          "name": "",
+          "email": ""
+        },
+        "annotator": {
+          "name": "Marco"
+        },
+        "version": "",
+        "corpus": "",
+        "annotation_tools": "",
+        "annotation_rules": "",
+        "validation": "",
+        "data_source": ""
+      },
+      "namespace": "cue_point",
+      "data": [
+        {
+          "time": 8.2,
+          "duration": 0.0,
+          "value": {
+            "label": "IN",
+            "comment": "in"
+          },
+          "confidence": null
+        },
+        {
+          "time": 229.4,
+          "duration": 7.652999999999992,
+          "value": {
+            "label": "OUT",
+            "comment": "out"
+          },
+          "confidence": null
+        },
+        {
+          "time": 275.1,
+          "duration": 15.317000000000007,
+          "value": {
+            "label": "OUT",
+            "comment": "out"
+          },
+          "confidence": null
+        },
+        {
+          "time": 305.7,
+          "duration": 7.7955102040816655,
+          "value": {
+            "label": "OUT",
+            "comment": "out until the end"
+          },
+          "confidence": null
+        }
+      ],
+      "sandbox": {},
+      "time": 0,
+      "duration": null
+    },
+    {
+      "annotation_metadata": {
+        "curator": {
+          "name": "",
+          "email": ""
+        },
+        "annotator": {
+          "name": "Mickael"
+        },
+        "version": "",
+        "corpus": "",
+        "annotation_tools": "",
+        "annotation_rules": "",
+        "validation": "",
+        "data_source": ""
+      },
+      "namespace": "cue_point",
+      "data": [
+        {
+          "time": 8.2,
+          "duration": 0.0,
+          "value": {
+            "label": "IN",
+            "comment": "in: big in"
+          },
+          "confidence": null
+        },
+        {
+          "time": 38.7,
+          "duration": 0.0,
+          "value": {
+            "label": "IN",
+            "comment": "in: drums"
+          },
+          "confidence": null
+        },
+        {
+          "time": 54.0,
+          "duration": 0.0,
+          "value": {
+            "label": "IN",
+            "comment": "in: more drums"
+          },
+          "confidence": null
+        },
+        {
+          "time": 84.5,
+          "duration": 0.0,
+          "value": {
+            "label": "IN",
+            "comment": "in: bass"
+          },
+          "confidence": null
+        },
+        {
+          "time": 115.0,
+          "duration": 0.0,
+          "value": {
+            "label": "IN",
+            "comment": "in:main"
+          },
+          "confidence": null
+        },
+        {
+          "time": 229.4,
+          "duration": 15.199999999999989,
+          "value": {
+            "label": "OUT",
+            "comment": "out: riser"
+          },
+          "confidence": null
+        },
+        {
+          "time": 275.1,
+          "duration": 15.299999999999955,
+          "value": {
+            "label": "OUT",
+            "comment": "out: riser"
+          },
+          "confidence": null
+        },
+        {
+          "time": 305.7,
+          "duration": 0.0,
+          "value": {
+            "label": "OUT",
+            "comment": "out: last chance"
+          },
+          "confidence": null
+        }
+      ],
+      "sandbox": {},
+      "time": 0,
+      "duration": null
+    }
+  ],
+  "file_metadata": {
+    "title": "La India Con Lavoe (Remixed by MAW)",
+    "artist": "India",
+    "release": "1997",
+    "duration": 313.49551020408165,
+    "identifiers": {
+      "mirrors": [],
+      "isVinyl": true
+    },
+    "jams_version": "0.3.3"
+  },
+  "sandbox": {}
+}

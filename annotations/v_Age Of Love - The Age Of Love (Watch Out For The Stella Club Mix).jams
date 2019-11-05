@@ -1,0 +1,191 @@
+{
+  "annotations": [
+    {
+      "annotation_metadata": {
+        "curator": {
+          "name": "",
+          "email": ""
+        },
+        "annotator": {
+          "name": "Paolo"
+        },
+        "version": "",
+        "corpus": "",
+        "annotation_tools": "",
+        "annotation_rules": "",
+        "validation": "",
+        "data_source": ""
+      },
+      "namespace": "cue_point",
+      "data": [
+        {
+          "time": 55.4,
+          "duration": 0.0,
+          "value": {
+            "label": "IN",
+            "comment": "in"
+          },
+          "confidence": null
+        },
+        {
+          "time": 70.2,
+          "duration": 0.0,
+          "value": {
+            "label": "IN",
+            "comment": "in"
+          },
+          "confidence": null
+        },
+        {
+          "time": 339.7,
+          "duration": 0.0,
+          "value": {
+            "label": "OUT",
+            "comment": "out"
+          },
+          "confidence": null
+        },
+        {
+          "time": 354.5,
+          "duration": 0.0,
+          "value": {
+            "label": "OUT",
+            "comment": "out: ???"
+          },
+          "confidence": null
+        },
+        {
+          "time": 406.1,
+          "duration": 0.0,
+          "value": {
+            "label": "OUT",
+            "comment": "out: end"
+          },
+          "confidence": null
+        }
+      ],
+      "sandbox": {},
+      "time": 0,
+      "duration": null
+    },
+    {
+      "annotation_metadata": {
+        "curator": {
+          "name": "",
+          "email": ""
+        },
+        "annotator": {
+          "name": "Marco"
+        },
+        "version": "",
+        "corpus": "",
+        "annotation_tools": "",
+        "annotation_rules": "",
+        "validation": "",
+        "data_source": ""
+      },
+      "namespace": "cue_point",
+      "data": [
+        {
+          "time": 169.9,
+          "duration": 0.0,
+          "value": {
+            "label": "IN",
+            "comment": "in: very late in"
+          },
+          "confidence": null
+        },
+        {
+          "time": 295.4,
+          "duration": 26.187000000000012,
+          "value": {
+            "label": "OUT",
+            "comment": "out until 05:21.587, before snare roll"
+          },
+          "confidence": null
+        }
+      ],
+      "sandbox": {},
+      "time": 0,
+      "duration": null
+    },
+    {
+      "annotation_metadata": {
+        "curator": {
+          "name": "",
+          "email": ""
+        },
+        "annotator": {
+          "name": "Mickael"
+        },
+        "version": "",
+        "corpus": "",
+        "annotation_tools": "",
+        "annotation_rules": "",
+        "validation": "",
+        "data_source": ""
+      },
+      "namespace": "cue_point",
+      "data": [
+        {
+          "time": 114.5,
+          "duration": 0.0,
+          "value": {
+            "label": "IN",
+            "comment": "in: I feel like before is not enough to be interesting"
+          },
+          "confidence": null
+        },
+        {
+          "time": 169.9,
+          "duration": 0.0,
+          "value": {
+            "label": "IN",
+            "comment": "in: main"
+          },
+          "confidence": null
+        },
+        {
+          "time": 295.6,
+          "duration": 29.399999999999977,
+          "value": {
+            "label": "OUT",
+            "comment": "out: breakown"
+          },
+          "confidence": null
+        },
+        {
+          "time": 406.2,
+          "duration": 0.0,
+          "value": {
+            "label": "OUT",
+            "comment": "out"
+          },
+          "confidence": null
+        }
+      ],
+      "sandbox": {},
+      "time": 0,
+      "duration": null
+    }
+  ],
+  "file_metadata": {
+    "title": "The Age Of Love (Watch Out For The Stella Club Mix)",
+    "artist": "Age Of Love",
+    "release": "1992",
+    "duration": 410.5665306122449,
+    "identifiers": {
+      "mirrors": [
+        {
+          "type": "Youtube",
+          "url": "https://www.youtube.com/watch?v=d6sldJrs1Pk",
+          "offset": -5.11,
+          "playbackSpeed": 1.00018
+        }
+      ],
+      "isVinyl": true
+    },
+    "jams_version": "0.3.3"
+  },
+  "sandbox": {}
+}

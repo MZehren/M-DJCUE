@@ -1,0 +1,265 @@
+{
+  "annotations": [
+    {
+      "annotation_metadata": {
+        "curator": {
+          "name": "",
+          "email": ""
+        },
+        "annotator": {
+          "name": "Marco"
+        },
+        "version": "",
+        "corpus": "",
+        "annotation_tools": "",
+        "annotation_rules": "",
+        "validation": "",
+        "data_source": ""
+      },
+      "namespace": "cue_point",
+      "data": [
+        {
+          "time": 1.3,
+          "duration": 0.0,
+          "value": {
+            "label": "IN",
+            "comment": "in"
+          },
+          "confidence": null
+        },
+        {
+          "time": 62.8,
+          "duration": 0.0,
+          "value": {
+            "label": "IN",
+            "comment": "in: (+rhythmic line)"
+          },
+          "confidence": null
+        },
+        {
+          "time": 78.7,
+          "duration": 0.0,
+          "value": {
+            "label": "IN",
+            "comment": "in: (+kick)"
+          },
+          "confidence": null
+        },
+        {
+          "time": 158.0,
+          "duration": 0.0,
+          "value": {
+            "label": "IN",
+            "comment": "in: (+perc). It never really flies..."
+          },
+          "confidence": null
+        },
+        {
+          "time": 221.5,
+          "duration": 35.69999999999999,
+          "value": {
+            "label": "OUT",
+            "comment": "out"
+          },
+          "confidence": null
+        },
+        {
+          "time": 316.7,
+          "duration": 16.5,
+          "value": {
+            "label": "OUT",
+            "comment": "out"
+          },
+          "confidence": null
+        },
+        {
+          "time": 419.9,
+          "duration": 7.900000000000034,
+          "value": {
+            "label": "OUT",
+            "comment": "out"
+          },
+          "confidence": null
+        },
+        {
+          "time": 473.5,
+          "duration": 37.167755102040815,
+          "value": {
+            "label": "OUT",
+            "comment": "out"
+          },
+          "confidence": null
+        },
+        {
+          "time": 475.4,
+          "duration": 35.26775510204084,
+          "value": {
+            "label": "OUT",
+            "comment": "out"
+          },
+          "confidence": null
+        }
+      ],
+      "sandbox": {},
+      "time": 0,
+      "duration": null
+    },
+    {
+      "annotation_metadata": {
+        "curator": {
+          "name": "",
+          "email": ""
+        },
+        "annotator": {
+          "name": "Paolo"
+        },
+        "version": "",
+        "corpus": "",
+        "annotation_tools": "",
+        "annotation_rules": "",
+        "validation": "",
+        "data_source": ""
+      },
+      "namespace": "cue_point",
+      "data": [
+        {
+          "time": 33.1,
+          "duration": 0.0,
+          "value": {
+            "label": "IN",
+            "comment": "in"
+          },
+          "confidence": null
+        },
+        {
+          "time": 62.8,
+          "duration": 0.0,
+          "value": {
+            "label": "IN",
+            "comment": "in"
+          },
+          "confidence": null
+        },
+        {
+          "time": 78.7,
+          "duration": 0.0,
+          "value": {
+            "label": "IN",
+            "comment": "in"
+          },
+          "confidence": null
+        },
+        {
+          "time": 475.4,
+          "duration": 35.26775510204084,
+          "value": {
+            "label": "OUT",
+            "comment": "out"
+          },
+          "confidence": null
+        }
+      ],
+      "sandbox": {},
+      "time": 0,
+      "duration": null
+    },
+    {
+      "annotation_metadata": {
+        "curator": {
+          "name": "",
+          "email": ""
+        },
+        "annotator": {
+          "name": "Mickael"
+        },
+        "version": "",
+        "corpus": "",
+        "annotation_tools": "",
+        "annotation_rules": "",
+        "validation": "",
+        "data_source": ""
+      },
+      "namespace": "cue_point",
+      "data": [
+        {
+          "time": 62.8,
+          "duration": 0.0,
+          "value": {
+            "label": "IN",
+            "comment": "in: not on the bar period. I add it to keep track, but I would not keep it as a DJ"
+          },
+          "confidence": null
+        },
+        {
+          "time": 78.7,
+          "duration": 0.0,
+          "value": {
+            "label": "IN",
+            "comment": "in"
+          },
+          "confidence": null
+        },
+        {
+          "time": 158.0,
+          "duration": 0.0,
+          "value": {
+            "label": "IN",
+            "comment": "in: main"
+          },
+          "confidence": null
+        },
+        {
+          "time": 221.5,
+          "duration": 15.400000000000006,
+          "value": {
+            "label": "OUT",
+            "comment": "out: Build-up"
+          },
+          "confidence": null
+        },
+        {
+          "time": 316.7,
+          "duration": 31.80000000000001,
+          "value": {
+            "label": "OUT",
+            "comment": "out: build-up with voice"
+          },
+          "confidence": null
+        },
+        {
+          "time": 351.9,
+          "duration": 75.90000000000003,
+          "value": {
+            "label": "OUT",
+            "comment": "out: breakdown-ish"
+          },
+          "confidence": null
+        },
+        {
+          "time": 475.4,
+          "duration": 0.0,
+          "value": {
+            "label": "OUT",
+            "comment": "out: outro"
+          },
+          "confidence": null
+        }
+      ],
+      "sandbox": {},
+      "time": 0,
+      "duration": null
+    }
+  ],
+  "file_metadata": {
+    "title": "I Go Back",
+    "artist": "Harry Romero ft Robert Owens",
+    "release": "2003",
+    "duration": 510.6677551020408,
+    "identifiers": {
+      "mirrors": [],
+      "isVinyl": false
+    },
+    "jams_version": "0.3.3"
+  },
+  "sandbox": {}
+}

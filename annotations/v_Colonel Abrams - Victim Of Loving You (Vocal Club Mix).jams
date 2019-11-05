@@ -1,0 +1,245 @@
+{
+  "annotations": [
+    {
+      "annotation_metadata": {
+        "curator": {
+          "name": "",
+          "email": ""
+        },
+        "annotator": {
+          "name": "Marco"
+        },
+        "version": "",
+        "corpus": "",
+        "annotation_tools": "",
+        "annotation_rules": "",
+        "validation": "",
+        "data_source": ""
+      },
+      "namespace": "cue_point",
+      "data": [
+        {
+          "time": 6.6,
+          "duration": 0.0,
+          "value": {
+            "label": "IN",
+            "comment": "in"
+          },
+          "confidence": null
+        },
+        {
+          "time": 38.0,
+          "duration": 0.0,
+          "value": {
+            "label": "IN",
+            "comment": "in"
+          },
+          "confidence": null
+        },
+        {
+          "time": 84.8,
+          "duration": 0.0,
+          "value": {
+            "label": "IN",
+            "comment": "in, core"
+          },
+          "confidence": null
+        },
+        {
+          "time": 256.7,
+          "duration": 15.600000000000023,
+          "value": {
+            "label": "OUT",
+            "comment": "out"
+          },
+          "confidence": null
+        },
+        {
+          "time": 381.7,
+          "duration": 15.5,
+          "value": {
+            "label": "OUT",
+            "comment": "out"
+          },
+          "confidence": null
+        },
+        {
+          "time": 420.7,
+          "duration": 28.31877551020409,
+          "value": {
+            "label": "OUT",
+            "comment": "out"
+          },
+          "confidence": null
+        }
+      ],
+      "sandbox": {},
+      "time": 0,
+      "duration": null
+    },
+    {
+      "annotation_metadata": {
+        "curator": {
+          "name": "",
+          "email": ""
+        },
+        "annotator": {
+          "name": "Mickael"
+        },
+        "version": "",
+        "corpus": "",
+        "annotation_tools": "",
+        "annotation_rules": "",
+        "validation": "",
+        "data_source": ""
+      },
+      "namespace": "cue_point",
+      "data": [
+        {
+          "time": 38.0,
+          "duration": 0.0,
+          "value": {
+            "label": "IN",
+            "comment": "in"
+          },
+          "confidence": null
+        },
+        {
+          "time": 69.2,
+          "duration": 0.0,
+          "value": {
+            "label": "IN",
+            "comment": "in: breakdown but voice before ?"
+          },
+          "confidence": null
+        },
+        {
+          "time": 77.0,
+          "duration": 0.0,
+          "value": {
+            "label": "IN",
+            "comment": "in"
+          },
+          "confidence": null
+        },
+        {
+          "time": 84.8,
+          "duration": 0.0,
+          "value": {
+            "label": "IN",
+            "comment": "in: main"
+          },
+          "confidence": null
+        },
+        {
+          "time": 256.7,
+          "duration": 15.600000000000023,
+          "value": {
+            "label": "OUT",
+            "comment": "out: breakdown with voice (take off at 4:47.9)"
+          },
+          "confidence": null
+        },
+        {
+          "time": 319.2,
+          "duration": 15.600000000000023,
+          "value": {
+            "label": "OUT",
+            "comment": "out: break in the kick"
+          },
+          "confidence": null
+        },
+        {
+          "time": 412.9,
+          "duration": 0.0,
+          "value": {
+            "label": "OUT",
+            "comment": "out: outro"
+          },
+          "confidence": null
+        },
+        {
+          "time": 501.7,
+          "duration": 15.599999999999966,
+          "value": {
+            "label": "OUT",
+            "comment": "out: breakdown"
+          },
+          "confidence": null
+        }
+      ],
+      "sandbox": {},
+      "time": 0,
+      "duration": null
+    },
+    {
+      "annotation_metadata": {
+        "curator": {
+          "name": "",
+          "email": ""
+        },
+        "annotator": {
+          "name": "Paolo"
+        },
+        "version": "",
+        "corpus": "",
+        "annotation_tools": "",
+        "annotation_rules": "",
+        "validation": "",
+        "data_source": ""
+      },
+      "namespace": "cue_point",
+      "data": [
+        {
+          "time": 38.0,
+          "duration": 0.0,
+          "value": {
+            "label": "IN",
+            "comment": "IN (1.5 bars before voice)"
+          },
+          "confidence": null
+        },
+        {
+          "time": 69.2,
+          "duration": 0.0,
+          "value": {
+            "label": "IN",
+            "comment": "IN"
+          },
+          "confidence": null
+        },
+        {
+          "time": 412.9,
+          "duration": 36.1187755102041,
+          "value": {
+            "label": "OUT",
+            "comment": "OUT"
+          },
+          "confidence": null
+        }
+      ],
+      "sandbox": {},
+      "time": 0,
+      "duration": null
+    }
+  ],
+  "file_metadata": {
+    "title": "Victim Of Loving You (Vocal Club Mix)",
+    "artist": "Colonel Abrams",
+    "release": "1995",
+    "duration": 449.0187755102041,
+    "identifiers": {
+      "mirrors": [
+        {
+          "type": "Youtube",
+          "url": "https://www.youtube.com/watch?v=UUWbLuaRe9A",
+          "offset": -6.448,
+          "playbackSpeed": 0.999928
+        }
+      ],
+      "isVinyl": true
+    },
+    "jams_version": "0.3.3"
+  },
+  "sandbox": {}
+}

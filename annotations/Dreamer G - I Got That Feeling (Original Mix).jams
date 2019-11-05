@@ -1,0 +1,200 @@
+{
+  "annotations": [
+    {
+      "annotation_metadata": {
+        "curator": {
+          "name": "",
+          "email": ""
+        },
+        "annotator": {
+          "name": "Paolo"
+        },
+        "version": "",
+        "corpus": "",
+        "annotation_tools": "",
+        "annotation_rules": "",
+        "validation": "",
+        "data_source": ""
+      },
+      "namespace": "cue_point",
+      "data": [
+        {
+          "time": 0.2,
+          "duration": 0.0,
+          "value": {
+            "label": "IN",
+            "comment": "in"
+          },
+          "confidence": null
+        },
+        {
+          "time": 32.2,
+          "duration": 0.0,
+          "value": {
+            "label": "IN",
+            "comment": "in: tz tz - weak"
+          },
+          "confidence": null
+        },
+        {
+          "time": 48.3,
+          "duration": 0.0,
+          "value": {
+            "label": "IN",
+            "comment": "in"
+          },
+          "confidence": null
+        },
+        {
+          "time": 289.0,
+          "duration": 31.600000000000023,
+          "value": {
+            "label": "OUT",
+            "comment": "out "
+          },
+          "confidence": null
+        }
+      ],
+      "sandbox": {},
+      "time": 0,
+      "duration": null
+    },
+    {
+      "annotation_metadata": {
+        "curator": {
+          "name": "",
+          "email": ""
+        },
+        "annotator": {
+          "name": "Marco"
+        },
+        "version": "",
+        "corpus": "",
+        "annotation_tools": "",
+        "annotation_rules": "",
+        "validation": "",
+        "data_source": ""
+      },
+      "namespace": "cue_point",
+      "data": [
+        {
+          "time": 0.2,
+          "duration": 0.0,
+          "value": {
+            "label": "IN",
+            "comment": "in"
+          },
+          "confidence": null
+        },
+        {
+          "time": 32.2,
+          "duration": 0.0,
+          "value": {
+            "label": "IN",
+            "comment": "in"
+          },
+          "confidence": null
+        },
+        {
+          "time": 289.1,
+          "duration": 32.04399999999998,
+          "value": {
+            "label": "OUT",
+            "comment": "out until 5:21.144"
+          },
+          "confidence": null
+        }
+      ],
+      "sandbox": {},
+      "time": 0,
+      "duration": null
+    },
+    {
+      "annotation_metadata": {
+        "curator": {
+          "name": "",
+          "email": ""
+        },
+        "annotator": {
+          "name": "Mickael"
+        },
+        "version": "",
+        "corpus": "",
+        "annotation_tools": "",
+        "annotation_rules": "",
+        "validation": "",
+        "data_source": ""
+      },
+      "namespace": "cue_point",
+      "data": [
+        {
+          "time": 0.1,
+          "duration": 0.0,
+          "value": {
+            "label": "IN",
+            "comment": "in: + kick + voice"
+          },
+          "confidence": null
+        },
+        {
+          "time": 16.2,
+          "duration": 0.0,
+          "value": {
+            "label": "IN",
+            "comment": "in: +percussion "
+          },
+          "confidence": null
+        },
+        {
+          "time": 32.2,
+          "duration": 0.0,
+          "value": {
+            "label": "IN",
+            "comment": "in: +hh +synth"
+          },
+          "confidence": null
+        },
+        {
+          "time": 48.3,
+          "duration": 0.0,
+          "value": {
+            "label": "IN",
+            "comment": "in: +snare"
+          },
+          "confidence": null
+        },
+        {
+          "time": 289.0,
+          "duration": 0.0,
+          "value": {
+            "label": "OUT",
+            "comment": "out: bass, kick, snare, voice"
+          },
+          "confidence": null
+        }
+      ],
+      "sandbox": {},
+      "time": 0,
+      "duration": null
+    }
+  ],
+  "file_metadata": {
+    "title": "I Got That Feeling (Original Mix)",
+    "artist": "Dreamer G",
+    "release": "1992",
+    "duration": 349.1787755102041,
+    "identifiers": {
+      "mirrors": [
+        {
+          "type": "Youtube",
+          "url": "https://www.youtube.com/watch?v=XfAqowWY9C0",
+          "offset": -0.576,
+          "playbackSpeed": 1.000147
+        }
+      ],
+      "isVinyl": false
+    },
+    "jams_version": "0.3.3"
+  },
+  "sandbox": {}
+}

@@ -1,0 +1,229 @@
+{
+  "annotations": [
+    {
+      "annotation_metadata": {
+        "curator": {
+          "name": "",
+          "email": ""
+        },
+        "annotator": {
+          "name": "Michael"
+        },
+        "version": "",
+        "corpus": "",
+        "annotation_tools": "",
+        "annotation_rules": "",
+        "validation": "",
+        "data_source": ""
+      },
+      "namespace": "cue_point",
+      "data": [
+        {
+          "time": 1.8,
+          "duration": 0.0,
+          "value": {
+            "label": "IN",
+            "comment": "In 1"
+          },
+          "confidence": null
+        },
+        {
+          "time": 16.9,
+          "duration": 0.0,
+          "value": {
+            "label": "IN",
+            "comment": "In 2"
+          },
+          "confidence": null
+        },
+        {
+          "time": 32.0,
+          "duration": 0.0,
+          "value": {
+            "label": "IN",
+            "comment": "In 3"
+          },
+          "confidence": null
+        },
+        {
+          "time": 47.1,
+          "duration": 0.0,
+          "value": {
+            "label": "IN",
+            "comment": "In 4"
+          },
+          "confidence": null
+        },
+        {
+          "time": 62.3,
+          "duration": 0.0,
+          "value": {
+            "label": "IN",
+            "comment": "In 5 - start of main part"
+          },
+          "confidence": null
+        },
+        {
+          "time": 198.4,
+          "duration": 0.0,
+          "value": {
+            "label": "OUT",
+            "comment": "Out 1 - for short mix (playing song just half)"
+          },
+          "confidence": null
+        },
+        {
+          "time": 311.9,
+          "duration": 0.0,
+          "value": {
+            "label": "OUT",
+            "comment": "Out 2"
+          },
+          "confidence": null
+        },
+        {
+          "time": 334.5,
+          "duration": 0.0,
+          "value": {
+            "label": "OUT",
+            "comment": "Out 3 (late Outro)"
+          },
+          "confidence": null
+        }
+      ],
+      "sandbox": {},
+      "time": 0,
+      "duration": null
+    },
+    {
+      "annotation_metadata": {
+        "curator": {
+          "name": "",
+          "email": ""
+        },
+        "annotator": {
+          "name": "Paolo"
+        },
+        "version": "",
+        "corpus": "",
+        "annotation_tools": "",
+        "annotation_rules": "",
+        "validation": "",
+        "data_source": ""
+      },
+      "namespace": "cue_point",
+      "data": [
+        {
+          "time": 1.8,
+          "duration": 0.0,
+          "value": {
+            "label": "IN",
+            "comment": "in: weak"
+          },
+          "confidence": null
+        },
+        {
+          "time": 47.2,
+          "duration": 0.0,
+          "value": {
+            "label": "IN",
+            "comment": "IN"
+          },
+          "confidence": null
+        },
+        {
+          "time": 62.3,
+          "duration": 0.0,
+          "value": {
+            "label": "IN",
+            "comment": "IN"
+          },
+          "confidence": null
+        },
+        {
+          "time": 198.4,
+          "duration": 53.0,
+          "value": {
+            "label": "OUT",
+            "comment": "OUT"
+          },
+          "confidence": null
+        },
+        {
+          "time": 334.6,
+          "duration": 28.214693877550985,
+          "value": {
+            "label": "OUT",
+            "comment": "OUT"
+          },
+          "confidence": null
+        }
+      ],
+      "sandbox": {},
+      "time": 0,
+      "duration": null
+    },
+    {
+      "annotation_metadata": {
+        "curator": {
+          "name": "",
+          "email": ""
+        },
+        "annotator": {
+          "name": "Marco"
+        },
+        "version": "",
+        "corpus": "",
+        "annotation_tools": "",
+        "annotation_rules": "",
+        "validation": "",
+        "data_source": ""
+      },
+      "namespace": "cue_point",
+      "data": [
+        {
+          "time": 62.2,
+          "duration": 0.0,
+          "value": {
+            "label": "IN",
+            "comment": "in"
+          },
+          "confidence": null
+        },
+        {
+          "time": 198.4,
+          "duration": 22.69999999999999,
+          "value": {
+            "label": "OUT",
+            "comment": "out"
+          },
+          "confidence": null
+        },
+        {
+          "time": 334.6,
+          "duration": 28.214693877550985,
+          "value": {
+            "label": "OUT",
+            "comment": "out"
+          },
+          "confidence": null
+        }
+      ],
+      "sandbox": {},
+      "time": 0,
+      "duration": null
+    }
+  ],
+  "file_metadata": {
+    "title": "Northern Lights (Old Skool Re-edit)",
+    "artist": "Caucasian Boy",
+    "release": "1993",
+    "duration": 362.814693877551,
+    "identifiers": {
+      "mirrors": [],
+      "isVinyl": true
+    },
+    "jams_version": "0.3.3"
+  },
+  "sandbox": {}
+}

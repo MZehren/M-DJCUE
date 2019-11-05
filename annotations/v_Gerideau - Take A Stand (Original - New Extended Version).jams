@@ -1,0 +1,220 @@
+{
+  "annotations": [
+    {
+      "annotation_metadata": {
+        "curator": {
+          "name": "",
+          "email": ""
+        },
+        "annotator": {
+          "name": "Paolo"
+        },
+        "version": "",
+        "corpus": "",
+        "annotation_tools": "",
+        "annotation_rules": "",
+        "validation": "",
+        "data_source": ""
+      },
+      "namespace": "cue_point",
+      "data": [
+        {
+          "time": 16.9,
+          "duration": 0.0,
+          "value": {
+            "label": "IN",
+            "comment": "in"
+          },
+          "confidence": null
+        },
+        {
+          "time": 33.1,
+          "duration": 0.0,
+          "value": {
+            "label": "IN",
+            "comment": "in"
+          },
+          "confidence": null
+        },
+        {
+          "time": 49.4,
+          "duration": 0.0,
+          "value": {
+            "label": "IN",
+            "comment": "in"
+          },
+          "confidence": null
+        },
+        {
+          "time": 292.9,
+          "duration": 32.30000000000001,
+          "value": {
+            "label": "OUT",
+            "comment": "out "
+          },
+          "confidence": null
+        },
+        {
+          "time": 455.1,
+          "duration": 32.5,
+          "value": {
+            "label": "OUT",
+            "comment": "out "
+          },
+          "confidence": null
+        },
+        {
+          "time": 487.6,
+          "duration": 0.0,
+          "value": {
+            "label": "OUT",
+            "comment": "out end"
+          },
+          "confidence": null
+        }
+      ],
+      "sandbox": {},
+      "time": 0,
+      "duration": null
+    },
+    {
+      "annotation_metadata": {
+        "curator": {
+          "name": "",
+          "email": ""
+        },
+        "annotator": {
+          "name": "Marco"
+        },
+        "version": "",
+        "corpus": "",
+        "annotation_tools": "",
+        "annotation_rules": "",
+        "validation": "",
+        "data_source": ""
+      },
+      "namespace": "cue_point",
+      "data": [
+        {
+          "time": 0.6,
+          "duration": 0.0,
+          "value": {
+            "label": "IN",
+            "comment": "in"
+          },
+          "confidence": null
+        },
+        {
+          "time": 16.9,
+          "duration": 0.0,
+          "value": {
+            "label": "IN",
+            "comment": "in, better"
+          },
+          "confidence": null
+        },
+        {
+          "time": 268.5,
+          "duration": 0.0,
+          "value": {
+            "label": "OUT",
+            "comment": "out: but again, the guy is talking"
+          },
+          "confidence": null
+        }
+      ],
+      "sandbox": {},
+      "time": 0,
+      "duration": null
+    },
+    {
+      "annotation_metadata": {
+        "curator": {
+          "name": "",
+          "email": ""
+        },
+        "annotator": {
+          "name": "Mickael"
+        },
+        "version": "",
+        "corpus": "",
+        "annotation_tools": "",
+        "annotation_rules": "",
+        "validation": "",
+        "data_source": ""
+      },
+      "namespace": "cue_point",
+      "data": [
+        {
+          "time": 0.7,
+          "duration": 0.0,
+          "value": {
+            "label": "IN",
+            "comment": "in: Full drumset"
+          },
+          "confidence": null
+        },
+        {
+          "time": 16.9,
+          "duration": 0.0,
+          "value": {
+            "label": "IN",
+            "comment": "in"
+          },
+          "confidence": null
+        },
+        {
+          "time": 33.1,
+          "duration": 0.0,
+          "value": {
+            "label": "IN",
+            "comment": "in: main because of the bass"
+          },
+          "confidence": null
+        },
+        {
+          "time": 487.6,
+          "duration": 0.0,
+          "value": {
+            "label": "OUT",
+            "comment": "out: start outro"
+          },
+          "confidence": null
+        },
+        {
+          "time": 503.8,
+          "duration": 0.0,
+          "value": {
+            "label": "OUT",
+            "comment": "out: next loop outro"
+          },
+          "confidence": null
+        },
+        {
+          "time": 520.0,
+          "duration": 0.0,
+          "value": {
+            "label": "OUT",
+            "comment": "out: final loop"
+          },
+          "confidence": null
+        }
+      ],
+      "sandbox": {},
+      "time": 0,
+      "duration": null
+    }
+  ],
+  "file_metadata": {
+    "title": "Take A Stand (Original",
+    "artist": "Gerideau",
+    "release": "1993",
+    "duration": 539.1934693877552,
+    "identifiers": {
+      "mirrors": [],
+      "isVinyl": true
+    },
+    "jams_version": "0.3.3"
+  },
+  "sandbox": {}
+}

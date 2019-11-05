@@ -1,0 +1,200 @@
+{
+  "annotations": [
+    {
+      "annotation_metadata": {
+        "curator": {
+          "name": "",
+          "email": ""
+        },
+        "annotator": {
+          "name": "Mickael"
+        },
+        "version": "",
+        "corpus": "",
+        "annotation_tools": "",
+        "annotation_rules": "",
+        "validation": "",
+        "data_source": ""
+      },
+      "namespace": "cue_point",
+      "data": [
+        {
+          "time": 2.3,
+          "duration": 0.0,
+          "value": {
+            "label": "IN",
+            "comment": "in: intro only synth sufficient ?"
+          },
+          "confidence": null
+        },
+        {
+          "time": 18.2,
+          "duration": 0.0,
+          "value": {
+            "label": "IN",
+            "comment": "in: intro second motif"
+          },
+          "confidence": null
+        },
+        {
+          "time": 34.1,
+          "duration": 0.0,
+          "value": {
+            "label": "IN",
+            "comment": "in: intro third motif"
+          },
+          "confidence": null
+        },
+        {
+          "time": 50.0,
+          "duration": 0.0,
+          "value": {
+            "label": "IN",
+            "comment": "in: main (kick in)"
+          },
+          "confidence": null
+        },
+        {
+          "time": 225.3,
+          "duration": 0.0,
+          "value": {
+            "label": "OUT",
+            "comment": "out (kick out)"
+          },
+          "confidence": null
+        }
+      ],
+      "sandbox": {},
+      "time": 0,
+      "duration": null
+    },
+    {
+      "annotation_metadata": {
+        "curator": {
+          "name": "",
+          "email": ""
+        },
+        "annotator": {
+          "name": "Marco"
+        },
+        "version": "",
+        "corpus": "",
+        "annotation_tools": "",
+        "annotation_rules": "",
+        "validation": "",
+        "data_source": ""
+      },
+      "namespace": "cue_point",
+      "data": [
+        {
+          "time": 50.05,
+          "duration": 0.0,
+          "value": {
+            "label": "IN",
+            "comment": "in: full sound"
+          },
+          "confidence": null
+        },
+        {
+          "time": 114.757,
+          "duration": 0.0,
+          "value": {
+            "label": "OUT",
+            "comment": "out:  breakdown"
+          },
+          "confidence": null
+        },
+        {
+          "time": 177.524,
+          "duration": 0.0,
+          "value": {
+            "label": "OUT",
+            "comment": "out:  like the previous one"
+          },
+          "confidence": null
+        },
+        {
+          "time": 225.276,
+          "duration": 0.0,
+          "value": {
+            "label": "OUT",
+            "comment": "out:  breakdown"
+          },
+          "confidence": null
+        }
+      ],
+      "sandbox": {},
+      "time": 0,
+      "duration": null
+    },
+    {
+      "annotation_metadata": {
+        "curator": {
+          "name": "",
+          "email": ""
+        },
+        "annotator": {
+          "name": "Paolo"
+        },
+        "version": "",
+        "corpus": "",
+        "annotation_tools": "",
+        "annotation_rules": "",
+        "validation": "",
+        "data_source": ""
+      },
+      "namespace": "cue_point",
+      "data": [
+        {
+          "time": 2.3,
+          "duration": 0.0,
+          "value": {
+            "label": "IN",
+            "comment": "in: beginning"
+          },
+          "confidence": null
+        },
+        {
+          "time": 50.1,
+          "duration": 0.0,
+          "value": {
+            "label": "IN",
+            "comment": "in: beat"
+          },
+          "confidence": null
+        },
+        {
+          "time": 225.3,
+          "duration": 0.0,
+          "value": {
+            "label": "OUT",
+            "comment": "out"
+          },
+          "confidence": null
+        }
+      ],
+      "sandbox": {},
+      "time": 0,
+      "duration": null
+    }
+  ],
+  "file_metadata": {
+    "title": "Strange",
+    "artist": "Interfront",
+    "release": "1990",
+    "duration": 245.52489795918368,
+    "identifiers": {
+      "mirrors": [
+        {
+          "type": "Youtube",
+          "url": "https://www.youtube.com/watch?v=4YHqjwv1bxA",
+          "offset": -1.82,
+          "playbackSpeed": 0.998163
+        }
+      ],
+      "isVinyl": true
+    },
+    "jams_version": "0.3.3"
+  },
+  "sandbox": {}
+}

@@ -1,0 +1,200 @@
+{
+  "annotations": [
+    {
+      "annotation_metadata": {
+        "curator": {
+          "name": "",
+          "email": ""
+        },
+        "annotator": {
+          "name": "Marco"
+        },
+        "version": "",
+        "corpus": "",
+        "annotation_tools": "",
+        "annotation_rules": "",
+        "validation": "",
+        "data_source": ""
+      },
+      "namespace": "cue_point",
+      "data": [
+        {
+          "time": 0.2,
+          "duration": 0.0,
+          "value": {
+            "label": "IN",
+            "comment": "in"
+          },
+          "confidence": null
+        },
+        {
+          "time": 62.5,
+          "duration": 0.0,
+          "value": {
+            "label": "IN",
+            "comment": "in: (+lines, +sound event on downbeat)"
+          },
+          "confidence": null
+        },
+        {
+          "time": 187.6,
+          "duration": 31.099999999999994,
+          "value": {
+            "label": "OUT",
+            "comment": "out"
+          },
+          "confidence": null
+        },
+        {
+          "time": 328.0,
+          "duration": 6.942040816326539,
+          "value": {
+            "label": "OUT",
+            "comment": "out"
+          },
+          "confidence": null
+        }
+      ],
+      "sandbox": {},
+      "time": 0,
+      "duration": null
+    },
+    {
+      "annotation_metadata": {
+        "curator": {
+          "name": "",
+          "email": ""
+        },
+        "annotator": {
+          "name": "Paolo"
+        },
+        "version": "",
+        "corpus": "",
+        "annotation_tools": "",
+        "annotation_rules": "",
+        "validation": "",
+        "data_source": ""
+      },
+      "namespace": "cue_point",
+      "data": [
+        {
+          "time": 62.5,
+          "duration": 0.0,
+          "value": {
+            "label": "IN",
+            "comment": "in: weak"
+          },
+          "confidence": null
+        },
+        {
+          "time": 93.8,
+          "duration": 0.0,
+          "value": {
+            "label": "IN",
+            "comment": "in: weak"
+          },
+          "confidence": null
+        },
+        {
+          "time": 125.0,
+          "duration": 0.0,
+          "value": {
+            "label": "IN",
+            "comment": "in"
+          },
+          "confidence": null
+        },
+        {
+          "time": 187.5,
+          "duration": 31.19999999999999,
+          "value": {
+            "label": "OUT",
+            "comment": "out"
+          },
+          "confidence": null
+        },
+        {
+          "time": 296.8,
+          "duration": 38.14204081632653,
+          "value": {
+            "label": "OUT",
+            "comment": "out"
+          },
+          "confidence": null
+        }
+      ],
+      "sandbox": {},
+      "time": 0,
+      "duration": null
+    },
+    {
+      "annotation_metadata": {
+        "curator": {
+          "name": "",
+          "email": ""
+        },
+        "annotator": {
+          "name": "Mickael"
+        },
+        "version": "",
+        "corpus": "",
+        "annotation_tools": "",
+        "annotation_rules": "",
+        "validation": "",
+        "data_source": ""
+      },
+      "namespace": "cue_point",
+      "data": [
+        {
+          "time": 62.6,
+          "duration": 0.0,
+          "value": {
+            "label": "IN",
+            "comment": "in: main? 2:5.1 is a bit louder with the hihqt"
+          },
+          "confidence": null
+        },
+        {
+          "time": 187.5,
+          "duration": 31.19999999999999,
+          "value": {
+            "label": "OUT",
+            "comment": "out"
+          },
+          "confidence": null
+        },
+        {
+          "time": 328.0,
+          "duration": 6.942040816326539,
+          "value": {
+            "label": "OUT",
+            "comment": "out"
+          },
+          "confidence": null
+        }
+      ],
+      "sandbox": {},
+      "time": 0,
+      "duration": null
+    }
+  ],
+  "file_metadata": {
+    "title": "Cassa de X (Deep Dish Chamber Of Sound dub)",
+    "artist": "Elastic Reality",
+    "release": "1994",
+    "duration": 334.94204081632654,
+    "identifiers": {
+      "mirrors": [
+        {
+          "type": "Youtube",
+          "url": "https://www.youtube.com/watch?v=87l_7D5Xnvg",
+          "offset": -0.061,
+          "playbackSpeed": 1.022177
+        }
+      ],
+      "isVinyl": false
+    },
+    "jams_version": "0.3.3"
+  },
+  "sandbox": {}
+}

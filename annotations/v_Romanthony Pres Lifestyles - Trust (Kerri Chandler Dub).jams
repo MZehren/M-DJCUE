@@ -1,0 +1,173 @@
+{
+  "annotations": [
+    {
+      "annotation_metadata": {
+        "curator": {
+          "name": "",
+          "email": ""
+        },
+        "annotator": {
+          "name": "Paolo"
+        },
+        "version": "",
+        "corpus": "",
+        "annotation_tools": "",
+        "annotation_rules": "",
+        "validation": "",
+        "data_source": ""
+      },
+      "namespace": "cue_point",
+      "data": [
+        {
+          "time": 35.3,
+          "duration": 0.0,
+          "value": {
+            "label": "IN",
+            "comment": "in: weak"
+          },
+          "confidence": null
+        },
+        {
+          "time": 91.6,
+          "duration": 0.0,
+          "value": {
+            "label": "IN",
+            "comment": "in"
+          },
+          "confidence": null
+        },
+        {
+          "time": 421.4,
+          "duration": 22.420408163265336,
+          "value": {
+            "label": "OUT",
+            "comment": "out"
+          },
+          "confidence": null
+        }
+      ],
+      "sandbox": {},
+      "time": 0,
+      "duration": null
+    },
+    {
+      "annotation_metadata": {
+        "curator": {
+          "name": "",
+          "email": ""
+        },
+        "annotator": {
+          "name": "Marco"
+        },
+        "version": "",
+        "corpus": "",
+        "annotation_tools": "",
+        "annotation_rules": "",
+        "validation": "",
+        "data_source": ""
+      },
+      "namespace": "cue_point",
+      "data": [
+        {
+          "time": 35.3,
+          "duration": 0.0,
+          "value": {
+            "label": "IN",
+            "comment": "in"
+          },
+          "confidence": null
+        },
+        {
+          "time": 421.4,
+          "duration": 22.420408163265336,
+          "value": {
+            "label": "OUT",
+            "comment": "out until the end"
+          },
+          "confidence": null
+        }
+      ],
+      "sandbox": {},
+      "time": 0,
+      "duration": null
+    },
+    {
+      "annotation_metadata": {
+        "curator": {
+          "name": "",
+          "email": ""
+        },
+        "annotator": {
+          "name": "Mickael"
+        },
+        "version": "",
+        "corpus": "",
+        "annotation_tools": "",
+        "annotation_rules": "",
+        "validation": "",
+        "data_source": ""
+      },
+      "namespace": "cue_point",
+      "data": [
+        {
+          "time": 67.5,
+          "duration": 0.0,
+          "value": {
+            "label": "IN",
+            "comment": "in: during a fade in"
+          },
+          "confidence": null
+        },
+        {
+          "time": 83.6,
+          "duration": 0.0,
+          "value": {
+            "label": "IN",
+            "comment": "in: little novelty"
+          },
+          "confidence": null
+        },
+        {
+          "time": 91.6,
+          "duration": 0.0,
+          "value": {
+            "label": "IN",
+            "comment": "in: main keyboard + bass"
+          },
+          "confidence": null
+        },
+        {
+          "time": 421.4,
+          "duration": 22.420408163265336,
+          "value": {
+            "label": "OUT",
+            "comment": "out: outro"
+          },
+          "confidence": null
+        }
+      ],
+      "sandbox": {},
+      "time": 0,
+      "duration": null
+    }
+  ],
+  "file_metadata": {
+    "title": "Trust (Kerri Chandler Dub)",
+    "artist": "Romanthony Pres Lifestyles",
+    "release": "1995",
+    "duration": 443.8204081632653,
+    "identifiers": {
+      "mirrors": [
+        {
+          "type": "Youtube",
+          "url": "https://www.youtube.com/watch?v=PXcfu5KeetY",
+          "offset": -1.493,
+          "playbackSpeed": 1.000355
+        }
+      ],
+      "isVinyl": true
+    },
+    "jams_version": "0.3.3"
+  },
+  "sandbox": {}
+}

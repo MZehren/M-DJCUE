@@ -1,0 +1,256 @@
+{
+  "annotations": [
+    {
+      "annotation_metadata": {
+        "curator": {
+          "name": "",
+          "email": ""
+        },
+        "annotator": {
+          "name": "Paolo"
+        },
+        "version": "",
+        "corpus": "",
+        "annotation_tools": "",
+        "annotation_rules": "",
+        "validation": "",
+        "data_source": ""
+      },
+      "namespace": "cue_point",
+      "data": [
+        {
+          "time": 79.4,
+          "duration": 0.0,
+          "value": {
+            "label": "IN",
+            "comment": "in"
+          },
+          "confidence": null
+        },
+        {
+          "time": 110.3,
+          "duration": 0.0,
+          "value": {
+            "label": "IN",
+            "comment": "in"
+          },
+          "confidence": null
+        },
+        {
+          "time": 203.2,
+          "duration": 0.0,
+          "value": {
+            "label": "IN",
+            "comment": "in"
+          },
+          "confidence": null
+        },
+        {
+          "time": 315.5,
+          "duration": 25.100000000000023,
+          "value": {
+            "label": "OUT",
+            "comment": "out"
+          },
+          "confidence": null
+        },
+        {
+          "time": 714.3,
+          "duration": 66.94408163265314,
+          "value": {
+            "label": "OUT",
+            "comment": "out"
+          },
+          "confidence": null
+        }
+      ],
+      "sandbox": {},
+      "time": 0,
+      "duration": null
+    },
+    {
+      "annotation_metadata": {
+        "curator": {
+          "name": "",
+          "email": ""
+        },
+        "annotator": {
+          "name": "Marco"
+        },
+        "version": "",
+        "corpus": "",
+        "annotation_tools": "",
+        "annotation_rules": "",
+        "validation": "",
+        "data_source": ""
+      },
+      "namespace": "cue_point",
+      "data": [
+        {
+          "time": 79.4,
+          "duration": 0.0,
+          "value": {
+            "label": "IN",
+            "comment": "in"
+          },
+          "confidence": null
+        },
+        {
+          "time": 295.9,
+          "duration": 31.172000000000025,
+          "value": {
+            "label": "OUT",
+            "comment": "out"
+          },
+          "confidence": null
+        },
+        {
+          "time": 338.2,
+          "duration": 0.0,
+          "value": {
+            "label": "IN",
+            "comment": "in, two bars before because of anacrustic voice"
+          },
+          "confidence": null
+        },
+        {
+          "time": 482.4,
+          "duration": 30.529999999999973,
+          "value": {
+            "label": "OUT",
+            "comment": "out"
+          },
+          "confidence": null
+        },
+        {
+          "time": 575.3,
+          "duration": 0.0,
+          "value": {
+            "label": "IN",
+            "comment": "in, with bass"
+          },
+          "confidence": null
+        },
+        {
+          "time": 715.7,
+          "duration": 65.54408163265305,
+          "value": {
+            "label": "OUT",
+            "comment": "out until the end"
+          },
+          "confidence": null
+        }
+      ],
+      "sandbox": {},
+      "time": 0,
+      "duration": null
+    },
+    {
+      "annotation_metadata": {
+        "curator": {
+          "name": "",
+          "email": ""
+        },
+        "annotator": {
+          "name": "Mickael"
+        },
+        "version": "",
+        "corpus": "",
+        "annotation_tools": "",
+        "annotation_rules": "",
+        "validation": "",
+        "data_source": ""
+      },
+      "namespace": "cue_point",
+      "data": [
+        {
+          "time": 79.4,
+          "duration": 0.0,
+          "value": {
+            "label": "IN",
+            "comment": "in"
+          },
+          "confidence": null
+        },
+        {
+          "time": 110.3,
+          "duration": 0.0,
+          "value": {
+            "label": "IN",
+            "comment": "in: voice"
+          },
+          "confidence": null
+        },
+        {
+          "time": 141.3,
+          "duration": 0.0,
+          "value": {
+            "label": "IN",
+            "comment": "in: change in chorus"
+          },
+          "confidence": null
+        },
+        {
+          "time": 172.3,
+          "duration": 0.0,
+          "value": {
+            "label": "IN",
+            "comment": "in: change in chorus"
+          },
+          "confidence": null
+        },
+        {
+          "time": 203.2,
+          "duration": 0.0,
+          "value": {
+            "label": "IN",
+            "comment": "in: main with bass"
+          },
+          "confidence": null
+        },
+        {
+          "time": 296.1,
+          "duration": 31.0,
+          "value": {
+            "label": "OUT",
+            "comment": "out: breakdown with bass"
+          },
+          "confidence": null
+        },
+        {
+          "time": 481.9,
+          "duration": 31.0,
+          "value": {
+            "label": "OUT",
+            "comment": "out: breakdown with bass"
+          },
+          "confidence": null
+        },
+        {
+          "time": 714.3,
+          "duration": 0.0,
+          "value": {
+            "label": "OUT",
+            "comment": "out: outro"
+          },
+          "confidence": null
+        }
+      ],
+      "sandbox": {},
+      "time": 0,
+      "duration": null
+    }
+  ],
+  "file_metadata": {
+    "title": "Stay Together (Armand's Crazy Trauma Mix)",
+    "artist": "Barbara Tucker",
+    "release": "1995",
+    "duration": 781.2440816326531,
+    "identifiers": {
+      "mirrors": [],
+      "isVinyl": true
+    },
+    "jams_version": "0.3.3"
+  },
+  "sandbox": {}
+}

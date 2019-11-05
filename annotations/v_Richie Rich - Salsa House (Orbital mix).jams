@@ -1,0 +1,218 @@
+{
+  "annotations": [
+    {
+      "annotation_metadata": {
+        "curator": {
+          "name": "",
+          "email": ""
+        },
+        "annotator": {
+          "name": "Mickael"
+        },
+        "version": "",
+        "corpus": "",
+        "annotation_tools": "",
+        "annotation_rules": "",
+        "validation": "",
+        "data_source": ""
+      },
+      "namespace": "cue_point",
+      "data": [
+        {
+          "time": 61.2,
+          "duration": 0.0,
+          "value": {
+            "label": "IN",
+            "comment": "in: bass line + harmony"
+          },
+          "confidence": null
+        },
+        {
+          "time": 77.3,
+          "duration": 0.0,
+          "value": {
+            "label": "IN",
+            "comment": "in: piano"
+          },
+          "confidence": null
+        },
+        {
+          "time": 93.4,
+          "duration": 0.0,
+          "value": {
+            "label": "IN",
+            "comment": "in: Main (kick in)"
+          },
+          "confidence": null
+        },
+        {
+          "time": 536.2,
+          "duration": 0.0,
+          "value": {
+            "label": "OUT",
+            "comment": "out"
+          },
+          "confidence": null
+        }
+      ],
+      "sandbox": {},
+      "time": 0,
+      "duration": null
+    },
+    {
+      "annotation_metadata": {
+        "curator": {
+          "name": "",
+          "email": ""
+        },
+        "annotator": {
+          "name": "Marco"
+        },
+        "version": "",
+        "corpus": "",
+        "annotation_tools": "",
+        "annotation_rules": "",
+        "validation": "",
+        "data_source": ""
+      },
+      "namespace": "cue_point",
+      "data": [
+        {
+          "time": 61.19,
+          "duration": 0.0,
+          "value": {
+            "label": "IN",
+            "comment": "in: bass in"
+          },
+          "confidence": null
+        },
+        {
+          "time": 77.326,
+          "duration": 0.0,
+          "value": {
+            "label": "IN",
+            "comment": "in: piano in"
+          },
+          "confidence": null
+        },
+        {
+          "time": 93.462,
+          "duration": 0.0,
+          "value": {
+            "label": "IN",
+            "comment": "in: everybody in now"
+          },
+          "confidence": null
+        },
+        {
+          "time": 254.419,
+          "duration": 0.0,
+          "value": {
+            "label": "OUT",
+            "comment": "out:  breakdown, bass out"
+          },
+          "confidence": null
+        },
+        {
+          "time": 318.848,
+          "duration": 0.0,
+          "value": {
+            "label": "OUT",
+            "comment": "out:  breakdown, it's hard to say, the song restarts several times"
+          },
+          "confidence": null
+        }
+      ],
+      "sandbox": {},
+      "time": 0,
+      "duration": null
+    },
+    {
+      "annotation_metadata": {
+        "curator": {
+          "name": "",
+          "email": ""
+        },
+        "annotator": {
+          "name": "Paolo"
+        },
+        "version": "",
+        "corpus": "",
+        "annotation_tools": "",
+        "annotation_rules": "",
+        "validation": "",
+        "data_source": ""
+      },
+      "namespace": "cue_point",
+      "data": [
+        {
+          "time": 61.3,
+          "duration": 0.0,
+          "value": {
+            "label": "IN",
+            "comment": "in: bass"
+          },
+          "confidence": null
+        },
+        {
+          "time": 77.4,
+          "duration": 0.0,
+          "value": {
+            "label": "IN",
+            "comment": "in: keyboard"
+          },
+          "confidence": null
+        },
+        {
+          "time": 93.5,
+          "duration": 0.0,
+          "value": {
+            "label": "IN",
+            "comment": "in: full"
+          },
+          "confidence": null
+        },
+        {
+          "time": 415.6,
+          "duration": 0.0,
+          "value": {
+            "label": "OUT",
+            "comment": "out"
+          },
+          "confidence": null
+        },
+        {
+          "time": 431.7,
+          "duration": 0.0,
+          "value": {
+            "label": "OUT",
+            "comment": "out"
+          },
+          "confidence": null
+        }
+      ],
+      "sandbox": {},
+      "time": 0,
+      "duration": null
+    }
+  ],
+  "file_metadata": {
+    "title": "Salsa House (Orbital mix)",
+    "artist": "Richie Rich",
+    "release": "1989",
+    "duration": 556.1208163265306,
+    "identifiers": {
+      "mirrors": [
+        {
+          "type": "Youtube",
+          "url": "https://www.youtube.com/watch?v=1X1w5d33L08",
+          "offset": -4.845,
+          "playbackSpeed": 1
+        }
+      ],
+      "isVinyl": true
+    },
+    "jams_version": "0.3.3"
+  },
+  "sandbox": {}
+}

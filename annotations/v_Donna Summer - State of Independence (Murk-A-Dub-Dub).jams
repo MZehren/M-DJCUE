@@ -1,0 +1,236 @@
+{
+  "annotations": [
+    {
+      "annotation_metadata": {
+        "curator": {
+          "name": "",
+          "email": ""
+        },
+        "annotator": {
+          "name": "Paolo"
+        },
+        "version": "",
+        "corpus": "",
+        "annotation_tools": "",
+        "annotation_rules": "",
+        "validation": "",
+        "data_source": ""
+      },
+      "namespace": "cue_point",
+      "data": [
+        {
+          "time": 27.5,
+          "duration": 0.0,
+          "value": {
+            "label": "IN",
+            "comment": "in"
+          },
+          "confidence": null
+        },
+        {
+          "time": 31.4,
+          "duration": 0.0,
+          "value": {
+            "label": "IN",
+            "comment": "in"
+          },
+          "confidence": null
+        },
+        {
+          "time": 51.3,
+          "duration": 0.0,
+          "value": {
+            "label": "IN",
+            "comment": "in"
+          },
+          "confidence": null
+        },
+        {
+          "time": 67.2,
+          "duration": 0.0,
+          "value": {
+            "label": "IN",
+            "comment": "in"
+          },
+          "confidence": null
+        },
+        {
+          "time": 225.8,
+          "duration": 15.899999999999977,
+          "value": {
+            "label": "OUT",
+            "comment": "out"
+          },
+          "confidence": null
+        }
+      ],
+      "sandbox": {},
+      "time": 0,
+      "duration": null
+    },
+    {
+      "annotation_metadata": {
+        "curator": {
+          "name": "",
+          "email": ""
+        },
+        "annotator": {
+          "name": "Marco"
+        },
+        "version": "",
+        "corpus": "",
+        "annotation_tools": "",
+        "annotation_rules": "",
+        "validation": "",
+        "data_source": ""
+      },
+      "namespace": "cue_point",
+      "data": [
+        {
+          "time": 67.1,
+          "duration": 0.0,
+          "value": {
+            "label": "IN",
+            "comment": "in with bass"
+          },
+          "confidence": null
+        },
+        {
+          "time": 212.0,
+          "duration": 13.949000000000012,
+          "value": {
+            "label": "OUT",
+            "comment": "out until 03:45.949, but bass in still there"
+          },
+          "confidence": null
+        },
+        {
+          "time": 225.9,
+          "duration": 15.769000000000005,
+          "value": {
+            "label": "OUT",
+            "comment": "out"
+          },
+          "confidence": null
+        },
+        {
+          "time": 241.7,
+          "duration": 0.0,
+          "value": {
+            "label": "IN",
+            "comment": "in"
+          },
+          "confidence": null
+        },
+        {
+          "time": 368.9,
+          "duration": 0.0,
+          "value": {
+            "label": "OUT",
+            "comment": "out at the end of the harmonic progression until the end (fade out)"
+          },
+          "confidence": null
+        }
+      ],
+      "sandbox": {},
+      "time": 0,
+      "duration": null
+    },
+    {
+      "annotation_metadata": {
+        "curator": {
+          "name": "",
+          "email": ""
+        },
+        "annotator": {
+          "name": "Mickael"
+        },
+        "version": "",
+        "corpus": "",
+        "annotation_tools": "",
+        "annotation_rules": "",
+        "validation": "",
+        "data_source": ""
+      },
+      "namespace": "cue_point",
+      "data": [
+        {
+          "time": 3.7,
+          "duration": 0.0,
+          "value": {
+            "label": "IN",
+            "comment": "in"
+          },
+          "confidence": null
+        },
+        {
+          "time": 27.5,
+          "duration": 0.0,
+          "value": {
+            "label": "IN",
+            "comment": "in"
+          },
+          "confidence": null
+        },
+        {
+          "time": 51.3,
+          "duration": 0.0,
+          "value": {
+            "label": "IN",
+            "comment": "in: synth"
+          },
+          "confidence": null
+        },
+        {
+          "time": 67.2,
+          "duration": 0.0,
+          "value": {
+            "label": "IN",
+            "comment": "in: main with bass"
+          },
+          "confidence": null
+        },
+        {
+          "time": 225.8,
+          "duration": 15.899999999999977,
+          "value": {
+            "label": "OUT",
+            "comment": "out: bass removed"
+          },
+          "confidence": null
+        },
+        {
+          "time": 368.7,
+          "duration": 0.0,
+          "value": {
+            "label": "OUT",
+            "comment": "out: bass removed during the fade out"
+          },
+          "confidence": null
+        }
+      ],
+      "sandbox": {},
+      "time": 0,
+      "duration": null
+    }
+  ],
+  "file_metadata": {
+    "title": "State of Independence (Murk-A-Dub-Dub)",
+    "artist": "Donna Summer",
+    "release": "1996",
+    "duration": 382.3281632653061,
+    "identifiers": {
+      "mirrors": [
+        {
+          "type": "Youtube",
+          "url": "https://www.youtube.com/watch?v=i0sDNMnYW2k",
+          "offset": -2.958,
+          "playbackSpeed": 1
+        }
+      ],
+      "isVinyl": true
+    },
+    "jams_version": "0.3.3"
+  },
+  "sandbox": {}
+}

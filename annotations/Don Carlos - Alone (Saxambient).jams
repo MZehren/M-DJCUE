@@ -1,0 +1,202 @@
+{
+  "annotations": [
+    {
+      "annotation_metadata": {
+        "curator": {
+          "name": "",
+          "email": ""
+        },
+        "annotator": {
+          "name": "Mickael"
+        },
+        "version": "",
+        "corpus": "",
+        "annotation_tools": "",
+        "annotation_rules": "",
+        "validation": "",
+        "data_source": ""
+      },
+      "namespace": "cue_point",
+      "data": [
+        {
+          "time": 48.8,
+          "duration": 0.0,
+          "value": {
+            "label": "IN",
+            "comment": "in: Kick in"
+          },
+          "confidence": null
+        },
+        {
+          "time": 64.9,
+          "duration": 0.0,
+          "value": {
+            "label": "IN",
+            "comment": "in: synth"
+          },
+          "confidence": null
+        },
+        {
+          "time": 81.0,
+          "duration": 0.0,
+          "value": {
+            "label": "IN",
+            "comment": "in: glockenspiel like synth"
+          },
+          "confidence": null
+        },
+        {
+          "time": 113.3,
+          "duration": 0.0,
+          "value": {
+            "label": "IN",
+            "comment": "in: hihat"
+          },
+          "confidence": null
+        },
+        {
+          "time": 226.2,
+          "duration": 0.0,
+          "value": {
+            "label": "IN",
+            "comment": "in: Main"
+          },
+          "confidence": null
+        },
+        {
+          "time": 387.6,
+          "duration": 0.0,
+          "value": {
+            "label": "OUT",
+            "comment": "out"
+          },
+          "confidence": null
+        }
+      ],
+      "sandbox": {},
+      "time": 0,
+      "duration": null
+    },
+    {
+      "annotation_metadata": {
+        "curator": {
+          "name": "",
+          "email": ""
+        },
+        "annotator": {
+          "name": "Marco"
+        },
+        "version": "",
+        "corpus": "",
+        "annotation_tools": "",
+        "annotation_rules": "",
+        "validation": "",
+        "data_source": ""
+      },
+      "namespace": "cue_point",
+      "data": [
+        {
+          "time": 48.813,
+          "duration": 0.0,
+          "value": {
+            "label": "IN",
+            "comment": "in: kick in"
+          },
+          "confidence": null
+        },
+        {
+          "time": 113.298,
+          "duration": 0.0,
+          "value": {
+            "label": "IN",
+            "comment": "in: hi-hat in"
+          },
+          "confidence": null
+        },
+        {
+          "time": 306.963,
+          "duration": 0.0,
+          "value": {
+            "label": "OUT",
+            "comment": "out:  breakdown"
+          },
+          "confidence": null
+        },
+        {
+          "time": 387.616,
+          "duration": 0.0,
+          "value": {
+            "label": "OUT",
+            "comment": "out:  breakdown"
+          },
+          "confidence": null
+        }
+      ],
+      "sandbox": {},
+      "time": 0,
+      "duration": null
+    },
+    {
+      "annotation_metadata": {
+        "curator": {
+          "name": "",
+          "email": ""
+        },
+        "annotator": {
+          "name": "Paolo"
+        },
+        "version": "",
+        "corpus": "",
+        "annotation_tools": "",
+        "annotation_rules": "",
+        "validation": "",
+        "data_source": ""
+      },
+      "namespace": "cue_point",
+      "data": [
+        {
+          "time": 48.8,
+          "duration": 0.0,
+          "value": {
+            "label": "IN",
+            "comment": "in: beat"
+          },
+          "confidence": null
+        },
+        {
+          "time": 306.9,
+          "duration": 0.0,
+          "value": {
+            "label": "OUT",
+            "comment": "out: "
+          },
+          "confidence": null
+        },
+        {
+          "time": 386.6,
+          "duration": 0.0,
+          "value": {
+            "label": "OUT",
+            "comment": "out: "
+          },
+          "confidence": null
+        }
+      ],
+      "sandbox": {},
+      "time": 0,
+      "duration": null
+    }
+  ],
+  "file_metadata": {
+    "title": "Alone (Saxambient)",
+    "artist": "Don Carlos",
+    "release": "1991",
+    "duration": 405.0285714285714,
+    "identifiers": {
+      "mirrors": [],
+      "isVinyl": false
+    },
+    "jams_version": "0.3.3"
+  },
+  "sandbox": {}
+}

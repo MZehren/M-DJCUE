@@ -1,0 +1,254 @@
+{
+  "annotations": [
+    {
+      "annotation_metadata": {
+        "curator": {
+          "name": "",
+          "email": ""
+        },
+        "annotator": {
+          "name": "Paolo"
+        },
+        "version": "",
+        "corpus": "",
+        "annotation_tools": "",
+        "annotation_rules": "",
+        "validation": "",
+        "data_source": ""
+      },
+      "namespace": "cue_point",
+      "data": [
+        {
+          "time": 3.3,
+          "duration": 570.0,
+          "value": {
+            "label": "OUT",
+            "comment": "out "
+          },
+          "confidence": null
+        },
+        {
+          "time": 62.3,
+          "duration": 0.0,
+          "value": {
+            "label": "IN",
+            "comment": "in"
+          },
+          "confidence": null
+        },
+        {
+          "time": 93.3,
+          "duration": 0.0,
+          "value": {
+            "label": "IN",
+            "comment": "in"
+          },
+          "confidence": null
+        },
+        {
+          "time": 124.2,
+          "duration": 0.0,
+          "value": {
+            "label": "IN",
+            "comment": "in"
+          },
+          "confidence": null
+        },
+        {
+          "time": 403.0,
+          "duration": 46.39999999999998,
+          "value": {
+            "label": "OUT",
+            "comment": "out "
+          },
+          "confidence": null
+        },
+        {
+          "time": 573.3,
+          "duration": 0.0,
+          "value": {
+            "label": "OUT",
+            "comment": "out end"
+          },
+          "confidence": null
+        }
+      ],
+      "sandbox": {},
+      "time": 0,
+      "duration": null
+    },
+    {
+      "annotation_metadata": {
+        "curator": {
+          "name": "",
+          "email": ""
+        },
+        "annotator": {
+          "name": "Marco"
+        },
+        "version": "",
+        "corpus": "",
+        "annotation_tools": "",
+        "annotation_rules": "",
+        "validation": "",
+        "data_source": ""
+      },
+      "namespace": "cue_point",
+      "data": [
+        {
+          "time": 62.4,
+          "duration": 0.0,
+          "value": {
+            "label": "IN",
+            "comment": "in"
+          },
+          "confidence": null
+        },
+        {
+          "time": 93.2,
+          "duration": 0.0,
+          "value": {
+            "label": "IN",
+            "comment": "in"
+          },
+          "confidence": null
+        },
+        {
+          "time": 124.4,
+          "duration": 0.0,
+          "value": {
+            "label": "IN",
+            "comment": "in: late in"
+          },
+          "confidence": null
+        },
+        {
+          "time": 403.0,
+          "duration": 46.59500000000003,
+          "value": {
+            "label": "OUT",
+            "comment": "out until 07:29:595, although here is where the male voice comes in"
+          },
+          "confidence": null
+        },
+        {
+          "time": 542.4,
+          "duration": 68.6040816326531,
+          "value": {
+            "label": "OUT",
+            "comment": "out until the end"
+          },
+          "confidence": null
+        }
+      ],
+      "sandbox": {},
+      "time": 0,
+      "duration": null
+    },
+    {
+      "annotation_metadata": {
+        "curator": {
+          "name": "",
+          "email": ""
+        },
+        "annotator": {
+          "name": "Mickael"
+        },
+        "version": "",
+        "corpus": "",
+        "annotation_tools": "",
+        "annotation_rules": "",
+        "validation": "",
+        "data_source": ""
+      },
+      "namespace": "cue_point",
+      "data": [
+        {
+          "time": 62.3,
+          "duration": 0.0,
+          "value": {
+            "label": "IN",
+            "comment": "in"
+          },
+          "confidence": null
+        },
+        {
+          "time": 93.3,
+          "duration": 0.0,
+          "value": {
+            "label": "IN",
+            "comment": "in: small break + more synths"
+          },
+          "confidence": null
+        },
+        {
+          "time": 124.3,
+          "duration": 0.0,
+          "value": {
+            "label": "IN",
+            "comment": "in: main part"
+          },
+          "confidence": null
+        },
+        {
+          "time": 403.0,
+          "duration": 46.39999999999998,
+          "value": {
+            "label": "OUT",
+            "comment": "out: breakdown with vocals"
+          },
+          "confidence": null
+        },
+        {
+          "time": 434.0,
+          "duration": 15.399999999999977,
+          "value": {
+            "label": "OUT",
+            "comment": "out: novelty at half of the break"
+          },
+          "confidence": null
+        },
+        {
+          "time": 542.3,
+          "duration": 0.0,
+          "value": {
+            "label": "OUT",
+            "comment": "out: start of the outro"
+          },
+          "confidence": null
+        },
+        {
+          "time": 573.3,
+          "duration": 0.0,
+          "value": {
+            "label": "OUT",
+            "comment": "out: novelty in the outro"
+          },
+          "confidence": null
+        }
+      ],
+      "sandbox": {},
+      "time": 0,
+      "duration": null
+    }
+  ],
+  "file_metadata": {
+    "title": "Slid (Modwheel Remix)",
+    "artist": "Fluke",
+    "release": "1993",
+    "duration": 611.0040816326531,
+    "identifiers": {
+      "mirrors": [
+        {
+          "type": "Youtube",
+          "url": "https://www.youtube.com/watch?v=zMFQuJt0D7o",
+          "offset": -0.079,
+          "playbackSpeed": 1
+        }
+      ],
+      "isVinyl": false
+    },
+    "jams_version": "0.3.3"
+  },
+  "sandbox": {}
+}

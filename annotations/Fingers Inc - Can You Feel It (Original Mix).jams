@@ -1,0 +1,220 @@
+{
+  "annotations": [
+    {
+      "annotation_metadata": {
+        "curator": {
+          "name": "",
+          "email": ""
+        },
+        "annotator": {
+          "name": "Mickael"
+        },
+        "version": "",
+        "corpus": "",
+        "annotation_tools": "",
+        "annotation_rules": "",
+        "validation": "",
+        "data_source": ""
+      },
+      "namespace": "cue_point",
+      "data": [
+        {
+          "time": 7.4,
+          "duration": 0.0,
+          "value": {
+            "label": "IN",
+            "comment": "in: Every loop of 4 bars there is something going on"
+          },
+          "confidence": null
+        },
+        {
+          "time": 15.4,
+          "duration": 0.0,
+          "value": {
+            "label": "IN",
+            "comment": "in: more kick"
+          },
+          "confidence": null
+        },
+        {
+          "time": 23.4,
+          "duration": 0.0,
+          "value": {
+            "label": "IN",
+            "comment": "in: More hihat"
+          },
+          "confidence": null
+        },
+        {
+          "time": 31.5,
+          "duration": 0.0,
+          "value": {
+            "label": "IN",
+            "comment": "in: clap"
+          },
+          "confidence": null
+        },
+        {
+          "time": 39.5,
+          "duration": 0.0,
+          "value": {
+            "label": "IN",
+            "comment": "in: snare"
+          },
+          "confidence": null
+        },
+        {
+          "time": 47.5,
+          "duration": 0.0,
+          "value": {
+            "label": "IN",
+            "comment": "in: synth main part"
+          },
+          "confidence": null
+        },
+        {
+          "time": 296.5,
+          "duration": 0.0,
+          "value": {
+            "label": "OUT",
+            "comment": "out"
+          },
+          "confidence": null
+        }
+      ],
+      "sandbox": {},
+      "time": 0,
+      "duration": null
+    },
+    {
+      "annotation_metadata": {
+        "curator": {
+          "name": "",
+          "email": ""
+        },
+        "annotator": {
+          "name": "Marco"
+        },
+        "version": "",
+        "corpus": "",
+        "annotation_tools": "",
+        "annotation_rules": "",
+        "validation": "",
+        "data_source": ""
+      },
+      "namespace": "cue_point",
+      "data": [
+        {
+          "time": 23.474,
+          "duration": 0.0,
+          "value": {
+            "label": "IN",
+            "comment": "in: full sound after intro"
+          },
+          "confidence": null
+        },
+        {
+          "time": 31.534,
+          "duration": 0.0,
+          "value": {
+            "label": "IN",
+            "comment": "in: clap in"
+          },
+          "confidence": null
+        },
+        {
+          "time": 47.583,
+          "duration": 0.0,
+          "value": {
+            "label": "IN",
+            "comment": "in: keyboard in an hi-hat more intense"
+          },
+          "confidence": null
+        },
+        {
+          "time": 87.731,
+          "duration": 0.0,
+          "value": {
+            "label": "IN",
+            "comment": "in: voice in"
+          },
+          "confidence": null
+        },
+        {
+          "time": 288.53,
+          "duration": 0.0,
+          "value": {
+            "label": "OUT",
+            "comment": "out: end of voice and out"
+          },
+          "confidence": null
+        }
+      ],
+      "sandbox": {},
+      "time": 0,
+      "duration": null
+    },
+    {
+      "annotation_metadata": {
+        "curator": {
+          "name": "",
+          "email": ""
+        },
+        "annotator": {
+          "name": "Paolo"
+        },
+        "version": "",
+        "corpus": "",
+        "annotation_tools": "",
+        "annotation_rules": "",
+        "validation": "",
+        "data_source": ""
+      },
+      "namespace": "cue_point",
+      "data": [
+        {
+          "time": 15.4,
+          "duration": 0.0,
+          "value": {
+            "label": "IN",
+            "comment": "in: kick"
+          },
+          "confidence": null
+        },
+        {
+          "time": 23.5,
+          "duration": 0.0,
+          "value": {
+            "label": "IN",
+            "comment": "in: MAIN - no voice overlap"
+          },
+          "confidence": null
+        },
+        {
+          "time": 224.3,
+          "duration": 48.19999999999999,
+          "value": {
+            "label": "OUT",
+            "comment": "out"
+          },
+          "confidence": null
+        }
+      ],
+      "sandbox": {},
+      "time": 0,
+      "duration": null
+    }
+  ],
+  "file_metadata": {
+    "title": "Can You Feel It (Original Mix)",
+    "artist": "Fingers Inc",
+    "release": "1988",
+    "duration": 308.7673469387755,
+    "identifiers": {
+      "mirrors": [],
+      "isVinyl": false
+    },
+    "jams_version": "0.3.3"
+  },
+  "sandbox": {}
+}

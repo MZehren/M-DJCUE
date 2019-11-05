@@ -1,0 +1,238 @@
+{
+  "annotations": [
+    {
+      "annotation_metadata": {
+        "curator": {
+          "name": "",
+          "email": ""
+        },
+        "annotator": {
+          "name": "Marco"
+        },
+        "version": "",
+        "corpus": "",
+        "annotation_tools": "",
+        "annotation_rules": "",
+        "validation": "",
+        "data_source": ""
+      },
+      "namespace": "cue_point",
+      "data": [
+        {
+          "time": 8.3,
+          "duration": 0.0,
+          "value": {
+            "label": "IN",
+            "comment": "in: (+bass)"
+          },
+          "confidence": null
+        },
+        {
+          "time": 48.3,
+          "duration": 0.0,
+          "value": {
+            "label": "IN",
+            "comment": "in: (+clap)"
+          },
+          "confidence": null
+        },
+        {
+          "time": 56.3,
+          "duration": 0.0,
+          "value": {
+            "label": "IN",
+            "comment": "in: (+hi-hat)"
+          },
+          "confidence": null
+        },
+        {
+          "time": 72.3,
+          "duration": 0.0,
+          "value": {
+            "label": "IN",
+            "comment": "in: (+pads)"
+          },
+          "confidence": null
+        },
+        {
+          "time": 96.3,
+          "duration": 0.0,
+          "value": {
+            "label": "IN",
+            "comment": "in: (+bells)"
+          },
+          "confidence": null
+        },
+        {
+          "time": 104.3,
+          "duration": 0.0,
+          "value": {
+            "label": "IN",
+            "comment": "in: (+perc)"
+          },
+          "confidence": null
+        },
+        {
+          "time": 112.3,
+          "duration": 0.0,
+          "value": {
+            "label": "IN",
+            "comment": "in: (+brass). Add. struct."
+          },
+          "confidence": null
+        },
+        {
+          "time": 456.3,
+          "duration": 16.620816326530587,
+          "value": {
+            "label": "OUT",
+            "comment": "out"
+          },
+          "confidence": null
+        }
+      ],
+      "sandbox": {},
+      "time": 0,
+      "duration": null
+    },
+    {
+      "annotation_metadata": {
+        "curator": {
+          "name": "",
+          "email": ""
+        },
+        "annotator": {
+          "name": "Paolo"
+        },
+        "version": "",
+        "corpus": "",
+        "annotation_tools": "",
+        "annotation_rules": "",
+        "validation": "",
+        "data_source": ""
+      },
+      "namespace": "cue_point",
+      "data": [
+        {
+          "time": 40.2,
+          "duration": 0.0,
+          "value": {
+            "label": "IN",
+            "comment": "in"
+          },
+          "confidence": null
+        },
+        {
+          "time": 56.2,
+          "duration": 0.0,
+          "value": {
+            "label": "IN",
+            "comment": "in"
+          },
+          "confidence": null
+        },
+        {
+          "time": 72.3,
+          "duration": 0.0,
+          "value": {
+            "label": "IN",
+            "comment": "in"
+          },
+          "confidence": null
+        },
+        {
+          "time": 440.3,
+          "duration": 32.62081632653059,
+          "value": {
+            "label": "OUT",
+            "comment": "out"
+          },
+          "confidence": null
+        }
+      ],
+      "sandbox": {},
+      "time": 0,
+      "duration": null
+    },
+    {
+      "annotation_metadata": {
+        "curator": {
+          "name": "",
+          "email": ""
+        },
+        "annotator": {
+          "name": "Mickael"
+        },
+        "version": "",
+        "corpus": "",
+        "annotation_tools": "",
+        "annotation_rules": "",
+        "validation": "",
+        "data_source": ""
+      },
+      "namespace": "cue_point",
+      "data": [
+        {
+          "time": 40.3,
+          "duration": 0.0,
+          "value": {
+            "label": "IN",
+            "comment": "in"
+          },
+          "confidence": null
+        },
+        {
+          "time": 48.3,
+          "duration": 0.0,
+          "value": {
+            "label": "IN",
+            "comment": "in:"
+          },
+          "confidence": null
+        },
+        {
+          "time": 56.3,
+          "duration": 0.0,
+          "value": {
+            "label": "IN",
+            "comment": "in"
+          },
+          "confidence": null
+        },
+        {
+          "time": 72.3,
+          "duration": 0.0,
+          "value": {
+            "label": "IN",
+            "comment": "in: main"
+          },
+          "confidence": null
+        },
+        {
+          "time": 440.3,
+          "duration": 0.0,
+          "value": {
+            "label": "OUT",
+            "comment": "out"
+          },
+          "confidence": null
+        }
+      ],
+      "sandbox": {},
+      "time": 0,
+      "duration": null
+    }
+  ],
+  "file_metadata": {
+    "title": "Generate Power (Wild Pitch Mix",
+    "artist": "Photon Inc. & Paula Brion",
+    "release": "1991",
+    "duration": 472.9208163265306,
+    "identifiers": {
+      "mirrors": [],
+      "isVinyl": false
+    },
+    "jams_version": "0.3.3"
+  },
+  "sandbox": {}
+}

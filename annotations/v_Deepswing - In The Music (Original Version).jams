@@ -1,0 +1,247 @@
+{
+  "annotations": [
+    {
+      "annotation_metadata": {
+        "curator": {
+          "name": "",
+          "email": ""
+        },
+        "annotator": {
+          "name": "Michael"
+        },
+        "version": "",
+        "corpus": "",
+        "annotation_tools": "",
+        "annotation_rules": "",
+        "validation": "",
+        "data_source": ""
+      },
+      "namespace": "cue_point",
+      "data": [
+        {
+          "time": 3.4,
+          "duration": 0.0,
+          "value": {
+            "label": "IN",
+            "comment": "In 1"
+          },
+          "confidence": null
+        },
+        {
+          "time": 33.7,
+          "duration": 0.0,
+          "value": {
+            "label": "IN",
+            "comment": "In 2"
+          },
+          "confidence": null
+        },
+        {
+          "time": 48.8,
+          "duration": 0.0,
+          "value": {
+            "label": "IN",
+            "comment": "In 3 - because intro is not 32 but 40 bars long"
+          },
+          "confidence": null
+        },
+        {
+          "time": 79.0,
+          "duration": 0.0,
+          "value": {
+            "label": "IN",
+            "comment": "In 4"
+          },
+          "confidence": null
+        },
+        {
+          "time": 109.3,
+          "duration": 0.0,
+          "value": {
+            "label": "IN",
+            "comment": "In 5 - start of main part"
+          },
+          "confidence": null
+        },
+        {
+          "time": 351.2,
+          "duration": 0.0,
+          "value": {
+            "label": "OUT",
+            "comment": "Out 1 - for short mix (playing song just half)"
+          },
+          "confidence": null
+        },
+        {
+          "time": 441.9,
+          "duration": 0.0,
+          "value": {
+            "label": "OUT",
+            "comment": "Out 2"
+          },
+          "confidence": null
+        },
+        {
+          "time": 487.2,
+          "duration": 0.0,
+          "value": {
+            "label": "OUT",
+            "comment": "Out 3"
+          },
+          "confidence": null
+        }
+      ],
+      "sandbox": {},
+      "time": 0,
+      "duration": null
+    },
+    {
+      "annotation_metadata": {
+        "curator": {
+          "name": "",
+          "email": ""
+        },
+        "annotator": {
+          "name": "Paolo"
+        },
+        "version": "",
+        "corpus": "",
+        "annotation_tools": "",
+        "annotation_rules": "",
+        "validation": "",
+        "data_source": ""
+      },
+      "namespace": "cue_point",
+      "data": [
+        {
+          "time": 3.5,
+          "duration": 0.0,
+          "value": {
+            "label": "IN",
+            "comment": "in: weak"
+          },
+          "confidence": null
+        },
+        {
+          "time": 33.7,
+          "duration": 0.0,
+          "value": {
+            "label": "IN",
+            "comment": "IN"
+          },
+          "confidence": null
+        },
+        {
+          "time": 86.6,
+          "duration": 0.0,
+          "value": {
+            "label": "IN",
+            "comment": "IN: subtle"
+          },
+          "confidence": null
+        },
+        {
+          "time": 109.3,
+          "duration": 0.0,
+          "value": {
+            "label": "IN",
+            "comment": "IN"
+          },
+          "confidence": null
+        },
+        {
+          "time": 139.5,
+          "duration": 0.0,
+          "value": {
+            "label": "IN",
+            "comment": "IN"
+          },
+          "confidence": null
+        },
+        {
+          "time": 154.6,
+          "duration": 0.0,
+          "value": {
+            "label": "IN",
+            "comment": "IN"
+          },
+          "confidence": null
+        },
+        {
+          "time": 487.3,
+          "duration": 47.08693877551019,
+          "value": {
+            "label": "OUT",
+            "comment": "OUT"
+          },
+          "confidence": null
+        }
+      ],
+      "sandbox": {},
+      "time": 0,
+      "duration": null
+    },
+    {
+      "annotation_metadata": {
+        "curator": {
+          "name": "",
+          "email": ""
+        },
+        "annotator": {
+          "name": "Marco"
+        },
+        "version": "",
+        "corpus": "",
+        "annotation_tools": "",
+        "annotation_rules": "",
+        "validation": "",
+        "data_source": ""
+      },
+      "namespace": "cue_point",
+      "data": [
+        {
+          "time": 139.5,
+          "duration": 0.0,
+          "value": {
+            "label": "IN",
+            "comment": "in"
+          },
+          "confidence": null
+        },
+        {
+          "time": 275.5,
+          "duration": 14.199999999999989,
+          "value": {
+            "label": "OUT",
+            "comment": "out"
+          },
+          "confidence": null
+        },
+        {
+          "time": 487.3,
+          "duration": 47.08693877551019,
+          "value": {
+            "label": "OUT",
+            "comment": "out"
+          },
+          "confidence": null
+        }
+      ],
+      "sandbox": {},
+      "time": 0,
+      "duration": null
+    }
+  ],
+  "file_metadata": {
+    "title": "In The Music (Original Version)",
+    "artist": "Deepswing",
+    "release": "2001",
+    "duration": 534.3869387755102,
+    "identifiers": {
+      "mirrors": [],
+      "isVinyl": true
+    },
+    "jams_version": "0.3.3"
+  },
+  "sandbox": {}
+}

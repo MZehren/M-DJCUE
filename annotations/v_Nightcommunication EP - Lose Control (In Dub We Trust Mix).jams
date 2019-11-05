@@ -1,0 +1,209 @@
+{
+  "annotations": [
+    {
+      "annotation_metadata": {
+        "curator": {
+          "name": "",
+          "email": ""
+        },
+        "annotator": {
+          "name": "Paolo"
+        },
+        "version": "",
+        "corpus": "",
+        "annotation_tools": "",
+        "annotation_rules": "",
+        "validation": "",
+        "data_source": ""
+      },
+      "namespace": "cue_point",
+      "data": [
+        {
+          "time": 20.1,
+          "duration": 0.0,
+          "value": {
+            "label": "IN",
+            "comment": "in"
+          },
+          "confidence": null
+        },
+        {
+          "time": 131.0,
+          "duration": 0.0,
+          "value": {
+            "label": "IN",
+            "comment": "in"
+          },
+          "confidence": null
+        },
+        {
+          "time": 178.5,
+          "duration": 15.800000000000011,
+          "value": {
+            "label": "OUT",
+            "comment": "out "
+          },
+          "confidence": null
+        },
+        {
+          "time": 194.3,
+          "duration": 15.899999999999977,
+          "value": {
+            "label": "OUT",
+            "comment": "out "
+          },
+          "confidence": null
+        },
+        {
+          "time": 241.8,
+          "duration": 15.899999999999977,
+          "value": {
+            "label": "OUT",
+            "comment": "out "
+          },
+          "confidence": null
+        },
+        {
+          "time": 257.7,
+          "duration": 0.0,
+          "value": {
+            "label": "OUT",
+            "comment": "out "
+          },
+          "confidence": null
+        }
+      ],
+      "sandbox": {},
+      "time": 0,
+      "duration": null
+    },
+    {
+      "annotation_metadata": {
+        "curator": {
+          "name": "",
+          "email": ""
+        },
+        "annotator": {
+          "name": "Marco"
+        },
+        "version": "",
+        "corpus": "",
+        "annotation_tools": "",
+        "annotation_rules": "",
+        "validation": "",
+        "data_source": ""
+      },
+      "namespace": "cue_point",
+      "data": [
+        {
+          "time": 20.5,
+          "duration": 0.0,
+          "value": {
+            "label": "IN",
+            "comment": "in (hard to get the downbeat)"
+          },
+          "confidence": null
+        },
+        {
+          "time": 36.2,
+          "duration": 0.0,
+          "value": {
+            "label": "IN",
+            "comment": "in with hi-hat (other possible in farther on)"
+          },
+          "confidence": null
+        },
+        {
+          "time": 178.5,
+          "duration": 15.807999999999993,
+          "value": {
+            "label": "OUT",
+            "comment": "out"
+          },
+          "confidence": null
+        }
+      ],
+      "sandbox": {},
+      "time": 0,
+      "duration": null
+    },
+    {
+      "annotation_metadata": {
+        "curator": {
+          "name": "",
+          "email": ""
+        },
+        "annotator": {
+          "name": "Mickael"
+        },
+        "version": "",
+        "corpus": "",
+        "annotation_tools": "",
+        "annotation_rules": "",
+        "validation": "",
+        "data_source": ""
+      },
+      "namespace": "cue_point",
+      "data": [
+        {
+          "time": 20.2,
+          "duration": 0.0,
+          "value": {
+            "label": "IN",
+            "comment": "in: bass + kick"
+          },
+          "confidence": null
+        },
+        {
+          "time": 36.0,
+          "duration": 0.0,
+          "value": {
+            "label": "IN",
+            "comment": "in: adding hihat"
+          },
+          "confidence": null
+        },
+        {
+          "time": 178.5,
+          "duration": 16.900000000000006,
+          "value": {
+            "label": "OUT",
+            "comment": "out"
+          },
+          "confidence": null
+        },
+        {
+          "time": 336.9,
+          "duration": 0.0,
+          "value": {
+            "label": "OUT",
+            "comment": "out: voice all over the place"
+          },
+          "confidence": null
+        }
+      ],
+      "sandbox": {},
+      "time": 0,
+      "duration": null
+    }
+  ],
+  "file_metadata": {
+    "title": "Lose Control (In Dub We Trust Mix)",
+    "artist": "Nightcommunication EP",
+    "release": "1992",
+    "duration": 354.92571428571426,
+    "identifiers": {
+      "mirrors": [
+        {
+          "type": "Youtube",
+          "url": "https://www.youtube.com/watch?v=mJqNNDpbZVM",
+          "offset": -3.89,
+          "playbackSpeed": 1.000682
+        }
+      ],
+      "isVinyl": true
+    },
+    "jams_version": "0.3.3"
+  },
+  "sandbox": {}
+}

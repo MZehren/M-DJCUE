@@ -1,0 +1,182 @@
+{
+  "annotations": [
+    {
+      "annotation_metadata": {
+        "curator": {
+          "name": "",
+          "email": ""
+        },
+        "annotator": {
+          "name": "Mickael"
+        },
+        "version": "",
+        "corpus": "",
+        "annotation_tools": "",
+        "annotation_rules": "",
+        "validation": "",
+        "data_source": ""
+      },
+      "namespace": "cue_point",
+      "data": [
+        {
+          "time": 0.1,
+          "duration": 0.0,
+          "value": {
+            "label": "IN",
+            "comment": "in: kick + hihat + pattern: sufficient ?"
+          },
+          "confidence": null
+        },
+        {
+          "time": 7.9,
+          "duration": 0.0,
+          "value": {
+            "label": "IN",
+            "comment": "in: upbeat synth"
+          },
+          "confidence": null
+        },
+        {
+          "time": 15.6,
+          "duration": 0.0,
+          "value": {
+            "label": "IN",
+            "comment": "in: no upbeat synth: siffucient ?"
+          },
+          "confidence": null
+        },
+        {
+          "time": 23.4,
+          "duration": 0.0,
+          "value": {
+            "label": "IN",
+            "comment": "in: upbeat synth"
+          },
+          "confidence": null
+        },
+        {
+          "time": 31.1,
+          "duration": 0.0,
+          "value": {
+            "label": "IN",
+            "comment": "in: no upbeat synth: siffucient ?"
+          },
+          "confidence": null
+        },
+        {
+          "time": 46.6,
+          "duration": 0.0,
+          "value": {
+            "label": "IN",
+            "comment": "in: clap (main)"
+          },
+          "confidence": null
+        }
+      ],
+      "sandbox": {},
+      "time": 0,
+      "duration": null
+    },
+    {
+      "annotation_metadata": {
+        "curator": {
+          "name": "",
+          "email": ""
+        },
+        "annotator": {
+          "name": "Marco"
+        },
+        "version": "",
+        "corpus": "",
+        "annotation_tools": "",
+        "annotation_rules": "",
+        "validation": "",
+        "data_source": ""
+      },
+      "namespace": "cue_point",
+      "data": [
+        {
+          "time": 0.0,
+          "duration": 0.0,
+          "value": {
+            "label": "IN",
+            "comment": "in: the beginning is already full"
+          },
+          "confidence": null
+        }
+      ],
+      "sandbox": {},
+      "time": 0,
+      "duration": null
+    },
+    {
+      "annotation_metadata": {
+        "curator": {
+          "name": "",
+          "email": ""
+        },
+        "annotator": {
+          "name": "Paolo"
+        },
+        "version": "",
+        "corpus": "",
+        "annotation_tools": "",
+        "annotation_rules": "",
+        "validation": "",
+        "data_source": ""
+      },
+      "namespace": "cue_point",
+      "data": [
+        {
+          "time": 0.1,
+          "duration": 0.0,
+          "value": {
+            "label": "IN",
+            "comment": "in: "
+          },
+          "confidence": null
+        },
+        {
+          "time": 0.1,
+          "duration": 236.4387755102041,
+          "value": {
+            "label": "OUT",
+            "comment": "out"
+          },
+          "confidence": null
+        },
+        {
+          "time": 108.5,
+          "duration": 0.0,
+          "value": {
+            "label": "IN",
+            "comment": "in: voices"
+          },
+          "confidence": null
+        }
+      ],
+      "sandbox": {},
+      "time": 0,
+      "duration": null
+    }
+  ],
+  "file_metadata": {
+    "title": "Dance (Beats Mix)",
+    "artist": "Earth People",
+    "release": "1990",
+    "duration": 236.5387755102041,
+    "identifiers": {
+      "mirrors": [
+        {
+          "type": "Youtube",
+          "url": "https://www.youtube.com/watch?v=wUi516TEqWU",
+          "offset": -0.012,
+          "playbackSpeed": 0.996282
+        }
+      ],
+      "isVinyl": false
+    },
+    "jams_version": "0.3.3"
+  },
+  "sandbox": {}
+}

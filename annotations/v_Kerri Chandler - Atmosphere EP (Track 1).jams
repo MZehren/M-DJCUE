@@ -1,0 +1,227 @@
+{
+  "annotations": [
+    {
+      "annotation_metadata": {
+        "curator": {
+          "name": "",
+          "email": ""
+        },
+        "annotator": {
+          "name": "Marco"
+        },
+        "version": "",
+        "corpus": "",
+        "annotation_tools": "",
+        "annotation_rules": "",
+        "validation": "",
+        "data_source": ""
+      },
+      "namespace": "cue_point",
+      "data": [
+        {
+          "time": 7.0,
+          "duration": 0.0,
+          "value": {
+            "label": "IN",
+            "comment": "in"
+          },
+          "confidence": null
+        },
+        {
+          "time": 22.9,
+          "duration": 0.0,
+          "value": {
+            "label": "IN",
+            "comment": "in, bass"
+          },
+          "confidence": null
+        },
+        {
+          "time": 70.5,
+          "duration": 0.0,
+          "value": {
+            "label": "IN",
+            "comment": "in, keyboard"
+          },
+          "confidence": null
+        },
+        {
+          "time": 181.7,
+          "duration": 31.700000000000017,
+          "value": {
+            "label": "OUT",
+            "comment": "out"
+          },
+          "confidence": null
+        },
+        {
+          "time": 403.8,
+          "duration": 18.756734693877547,
+          "value": {
+            "label": "OUT",
+            "comment": "out"
+          },
+          "confidence": null
+        }
+      ],
+      "sandbox": {},
+      "time": 0,
+      "duration": null
+    },
+    {
+      "annotation_metadata": {
+        "curator": {
+          "name": "",
+          "email": ""
+        },
+        "annotator": {
+          "name": "Mickael"
+        },
+        "version": "",
+        "corpus": "",
+        "annotation_tools": "",
+        "annotation_rules": "",
+        "validation": "",
+        "data_source": ""
+      },
+      "namespace": "cue_point",
+      "data": [
+        {
+          "time": 23.0,
+          "duration": 0.0,
+          "value": {
+            "label": "IN",
+            "comment": "in: bass in"
+          },
+          "confidence": null
+        },
+        {
+          "time": 38.8,
+          "duration": 0.0,
+          "value": {
+            "label": "IN",
+            "comment": "in: bell"
+          },
+          "confidence": null
+        },
+        {
+          "time": 54.7,
+          "duration": 0.0,
+          "value": {
+            "label": "IN",
+            "comment": "in: hihat"
+          },
+          "confidence": null
+        },
+        {
+          "time": 70.6,
+          "duration": 0.0,
+          "value": {
+            "label": "IN",
+            "comment": "in: synth"
+          },
+          "confidence": null
+        },
+        {
+          "time": 165.8,
+          "duration": 47.599999999999994,
+          "value": {
+            "label": "OUT",
+            "comment": "out: breakdown"
+          },
+          "confidence": null
+        },
+        {
+          "time": 388.0,
+          "duration": 0.0,
+          "value": {
+            "label": "OUT",
+            "comment": "out: outro with bass"
+          },
+          "confidence": null
+        },
+        {
+          "time": 403.9,
+          "duration": 0.0,
+          "value": {
+            "label": "OUT",
+            "comment": "out: outro"
+          },
+          "confidence": null
+        }
+      ],
+      "sandbox": {},
+      "time": 0,
+      "duration": null
+    },
+    {
+      "annotation_metadata": {
+        "curator": {
+          "name": "",
+          "email": ""
+        },
+        "annotator": {
+          "name": "Paolo"
+        },
+        "version": "",
+        "corpus": "",
+        "annotation_tools": "",
+        "annotation_rules": "",
+        "validation": "",
+        "data_source": ""
+      },
+      "namespace": "cue_point",
+      "data": [
+        {
+          "time": 23.0,
+          "duration": 0.0,
+          "value": {
+            "label": "IN",
+            "comment": "IN bass"
+          },
+          "confidence": null
+        },
+        {
+          "time": 70.6,
+          "duration": 0.0,
+          "value": {
+            "label": "IN",
+            "comment": "IN"
+          },
+          "confidence": null
+        },
+        {
+          "time": 388.0,
+          "duration": 15.600000000000023,
+          "value": {
+            "label": "OUT",
+            "comment": "OUT"
+          },
+          "confidence": null
+        }
+      ],
+      "sandbox": {},
+      "time": 0,
+      "duration": null
+    }
+  ],
+  "file_metadata": {
+    "title": "Atmosphere EP (Track 1)",
+    "artist": "Kerri Chandler",
+    "release": "1993",
+    "duration": 422.55673469387756,
+    "identifiers": {
+      "mirrors": [
+        {
+          "type": "Youtube",
+          "url": "https://www.youtube.com/watch?v=kt0gB5r0Mko",
+          "offset": -5.051,
+          "playbackSpeed": 0.990543
+        }
+      ],
+      "isVinyl": true
+    },
+    "jams_version": "0.3.3"
+  },
+  "sandbox": {}
+}

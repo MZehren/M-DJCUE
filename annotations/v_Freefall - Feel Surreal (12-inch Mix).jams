@@ -1,0 +1,200 @@
+{
+  "annotations": [
+    {
+      "annotation_metadata": {
+        "curator": {
+          "name": "",
+          "email": ""
+        },
+        "annotator": {
+          "name": "Mickael"
+        },
+        "version": "",
+        "corpus": "",
+        "annotation_tools": "",
+        "annotation_rules": "",
+        "validation": "",
+        "data_source": ""
+      },
+      "namespace": "cue_point",
+      "data": [
+        {
+          "time": 17.3,
+          "duration": 0.0,
+          "value": {
+            "label": "IN",
+            "comment": "in: piano in"
+          },
+          "confidence": null
+        },
+        {
+          "time": 31.9,
+          "duration": 0.0,
+          "value": {
+            "label": "IN",
+            "comment": "in: Main"
+          },
+          "confidence": null
+        },
+        {
+          "time": 406.6,
+          "duration": 0.0,
+          "value": {
+            "label": "OUT",
+            "comment": "out"
+          },
+          "confidence": null
+        }
+      ],
+      "sandbox": {},
+      "time": 0,
+      "duration": null
+    },
+    {
+      "annotation_metadata": {
+        "curator": {
+          "name": "",
+          "email": ""
+        },
+        "annotator": {
+          "name": "Marco"
+        },
+        "version": "",
+        "corpus": "",
+        "annotation_tools": "",
+        "annotation_rules": "",
+        "validation": "",
+        "data_source": ""
+      },
+      "namespace": "cue_point",
+      "data": [
+        {
+          "time": 32.013,
+          "duration": 0.0,
+          "value": {
+            "label": "IN",
+            "comment": "in: full rhythmic section, but no bass"
+          },
+          "confidence": null
+        },
+        {
+          "time": 46.734,
+          "duration": 0.0,
+          "value": {
+            "label": "IN",
+            "comment": "in: voice, strings and bass, but no rhythmic section"
+          },
+          "confidence": null
+        },
+        {
+          "time": 61.366,
+          "duration": 0.0,
+          "value": {
+            "label": "IN",
+            "comment": "in: probably the true cue in with rhythm and bass, but no voice"
+          },
+          "confidence": null
+        },
+        {
+          "time": 237.75,
+          "duration": 0.0,
+          "value": {
+            "label": "OUT",
+            "comment": "out:  breakdown"
+          },
+          "confidence": null
+        }
+      ],
+      "sandbox": {},
+      "time": 0,
+      "duration": null
+    },
+    {
+      "annotation_metadata": {
+        "curator": {
+          "name": "",
+          "email": ""
+        },
+        "annotator": {
+          "name": "Paolo"
+        },
+        "version": "",
+        "corpus": "",
+        "annotation_tools": "",
+        "annotation_rules": "",
+        "validation": "",
+        "data_source": ""
+      },
+      "namespace": "cue_point",
+      "data": [
+        {
+          "time": 17.3,
+          "duration": 0.0,
+          "value": {
+            "label": "IN",
+            "comment": "in: keyboard"
+          },
+          "confidence": null
+        },
+        {
+          "time": 32.0,
+          "duration": 0.0,
+          "value": {
+            "label": "IN",
+            "comment": "in: kick"
+          },
+          "confidence": null
+        },
+        {
+          "time": 46.7,
+          "duration": 0.0,
+          "value": {
+            "label": "IN",
+            "comment": "in: breaks + voices"
+          },
+          "confidence": null
+        },
+        {
+          "time": 61.4,
+          "duration": 0.0,
+          "value": {
+            "label": "IN",
+            "comment": "in: full"
+          },
+          "confidence": null
+        },
+        {
+          "time": 325.9,
+          "duration": 0.0,
+          "value": {
+            "label": "OUT",
+            "comment": "out"
+          },
+          "confidence": null
+        }
+      ],
+      "sandbox": {},
+      "time": 0,
+      "duration": null
+    }
+  ],
+  "file_metadata": {
+    "title": "Feel Surreal (12-inch Mix)",
+    "artist": "Freefall",
+    "release": "1991",
+    "duration": 426.3444897959184,
+    "identifiers": {
+      "mirrors": [
+        {
+          "type": "Youtube",
+          "url": "https://www.youtube.com/watch?v=H84gI4Izm8I",
+          "offset": -1.207,
+          "playbackSpeed": "0:01.207"
+        }
+      ],
+      "isVinyl": true
+    },
+    "jams_version": "0.3.3"
+  },
+  "sandbox": {}
+}

@@ -1,0 +1,227 @@
+{
+  "annotations": [
+    {
+      "annotation_metadata": {
+        "curator": {
+          "name": "",
+          "email": ""
+        },
+        "annotator": {
+          "name": "Marco"
+        },
+        "version": "",
+        "corpus": "",
+        "annotation_tools": "",
+        "annotation_rules": "",
+        "validation": "",
+        "data_source": ""
+      },
+      "namespace": "cue_point",
+      "data": [
+        {
+          "time": 3.4,
+          "duration": 0.0,
+          "value": {
+            "label": "IN",
+            "comment": "in"
+          },
+          "confidence": null
+        },
+        {
+          "time": 18.7,
+          "duration": 0.0,
+          "value": {
+            "label": "IN",
+            "comment": "in, flute"
+          },
+          "confidence": null
+        },
+        {
+          "time": 28.3,
+          "duration": 0.0,
+          "value": {
+            "label": "IN",
+            "comment": "in, congas"
+          },
+          "confidence": null
+        },
+        {
+          "time": 123.5,
+          "duration": 0.0,
+          "value": {
+            "label": "IN",
+            "comment": "in, core"
+          },
+          "confidence": null
+        },
+        {
+          "time": 160.6,
+          "duration": 15.400000000000006,
+          "value": {
+            "label": "OUT",
+            "comment": "out"
+          },
+          "confidence": null
+        },
+        {
+          "time": 215.9,
+          "duration": 27.099999999999994,
+          "value": {
+            "label": "OUT",
+            "comment": "out"
+          },
+          "confidence": null
+        },
+        {
+          "time": 392.0,
+          "duration": 4.899999999999977,
+          "value": {
+            "label": "OUT",
+            "comment": "out"
+          },
+          "confidence": null
+        },
+        {
+          "time": 421.3,
+          "duration": 9.511428571428553,
+          "value": {
+            "label": "OUT",
+            "comment": "out"
+          },
+          "confidence": null
+        }
+      ],
+      "sandbox": {},
+      "time": 0,
+      "duration": null
+    },
+    {
+      "annotation_metadata": {
+        "curator": {
+          "name": "",
+          "email": ""
+        },
+        "annotator": {
+          "name": "Mickael"
+        },
+        "version": "",
+        "corpus": "",
+        "annotation_tools": "",
+        "annotation_rules": "",
+        "validation": "",
+        "data_source": ""
+      },
+      "namespace": "cue_point",
+      "data": [
+        {
+          "time": 28.3,
+          "duration": 0.0,
+          "value": {
+            "label": "IN",
+            "comment": "in: not on the bar period ?"
+          },
+          "confidence": null
+        },
+        {
+          "time": 104.7,
+          "duration": 0.0,
+          "value": {
+            "label": "IN",
+            "comment": "in: break"
+          },
+          "confidence": null
+        },
+        {
+          "time": 115.8,
+          "duration": 0.0,
+          "value": {
+            "label": "IN",
+            "comment": "in: break"
+          },
+          "confidence": null
+        },
+        {
+          "time": 123.5,
+          "duration": 0.0,
+          "value": {
+            "label": "IN",
+            "comment": "in: chorus"
+          },
+          "confidence": null
+        }
+      ],
+      "sandbox": {},
+      "time": 0,
+      "duration": null
+    },
+    {
+      "annotation_metadata": {
+        "curator": {
+          "name": "",
+          "email": ""
+        },
+        "annotator": {
+          "name": "Paolo"
+        },
+        "version": "",
+        "corpus": "",
+        "annotation_tools": "",
+        "annotation_rules": "",
+        "validation": "",
+        "data_source": ""
+      },
+      "namespace": "cue_point",
+      "data": [
+        {
+          "time": 35.1,
+          "duration": 0.0,
+          "value": {
+            "label": "IN",
+            "comment": "IN"
+          },
+          "confidence": null
+        },
+        {
+          "time": 67.9,
+          "duration": 0.0,
+          "value": {
+            "label": "IN",
+            "comment": "IN"
+          },
+          "confidence": null
+        },
+        {
+          "time": 160.5,
+          "duration": 71.0,
+          "value": {
+            "label": "OUT",
+            "comment": "OUT"
+          },
+          "confidence": null
+        }
+      ],
+      "sandbox": {},
+      "time": 0,
+      "duration": null
+    }
+  ],
+  "file_metadata": {
+    "title": "It's Good For The Soul (Original Water Gibbons 12-inch Remix)",
+    "artist": "The Salsoul Orchestra",
+    "release": "2004",
+    "duration": 430.81142857142856,
+    "identifiers": {
+      "mirrors": [
+        {
+          "type": "Youtube",
+          "url": "https://www.youtube.com/watch?v=maQ0AlgtkfM",
+          "offset": -2.605,
+          "playbackSpeed": 1
+        }
+      ],
+      "isVinyl": true
+    },
+    "jams_version": "0.3.3"
+  },
+  "sandbox": {}
+}

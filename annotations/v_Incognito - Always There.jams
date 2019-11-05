@@ -1,0 +1,193 @@
+{
+  "annotations": [
+    {
+      "annotation_metadata": {
+        "curator": {
+          "name": "",
+          "email": ""
+        },
+        "annotator": {
+          "name": "Mickael"
+        },
+        "version": "",
+        "corpus": "",
+        "annotation_tools": "",
+        "annotation_rules": "",
+        "validation": "",
+        "data_source": ""
+      },
+      "namespace": "cue_point",
+      "data": [
+        {
+          "time": 16.0,
+          "duration": 0.0,
+          "value": {
+            "label": "IN",
+            "comment": "in: Voice in"
+          },
+          "confidence": null
+        },
+        {
+          "time": 62.4,
+          "duration": 0.0,
+          "value": {
+            "label": "IN",
+            "comment": "in: snare in"
+          },
+          "confidence": null
+        },
+        {
+          "time": 108.9,
+          "duration": 0.0,
+          "value": {
+            "label": "IN",
+            "comment": "in: Main"
+          },
+          "confidence": null
+        },
+        {
+          "time": 442.0,
+          "duration": 0.0,
+          "value": {
+            "label": "OUT",
+            "comment": "out"
+          },
+          "confidence": null
+        },
+        {
+          "time": 442.0,
+          "duration": 0.0,
+          "value": {
+            "label": "OUT",
+            "comment": "out"
+          },
+          "confidence": null
+        }
+      ],
+      "sandbox": {},
+      "time": 0,
+      "duration": null
+    },
+    {
+      "annotation_metadata": {
+        "curator": {
+          "name": "",
+          "email": ""
+        },
+        "annotator": {
+          "name": "Marco"
+        },
+        "version": "",
+        "corpus": "",
+        "annotation_tools": "",
+        "annotation_rules": "",
+        "validation": "",
+        "data_source": ""
+      },
+      "namespace": "cue_point",
+      "data": [
+        {
+          "time": 108.962,
+          "duration": 0.0,
+          "value": {
+            "label": "IN",
+            "comment": "in: full sound"
+          },
+          "confidence": null
+        },
+        {
+          "time": 116.64500000000001,
+          "duration": 0.0,
+          "value": {
+            "label": "IN",
+            "comment": "in: better than the previous one because the voice gets in"
+          },
+          "confidence": null
+        },
+        {
+          "time": 442.024,
+          "duration": 0.0,
+          "value": {
+            "label": "OUT",
+            "comment": "out:  final breakdown"
+          },
+          "confidence": null
+        }
+      ],
+      "sandbox": {},
+      "time": 0,
+      "duration": null
+    },
+    {
+      "annotation_metadata": {
+        "curator": {
+          "name": "",
+          "email": ""
+        },
+        "annotator": {
+          "name": "Paolo"
+        },
+        "version": "",
+        "corpus": "",
+        "annotation_tools": "",
+        "annotation_rules": "",
+        "validation": "",
+        "data_source": ""
+      },
+      "namespace": "cue_point",
+      "data": [
+        {
+          "time": 16.0,
+          "duration": 0.0,
+          "value": {
+            "label": "IN",
+            "comment": "in: voice"
+          },
+          "confidence": null
+        },
+        {
+          "time": 108.9,
+          "duration": 0.0,
+          "value": {
+            "label": "IN",
+            "comment": "in: full"
+          },
+          "confidence": null
+        },
+        {
+          "time": 116.7,
+          "duration": 0.0,
+          "value": {
+            "label": "IN",
+            "comment": "in: main"
+          },
+          "confidence": null
+        },
+        {
+          "time": 440.0,
+          "duration": 0.0,
+          "value": {
+            "label": "OUT",
+            "comment": "out"
+          },
+          "confidence": null
+        }
+      ],
+      "sandbox": {},
+      "time": 0,
+      "duration": null
+    }
+  ],
+  "file_metadata": {
+    "title": "Always There",
+    "artist": "Incognito",
+    "release": "1991",
+    "duration": 482.8212244897959,
+    "identifiers": {
+      "mirrors": [],
+      "isVinyl": true
+    },
+    "jams_version": "0.3.3"
+  },
+  "sandbox": {}
+}

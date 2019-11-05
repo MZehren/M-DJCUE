@@ -1,0 +1,227 @@
+{
+  "annotations": [
+    {
+      "annotation_metadata": {
+        "curator": {
+          "name": "",
+          "email": ""
+        },
+        "annotator": {
+          "name": "Paolo"
+        },
+        "version": "",
+        "corpus": "",
+        "annotation_tools": "",
+        "annotation_rules": "",
+        "validation": "",
+        "data_source": ""
+      },
+      "namespace": "cue_point",
+      "data": [
+        {
+          "time": 16.7,
+          "duration": 0.0,
+          "value": {
+            "label": "IN",
+            "comment": "in"
+          },
+          "confidence": null
+        },
+        {
+          "time": 16.7,
+          "duration": 437.1514285714286,
+          "value": {
+            "label": "OUT",
+            "comment": "out"
+          },
+          "confidence": null
+        },
+        {
+          "time": 47.7,
+          "duration": 0.0,
+          "value": {
+            "label": "IN",
+            "comment": "in"
+          },
+          "confidence": null
+        },
+        {
+          "time": 171.6,
+          "duration": 31.0,
+          "value": {
+            "label": "OUT",
+            "comment": "out"
+          },
+          "confidence": null
+        },
+        {
+          "time": 287.7,
+          "duration": 46.5,
+          "value": {
+            "label": "OUT",
+            "comment": "out"
+          },
+          "confidence": null
+        }
+      ],
+      "sandbox": {},
+      "time": 0,
+      "duration": null
+    },
+    {
+      "annotation_metadata": {
+        "curator": {
+          "name": "",
+          "email": ""
+        },
+        "annotator": {
+          "name": "Marco"
+        },
+        "version": "",
+        "corpus": "",
+        "annotation_tools": "",
+        "annotation_rules": "",
+        "validation": "",
+        "data_source": ""
+      },
+      "namespace": "cue_point",
+      "data": [
+        {
+          "time": 1.0,
+          "duration": 0.0,
+          "value": {
+            "label": "IN",
+            "comment": "in"
+          },
+          "confidence": null
+        },
+        {
+          "time": 47.7,
+          "duration": 0.0,
+          "value": {
+            "label": "IN",
+            "comment": "in, congas"
+          },
+          "confidence": null
+        },
+        {
+          "time": 326.4,
+          "duration": 7.761000000000024,
+          "value": {
+            "label": "OUT",
+            "comment": "out"
+          },
+          "confidence": null
+        }
+      ],
+      "sandbox": {},
+      "time": 0,
+      "duration": null
+    },
+    {
+      "annotation_metadata": {
+        "curator": {
+          "name": "",
+          "email": ""
+        },
+        "annotator": {
+          "name": "Mickael"
+        },
+        "version": "",
+        "corpus": "",
+        "annotation_tools": "",
+        "annotation_rules": "",
+        "validation": "",
+        "data_source": ""
+      },
+      "namespace": "cue_point",
+      "data": [
+        {
+          "time": 1.3,
+          "duration": 0.0,
+          "value": {
+            "label": "IN",
+            "comment": "in: kick"
+          },
+          "confidence": null
+        },
+        {
+          "time": 16.7,
+          "duration": 0.0,
+          "value": {
+            "label": "IN",
+            "comment": "in: drums"
+          },
+          "confidence": null
+        },
+        {
+          "time": 32.2,
+          "duration": 0.0,
+          "value": {
+            "label": "IN",
+            "comment": "in: snare"
+          },
+          "confidence": null
+        },
+        {
+          "time": 47.7,
+          "duration": 0.0,
+          "value": {
+            "label": "IN",
+            "comment": "in: ride"
+          },
+          "confidence": null
+        },
+        {
+          "time": 78.7,
+          "duration": 0.0,
+          "value": {
+            "label": "IN",
+            "comment": "in: maracas"
+          },
+          "confidence": null
+        },
+        {
+          "time": 403.9,
+          "duration": 7.7000000000000455,
+          "value": {
+            "label": "OUT",
+            "comment": "out: breakdown"
+          },
+          "confidence": null
+        },
+        {
+          "time": 434.8,
+          "duration": 0.0,
+          "value": {
+            "label": "OUT",
+            "comment": "out: outro"
+          },
+          "confidence": null
+        }
+      ],
+      "sandbox": {},
+      "time": 0,
+      "duration": null
+    }
+  ],
+  "file_metadata": {
+    "title": "Conga Drums",
+    "artist": "River Ocean ft India",
+    "release": "1994",
+    "duration": 453.8514285714286,
+    "identifiers": {
+      "mirrors": [
+        {
+          "type": "Youtube",
+          "url": "https://www.youtube.com/watch?v=L6iqksHMrSM",
+          "offset": -0.578,
+          "playbackSpeed": 0.999883
+        }
+      ],
+      "isVinyl": true
+    },
+    "jams_version": "0.3.3"
+  },
+  "sandbox": {}
+}
